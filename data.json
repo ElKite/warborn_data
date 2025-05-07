@@ -38,7 +38,7 @@
           "manaCost": "17",
           "cooldown": "11",
           "castingRange": "5",
-          "type": "Skill",
+          "type": "Common Skill",
           "description": "Performs 4 forward slashes, each dealing [Damage Rate: 60%] Physical Damage to players ([Damage Rate: 90%] Physical Damage to mobs). The final hit unleashes sword energy forward, dealing [Damage Rate: 150%] Physical Damage to all enemies hit.",
           "unlock": "Tier I"
         },
@@ -48,7 +48,7 @@
           "manaCost": "19",
           "cooldown": "14",
           "castingRange": "10",
-          "type": "Skill",
+          "type": "Common Skill",
           "description": "Leaps to the target location, dealing [Damage Rate: 200%] Physical Damage and inflicting 50% Slow for 3s to nearby enemies upon landing. Gains [Target-based Max HP 20%] Shield for 4s when hitting at least 1 enemy",
           "unlock": "Tier III"
         },
@@ -58,7 +58,7 @@
           "manaCost": "17",
           "cooldown": "11",
           "castingRange": "10",
-          "type": "Skill",
+          "type": "Common Skill",
           "description": "Hold to charge with control immunity and gain +20% Damage Resistance. While charging: Deals [Damage Rate: 150%] Physical Damage and Stuns enemies for 0.5s. After charging for 1.5s, deals [Damage Rate: 200%] Physical Damage, Stuns fpr 1.5s and creates a ground wave that deals [Damage Rate: 150%] Physical Damage and inflicts 40% Slow for 4s.",
           "unlock": "Tier V"
         },
@@ -68,7 +68,7 @@
           "manaCost": "19",
           "cooldown": "14",
           "castingRange": "6",
-          "type": "Skill",
+          "type": "Common Skill",
           "description": "Begins Blocking for 3s. While Blocking, reduces Movement Speed but gains control immunity and +70% Damage Resistance. Afterward, deals [Damage Rate: 320%] Physical Damage to nearby enemies and reduces their Armor by 20% for 4s. Block can be canceled early",
           "unlock": "Tier VII"
         },
@@ -78,7 +78,7 @@
           "manaCost": "24",
           "cooldown": "14",
           "castingRange": "6",
-          "type": "Skill",
+          "type": "Common Skill",
           "description": "Immediately removes all control effects, gains 1 stack of [Sword Momentum], increases Damage Resistance by 25%, and the Attack Speed of the next 3 Basic Attacks by 80% for 8s. Can be used while skills are disabled.",
           "unlock": "Tier VIII"
         },
@@ -200,7 +200,7 @@
           "manaCost": "14",
           "cooldown": "8.6",
           "castingRange": "3",
-          "type": "Skill",
+          "type": "Common Skill",
           "description": "Smashes the ground 4 times. The first three hits deal [Damage Rate: 120%] Physical Damage to players ([Damage Rate: 180%] Physical Damage to mobs). The final hit deals [Damage Rate: 200%] Physical Damage to players ([Damage Rate: 300%] Physical Damage to mobs) and Knocks Up for 0.5s.",
           "unlock": "Tier I"
         },
@@ -210,7 +210,7 @@
           "manaCost": "19",
           "cooldown": "14",
           "castingRange": "10",
-          "type": "Skill",
+          "type": "Common Skill",
           "description": "Leaps to the target location, dealing [Damage Rate: 200%] Physical Damage and inflicting Immobilize for 2.5s to enemies in the area.",
           "unlock": "Tier III"
         },
@@ -220,7 +220,7 @@
           "manaCost": "15",
           "cooldown": "9.6",
           "castingRange": "12",
-          "type": "Skill",
+          "type": "Common Skill",
           "description": "Creates a Guardian Field at the target location that increases allies' Max HP by 25% and grants Immunity to Forced Movement (Pull, Knockback) and Hard Control (Stun, Fear, Freeze, Knockup, Petrify, Sleep). Lasts 5s.",
           "unlock": "Tier V"
         },
@@ -230,7 +230,7 @@
           "manaCost": "14",
           "cooldown": "8.6",
           "castingRange": "4",
-          "type": "Skill",
+          "type": "Common Skill",
           "description": "Deals [Damage Rate: 200%] Magic Damage to enemies in range and creates a Field of Silence, lasting 4s. Enemies in the field are Slowed by 25% and Silenced. Once they leave the area, they become immune to the field's Silence for 6s.",
           "unlock": "Tier VII"
         },
@@ -240,7 +240,7 @@
           "manaCost": "20",
           "cooldown": "14",
           "castingRange": "9",
-          "type": "Skill",
+          "type": "Common Skill",
           "description": "Applies [Vengeful Thunder] to the caster or an allied target [Vengeful Thunder]: Increases Damage Resistance by 25% for 8s. When taking damage or dealing Basic Attack Damage, calls down lightning at the target location, dealing [Damage Rate: 51%] Physical Damage. (Cooldown: 0.8s)",
           "unlock": "Tier VIII"
         },
@@ -362,7 +362,7 @@
           "manaCost": "15",
           "cooldown": "1.5",
           "castingRange": "12",
-          "type": "Skill",
+          "type": "Common Skill",
           "description": "Places a trap at the target location that lasts 150s. When enemies enter its range, reveals Stealth for 2s and grants a [Target-based Max HP 15%] Shield for 4s. Creates a slowing field, reducing enemy Speed by 35%. After 2s, explodes to deal [Damage Rate: 180%] Physical Damage to players ([Damage Rate: 270%] Physical Damage to mobs). Gains 1 charge every 15s, up to 2 charges",
           "unlock": "Tier I"
         },
@@ -372,7 +372,7 @@
           "manaCost": "15",
           "cooldown": "1.5",
           "castingRange": "6",
-          "type": "Skill",
+          "type": "Common Skill",
           "description": "Steps 6m in the target direction. The next 4 Basic Attacks gain +80% Attack Speed and +25% damage for 6s. Loads 1 bullet. Gains 1 charge every 16s, up to 2 charges.",
           "unlock": "Tier III"
         },
@@ -382,7 +382,7 @@
           "manaCost": "20",
           "cooldown": "17",
           "castingRange": "10",
-          "type": "Skill",
+          "type": "Common Skill",
           "description": "Throws a powerful grenade at the target location, dealing [Damage Rate: 180%] Physical Damage and knocking enemies back 6m from the center. Reduces Attack Speed by 30% and Movement Speed by 40% for 4s. If within blast radius, the user is pushed back 6m",
           "unlock": "Tier V"
         },
@@ -392,7 +392,7 @@
           "manaCost": "19",
           "cooldown": "14",
           "castingRange": "14",
-          "type": "Skill",
+          "type": "Common Skill",
           "description": "Throws a flash grenade to the target location, dealing [Damage Rate: 200%] Physical Damage to enemies in range, revealing Stealth, and giving Basic Attacks a 45% chance to miss for 6s. EN",
           "unlock": "Tier VII"
         },
@@ -402,7 +402,7 @@
           "manaCost": "18",
           "cooldown": "4.8",
           "castingRange": "6",
-          "type": "Skill",
+          "type": "Common Skill",
           "description": "Enters Aim mode. Increases Basic Attack Damage by 40% and range by 6m. Reduces Movement Speed by 65%. Use again to exit Aim mode",
           "unlock": "Tier VIII"
         },
