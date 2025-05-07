@@ -111,7 +111,7 @@
             "castingRange": "14",
             "type": "Skill",
             "description": "Throws two axes forward, each dealing [Damage Rate: 120%] Physical Damage to enemies hit. The axes return automatically, dealing [Damage Rate: 120%] Physical Damage to enemies hit. The first enemy hit by each returning axe restores [Healing Rate: 120%] HP Preview mode only allows viewing skill details",
-            "unlock": "Unknown"
+            "unlock": "Tier_II"
           },
           {
             "gameId": "Axe_Slayer",
@@ -264,7 +264,7 @@
           "castingRange": "0",
           "type": "Passive",
           "description": "X Aura and Blade Passive [Momentum]: Gains 1 stack of [Momentum] every second while in combat and 2 stacks when dealing damage with Basic Attacks, 4 stacks on Critical Hit, 1 stack when taking Basic Attack Damage, and 2 stacks when taking Skill Damage. At 10 [Momentum] stacks, increases Sword Momentum by 1 level. Momentum lasts 20s. [Sword Momentum]: Each level grants +3% Damage, +4% Attack Speed, and +4% Damage Resistance. Lasts 10s. Grants up to 6 stacks, decaying over time.",
-          "unlock": "Unknown"
+          "unlock": "TIER_0"
         },
         {
           "gameId": "Sword_Claymore",
@@ -426,7 +426,7 @@
           "castingRange": "0",
           "type": "Passive",
           "description": "Guardian Passive Using a weapon skill increases Damage Resistance by 30% and Control Resistance by 35 for 6s.",
-          "unlock": "Unknown"
+          "unlock": "TIER_0"
         },
         {
           "gameId": "Mace_Common_Skill_5",
@@ -588,7 +588,7 @@
           "castingRange": "0",
           "type": "Passive",
           "description": "Gun holds up to 6 bullets. While not using skills: If at 0 bullets, reload instantly. Otherwise, reload 4s after skill use. Each bullet increases reload time by 0.5s. Cannot interrupt reload",
-          "unlock": "Unknown"
+          "unlock": "TIER_0"
         },
         {
           "gameId": "Gun_GatlinGun",
@@ -662,7 +662,7 @@
           "castingRange": "0",
           "type": "Passive",
           "description": "When dealing direct damage with Basic Attacks, increases Physical Damage by 20% for 12s. Trigger Interval: 30s Passive Skill",
-          "unlock": "Tier_I"
+          "unlock": "TIER_0"
         },
         {
           "gameId": "Helm_Str_4",
