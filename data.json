@@ -1,0 +1,715 @@
+{
+  "data": {
+    "weapon": {
+      "sword": [
+        {
+          "gameId": "SwordAttack_1",
+          "skillName": "Sword Slash",
+          "manaCost": "6",
+          "cooldown": "1.3",
+          "castingRange": "7",
+          "type": "Basic Attack",
+          "description": "[Basic Attack]:Deals [Damage Rate: 130%] Physical Damage to enemy target. Can cast [Sword Slash] every 6s. Charges toward an enemy target to deal [Damage Rate: 180%] Physical Damage and inflict 40% Slow for 2s.",
+          "unlock": "Tier II"
+        },
+        {
+          "gameId": "SwordAttack_2",
+          "skillName": "Sword Cleave",
+          "manaCost": "6",
+          "cooldown": "1.3",
+          "castingRange": "3.5",
+          "type": "Basic Attack",
+          "description": "[Basic Attack]:Deals [Damage Rate: 130%] Physical Damage to enemy target. Can cast [Sword Cleave] every 5. Deals [Damage Rate: 220%] Physical Damage to surrounding enemies. Grants [Target-based Max HP 4%] Shield for each enemy hit, lasting 4s. Stacks up to 5 times.",
+          "unlock": "Tier IV"
+        },
+        {
+          "gameId": "SwordAttack_3",
+          "skillName": "Sword Energy",
+          "manaCost": "6",
+          "cooldown": "1.3",
+          "castingRange": "20",
+          "type": "Basic Attack",
+          "description": "[Basic Attack]:Deals [Damage Rate: 130%] Physical Damage to enemy target. Can cast [Sword Energy] every 6s. Unleashes sword energy forward, dealing [Damage Rate: 140%] Physical Damage to enemies hit. Increases Movement Speed by 25% for 2s if at least 1 enemy is hit.",
+          "unlock": "Tier VI"
+        },
+        {
+          "gameId": "Sword_Common_Skill_1",
+          "skillName": "Vacuum Slash",
+          "manaCost": "17",
+          "cooldown": "11",
+          "castingRange": "5",
+          "type": "Skill",
+          "description": "Performs 4 forward slashes, each dealing [Damage Rate: 60%] Physical Damage to players ([Damage Rate: 90%] Physical Damage to mobs). The final hit unleashes sword energy forward, dealing [Damage Rate: 150%] Physical Damage to all enemies hit.",
+          "unlock": "Tier I"
+        },
+        {
+          "gameId": "Sword_Common_Skill_3",
+          "skillName": "Crippling Strike",
+          "manaCost": "19",
+          "cooldown": "14",
+          "castingRange": "10",
+          "type": "Skill",
+          "description": "Leaps to the target location, dealing [Damage Rate: 200%] Physical Damage and inflicting 50% Slow for 3s to nearby enemies upon landing. Gains [Target-based Max HP 20%] Shield for 4s when hitting at least 1 enemy",
+          "unlock": "Tier III"
+        },
+        {
+          "gameId": "Sword_Common_Skill_4",
+          "skillName": "Power Slash",
+          "manaCost": "17",
+          "cooldown": "11",
+          "castingRange": "10",
+          "type": "Skill",
+          "description": "Hold to charge with control immunity and gain +20% Damage Resistance. While charging: Deals [Damage Rate: 150%] Physical Damage and Stuns enemies for 0.5s. After charging for 1.5s, deals [Damage Rate: 200%] Physical Damage, Stuns fpr 1.5s and creates a ground wave that deals [Damage Rate: 150%] Physical Damage and inflicts 40% Slow for 4s.",
+          "unlock": "Tier V"
+        },
+        {
+          "gameId": "Sword_Common_Skill_5",
+          "skillName": "Defensive Slash",
+          "manaCost": "19",
+          "cooldown": "14",
+          "castingRange": "6",
+          "type": "Skill",
+          "description": "Begins Blocking for 3s. While Blocking, reduces Movement Speed but gains control immunity and +70% Damage Resistance. Afterward, deals [Damage Rate: 320%] Physical Damage to nearby enemies and reduces their Armor by 20% for 4s. Block can be canceled early",
+          "unlock": "Tier VII"
+        },
+        {
+          "gameId": "Sword_Common_Skill_2",
+          "skillName": "Heart of Steel",
+          "manaCost": "24",
+          "cooldown": "14",
+          "castingRange": "6",
+          "type": "Skill",
+          "description": "Immediately removes all control effects, gains 1 stack of [Sword Momentum], increases Damage Resistance by 25%, and the Attack Speed of the next 3 Basic Attacks by 80% for 8s. Can be used while skills are disabled.",
+          "unlock": "Tier VIII"
+        },
+        {
+          "gameId": "Sword_ZeroSlash",
+          "skillName": "Tempest Slash",
+          "manaCost": "21",
+          "cooldown": "19",
+          "castingRange": "10",
+          "type": "Skill",
+          "description": "Spins toward the target location, dealing [Damage Rate: 75%] Physical Damage to all players ([Damage Rate: 150%] Physical Damage to mobs) hit. At 3+ Sword Momentum stacks, creates a tornado on arrival, dealing [Damage Rate: 50%] Physical Damage every 1s for 5s.",
+          "unlock": "Tier II"
+        },
+        {
+          "gameId": "Sword_Passive",
+          "skillName": "Aura and Blade",
+          "manaCost": "0",
+          "cooldown": "0",
+          "castingRange": "0",
+          "type": "Passive",
+          "description": "X Aura and Blade Passive [Momentum]: Gains 1 stack of [Momentum] every second while in combat and 2 stacks when dealing damage with Basic Attacks, 4 stacks on Critical Hit, 1 stack when taking Basic Attack Damage, and 2 stacks when taking Skill Damage. At 10 [Momentum] stacks, increases Sword Momentum by 1 level. Momentum lasts 20s. [Sword Momentum]: Each level grants +3% Damage, +4% Attack Speed, and +4% Damage Resistance. Lasts 10s. Grants up to 6 stacks, decaying over time.",
+          "unlock": "Unknown"
+        },
+        {
+          "gameId": "Sword_Claymore",
+          "skillName": "Overload Slash",
+          "manaCost": "21",
+          "cooldown": "19",
+          "castingRange": "12",
+          "type": "Skill",
+          "description": "Briefly charges up and then rushes at the target enemy, inflicting [Heal Block] for 3s and dealing Physical Damage based on [Sword Momentum] stacks. [Sword Momentum] stacks: 0 | 1 | 2 | 3-6 Physical Damage: [Damage Rate: 210%] | [Damage Rate: 240%] | [Damage Rate: 270%] | [Damage Rate: 300%] At 3+ stacks, creates an explosion dealing [Damage Rate: 150%] Physical Damage and Stunning for 1s. [Heal Block]: Cannot receive healing.",
+          "unlock": "Tier II"
+        },
+        {
+          "gameId": "Sword_Clarent",
+          "skillName": "Force Pierce",
+          "manaCost": "23",
+          "cooldown": "19",
+          "castingRange": "20",
+          "type": "Skill",
+          "description": "Unleashes a powerful sword energy toward the target direction, dealing [Damage Rate: 300%] Magic Damage to enemies hit. Additional effects based on [Sword Momentum] stacks: 1 stack: 30% Slow for 2s. 2 stacks: 30% Slow for 2s and Silence for 1s. 3-6 stacks: 30% Slow for 4s and Silence for 2s. At 3+ stacks, unleashes 2 extra Sword Energy. Additional Sword Energy deals 30% reduced damage.",
+          "unlock": "Tier II"
+        },
+        {
+          "gameId": "Sword_KingSlash",
+          "skillName": "Sovereign Strike",
+          "manaCost": "23",
+          "cooldown": "19",
+          "castingRange": "7",
+          "type": "Skill",
+          "description": "Knocks enemies back 8m and deals [Damage Rate: 450%] Physical Damage. Reduces Damage dealt based on [Sword Momentum] stacks for 4s. Sword Momentum] Stacks: 0 | 1 | 2 | 3-6 Reduction to damage dealt: 20% | 26% | 32% | 38% At 3+ stacks, Knockback increased to 12m and Stuns for 1.5s on collision.",
+          "unlock": "Tier II"
+        },
+        {
+          "gameId": "Sword_Knight",
+          "skillName": "Titan's Stride",
+          "manaCost": "32",
+          "cooldown": "24",
+          "castingRange": "6",
+          "type": "Skill",
+          "description": "Gains immunity to Forced Movement (Pull, Knockback). Attack range and Max HP increase based on [Sword Momentum] stacks for 10s (Cannot be dispelled) Can use [Titan's Stride] to deal [Damage Rate: 150%] Physical Damage and Knockup enemies for 0.5s. [Sword Momentum] Stacks: 0 | 1 | 2 | 3-6 Basic Attack range: 1.5 | 2 | 2.5 | 3 Max HP: 30% |45% | 60% | 75% At 3+ stacks, creates a titan aura that Slows enemies by 30% and reduces Attack Speed by 30%.",
+          "unlock": "Tier II"
+        },
+        {
+          "gameId": "Sword_Carving",
+          "skillName": "Obliteration",
+          "manaCost": "28",
+          "cooldown": "24",
+          "castingRange": "16",
+          "type": "Skill",
+          "description": "Dashes forward, dealing [Damage Rate: 300%] Physical Damage to all enemies hit. Reduces Damage Resistance based on [Sword Momentum] stacks for 6s. [Sword Momentum] stacks: 0 | 1 | 2 | 3-6 Damage Resistance reduction: 15% | 24% | 32% | 40% At 3+ stacks, Pulls enemies to the center on arrival and slashes multiple times over 1.8s, dealing [Damage Rate: 40%] Physical Damage every 0.3s.",
+          "unlock": "Tier II"
+        },
+        {
+          "gameId": "Sword_ThousandBlade",
+          "skillName": "Thousandfold Strike",
+          "manaCost": "28",
+          "cooldown": "19",
+          "castingRange": "12",
+          "type": "Skill",
+          "description": "Leaps to the target location, creating countless blades. Physical Damage scales with [Sword Momentum] stacks. [Sword Momentum] Stacks: 0 | 1 | 2 | 3-6 Physical Damage: [Damage Rate: 280%] | [Damage Rate: 320%] | [Damage Rate: 360%] | [Damage Rate: 400%] At 3+ stacks, creates two sets of blades forming outward, each dealing [Damage Rate: 200%] Physical Damage and inflicting 1s Knockup.",
+          "unlock": "Tier II"
+        }
+      ],
+      "mace": [
+        {
+          "gameId": "MaceAttack_2",
+          "skillName": "Swing",
+          "manaCost": "5",
+          "cooldown": "1.2",
+          "castingRange": "5",
+          "type": "Basic Attack",
+          "description": "[Basic Attack]:Deals [Damage Rate: 120%] Physical Damage to enemy target. Can cast [Swing] every 4s. Deals [Damage Rate: 240%] Physical Damage to all players ([Damage Rate: 480%] Physical Damage to mobs) in a frontal cone",
+          "unlock": "Tier II"
+        },
+        {
+          "gameId": "MaceAttack_1",
+          "skillName": "Smash",
+          "manaCost": "7",
+          "cooldown": "1.2",
+          "castingRange": "3.5",
+          "type": "Basic Attack",
+          "description": "[Basic Attack]:Deals [Damage Rate: 120%] Physical Damage to enemy target. Can cast [Smash] every 7s. Deals [Damage Rate: 150%] Physical Damage to enemies in range and restores [Healing Rate: 75%] HP to up to 5 nearby allies. Increases Damage Resistance by 15% for 6s.",
+          "unlock": "Tier IV"
+        },
+        {
+          "gameId": "MaceAttack_3",
+          "skillName": "Crushing Smash",
+          "manaCost": "6",
+          "cooldown": "1.2",
+          "castingRange": "7",
+          "type": "Basic Attack",
+          "description": "Basic Attack]:Deals [Damage Rate: 120%] Physical Damage to enemy target. Can cast [Crushing Smash] every 6s. Charges toward target, dealing [Damage Rate: 160%] Physical Damage to enemies in range and inflicting Slow 35% for 3s",
+          "unlock": "Tier VI"
+        },
+        {
+          "gameId": "Mace_Common_Skill_6",
+          "skillName": "Frenzied Smash",
+          "manaCost": "14",
+          "cooldown": "8.6",
+          "castingRange": "3",
+          "type": "Skill",
+          "description": "Smashes the ground 4 times. The first three hits deal [Damage Rate: 120%] Physical Damage to players ([Damage Rate: 180%] Physical Damage to mobs). The final hit deals [Damage Rate: 200%] Physical Damage to players ([Damage Rate: 300%] Physical Damage to mobs) and Knocks Up for 0.5s.",
+          "unlock": "Tier I"
+        },
+        {
+          "gameId": "Mace_Common_Skill_3",
+          "skillName": "Binding Smash",
+          "manaCost": "19",
+          "cooldown": "14",
+          "castingRange": "10",
+          "type": "Skill",
+          "description": "Leaps to the target location, dealing [Damage Rate: 200%] Physical Damage and inflicting Immobilize for 2.5s to enemies in the area.",
+          "unlock": "Tier III"
+        },
+        {
+          "gameId": "Mace_Common_Skill_1",
+          "skillName": "Guardian Field",
+          "manaCost": "15",
+          "cooldown": "9.6",
+          "castingRange": "12",
+          "type": "Skill",
+          "description": "Creates a Guardian Field at the target location that increases allies' Max HP by 25% and grants Immunity to Forced Movement (Pull, Knockback) and Hard Control (Stun, Fear, Freeze, Knockup, Petrify, Sleep). Lasts 5s.",
+          "unlock": "Tier V"
+        },
+        {
+          "gameId": "Mace_Common_Skill_2",
+          "skillName": "Field of Silence",
+          "manaCost": "14",
+          "cooldown": "8.6",
+          "castingRange": "4",
+          "type": "Skill",
+          "description": "Deals [Damage Rate: 200%] Magic Damage to enemies in range and creates a Field of Silence, lasting 4s. Enemies in the field are Slowed by 25% and Silenced. Once they leave the area, they become immune to the field's Silence for 6s.",
+          "unlock": "Tier VII"
+        },
+        {
+          "gameId": "Mace_Common_Skill_4",
+          "skillName": "Vengeful Thunder",
+          "manaCost": "20",
+          "cooldown": "14",
+          "castingRange": "9",
+          "type": "Skill",
+          "description": "Applies [Vengeful Thunder] to the caster or an allied target [Vengeful Thunder]: Increases Damage Resistance by 25% for 8s. When taking damage or dealing Basic Attack Damage, calls down lightning at the target location, dealing [Damage Rate: 51%] Physical Damage. (Cooldown: 0.8s)",
+          "unlock": "Tier VIII"
+        },
+        {
+          "gameId": "Mace_1HandMace",
+          "skillName": "Unyielding Smash",
+          "manaCost": "21",
+          "cooldown": "19",
+          "castingRange": "10",
+          "type": "Skill",
+          "description": "Leaps to the target location, dealing [Damage Rate: 250%] Physical Damage to all players ([Damage Rate: 375%] Physical Damage to mobs) in range. Grants [Target-based Max HP 6%] Shield for each enemy hit, lasting 6s. Stacks up to 5 times.",
+          "unlock": "Tier II"
+        },
+        {
+          "gameId": "Mace_Passive",
+          "skillName": "Guardian",
+          "manaCost": "0",
+          "cooldown": "0",
+          "castingRange": "0",
+          "type": "Passive",
+          "description": "Guardian Passive Using a weapon skill increases Damage Resistance by 30% and Control Resistance by 35 for 6s.",
+          "unlock": "Unknown"
+        },
+        {
+          "gameId": "Mace_Common_Skill_5",
+          "skillName": "Pulverizing Slam",
+          "manaCost": "25",
+          "cooldown": "24",
+          "castingRange": "4",
+          "type": "Skill",
+          "description": "Hold to charge up to 3s. Damage area grows with charge time, reaching max size at 2s. Cannot be interrupted while charging Deals [Damage Rate: 80%] Physical Damage to enemies in range every 0.5s during charge. When released at max charge, Pulls enemies to the caster, deals [Damage Rate: 250%] Physical Damage and applies Slow 40% for 3s. At lower Charge stacks, only deals damage and slows.",
+          "unlock": "Tier II"
+        },
+        {
+          "gameId": "Mace_DualMace",
+          "skillName": "Void Slam",
+          "manaCost": "23",
+          "cooldown": "24",
+          "castingRange": "6",
+          "type": "Skill",
+          "description": "Slams the ground to deal [Damage Rate: 300%] Magic Damage to nearby enemies, dispel 2 buffs, reduce their damage dealt by 50% for 9s, and inflict Silence for 3s.",
+          "unlock": "Tier II"
+        },
+        {
+          "gameId": "Mace_Hook",
+          "skillName": "Grappling Strike",
+          "manaCost": "20",
+          "cooldown": "17",
+          "castingRange": "18",
+          "type": "Skill",
+          "description": "Launches a mechanical hook forward. The first enemy hit is Stunned (ignores Control Resistance) for 1.5s, takes [Damage Rate: 300%] Physical Damage, and is Pulled to the caster.",
+          "unlock": "Tier II"
+        },
+        {
+          "gameId": "Mace_ShieldMace_2",
+          "skillName": "Shield Slam",
+          "manaCost": "25",
+          "cooldown": "19",
+          "castingRange": "3",
+          "type": "Skill",
+          "description": "Raises shield for 20s, gaining control immunity, +50% Damage Resistance, and an increased hit area. Can reactivate to deal [Damage Rate: 300%] Physical Damage and inflict 50% Slow for 3s. Shield breaks after taking [Target-based Max HP 30%] damage, ending this enhanced state.",
+          "unlock": "Tier II"
+        },
+        {
+          "gameId": "Mace_CamlannMace",
+          "skillName": "Void Devour",
+          "manaCost": "28",
+          "cooldown": "28",
+          "castingRange": "20",
+          "type": "Skill",
+          "description": "Fires two heavy rounds that create a gravity vortex where they meet. Enemies in the vortex are Slowed by 25% Deals [Damage Rate: 300%] Magic Damage to enemies in the vortex after 1.5s, pulling them to the center and Stunning for 1s",
+          "unlock": "Tier II"
+        },
+        {
+          "gameId": "Mace_ThunderMace",
+          "skillName": "Thunderclap Impact",
+          "manaCost": "30",
+          "cooldown": "24",
+          "castingRange": "12",
+          "type": "Skill",
+          "description": "Leaps to the target location, dealing [Damage Rate: 200%] Physical Damage and inflicting 1.5s Knockup on enemies Creates a thunderstorm field that lasts 6s. Enemies within 7m have their Damage Resistance reduced by 15% and take [Damage Rate: 70%] Physical Damage every second. hit",
+          "unlock": "Tier II"
+        }
+      ],
+      "gun": [
+        {
+          "gameId": "GunAttack_1",
+          "skillName": "Headshot",
+          "manaCost": "5",
+          "cooldown": "1.2",
+          "castingRange": "22",
+          "type": "Basic Attack",
+          "description": "[Basic Attack]:Deals [Damage Rate: 60%] Physical Damage to the target. Every 4th Basic Attack becomes [Headshot]. Deals [Damage Rate: 100%] Physical Damage and always crits",
+          "unlock": "Tier II"
+        },
+        {
+          "gameId": "GunAttack_2",
+          "skillName": "Ricochet",
+          "manaCost": "5",
+          "cooldown": "1.2",
+          "castingRange": "22",
+          "type": "Basic Attack",
+          "description": "[Basic Attack]:Deals [Damage Rate: 60%] Physical Damage to the target. Can cast [Ricochet] every 6s. Deals [Damage Rate: 130%] Physical Damage and applies 30% Slow for 4s. Bounces to 1 enemy behind the target up to 4 times",
+          "unlock": "Tier IV"
+        },
+        {
+          "gameId": "GunAttack_3",
+          "skillName": "Armor Break",
+          "manaCost": "7",
+          "cooldown": "1.2",
+          "castingRange": "22",
+          "type": "Basic Attack",
+          "description": "[Basic Attack]:Deals [Damage Rate: 60%] Physical Damage to the target. Can cast [Armor Break] every 7s. Deals [Damage Rate: 120%] Physical Damage and reduces Armor by 10% for 4s to all enemies hit",
+          "unlock": "Tier VI"
+        },
+        {
+          "gameId": "Gun_Common_Skill_1",
+          "skillName": "Trap",
+          "manaCost": "15",
+          "cooldown": "1.5",
+          "castingRange": "12",
+          "type": "Skill",
+          "description": "Places a trap at the target location that lasts 150s. When enemies enter its range, reveals Stealth for 2s and grants a [Target-based Max HP 15%] Shield for 4s. Creates a slowing field, reducing enemy Speed by 35%. After 2s, explodes to deal [Damage Rate: 180%] Physical Damage to players ([Damage Rate: 270%] Physical Damage to mobs). Gains 1 charge every 15s, up to 2 charges",
+          "unlock": "Tier I"
+        },
+        {
+          "gameId": "Gun_Common_Skill_6",
+          "skillName": "Quick Load",
+          "manaCost": "15",
+          "cooldown": "1.5",
+          "castingRange": "6",
+          "type": "Skill",
+          "description": "Steps 6m in the target direction. The next 4 Basic Attacks gain +80% Attack Speed and +25% damage for 6s. Loads 1 bullet. Gains 1 charge every 16s, up to 2 charges.",
+          "unlock": "Tier III"
+        },
+        {
+          "gameId": "Gun_Common_Skill_4",
+          "skillName": "Concussion Grenade",
+          "manaCost": "20",
+          "cooldown": "17",
+          "castingRange": "10",
+          "type": "Skill",
+          "description": "Throws a powerful grenade at the target location, dealing [Damage Rate: 180%] Physical Damage and knocking enemies back 6m from the center. Reduces Attack Speed by 30% and Movement Speed by 40% for 4s. If within blast radius, the user is pushed back 6m",
+          "unlock": "Tier V"
+        },
+        {
+          "gameId": "Gun_Flashbang",
+          "skillName": "Blinding Flash",
+          "manaCost": "19",
+          "cooldown": "14",
+          "castingRange": "14",
+          "type": "Skill",
+          "description": "Throws a flash grenade to the target location, dealing [Damage Rate: 200%] Physical Damage to enemies in range, revealing Stealth, and giving Basic Attacks a 45% chance to miss for 6s. EN",
+          "unlock": "Tier VII"
+        },
+        {
+          "gameId": "Gun_Common_Skill_3",
+          "skillName": "Aim",
+          "manaCost": "18",
+          "cooldown": "4.8",
+          "castingRange": "6",
+          "type": "Skill",
+          "description": "Enters Aim mode. Increases Basic Attack Damage by 40% and range by 6m. Reduces Movement Speed by 65%. Use again to exit Aim mode",
+          "unlock": "Tier VIII"
+        },
+        {
+          "gameId": "Gun_ShotGun",
+          "skillName": "Scatterblast",
+          "manaCost": "11",
+          "cooldown": "1.5",
+          "castingRange": "16",
+          "type": "Skill",
+          "description": "Consumes 2 bullets to fire two shotgun blasts forward, dealing [Damage Rate: 110%] Physical Damage to players ([Damage Rate: 220%] Physical Damage to mobs) in range Gains 1 charge every 12s, up to 3 charges",
+          "unlock": "Tier II"
+        },
+        {
+          "gameId": "Gun_BulletCharge",
+          "skillName": "Reload",
+          "manaCost": "0",
+          "cooldown": "0",
+          "castingRange": "0",
+          "type": "Passive",
+          "description": "Gun holds up to 6 bullets. While not using skills: If at 0 bullets, reload instantly. Otherwise, reload 4s after skill use. Each bullet increases reload time by 0.5s. Cannot interrupt reload",
+          "unlock": "Unknown"
+        },
+        {
+          "gameId": "Gun_GatlinGun",
+          "skillName": "Sentinel Barrage",
+          "manaCost": "30",
+          "cooldown": "24",
+          "castingRange": "20",
+          "type": "Skill",
+          "description": "Begins channeling for 6s after a 1-second cast. Consumes 1 bullet per second, stopping at 0 bullets. Gains [Target-based Max HP 20%] Shield while channeling. Can turn slowly (requires 1+ bullets) Fires a hail of bullets every 0.25s at enemies in a frontal cone, dealing [Damage Rate: 50%] Physical Damage. Damage reduced to as low as 70% on targets the further away they are. Cannot be interrupted Sentinel Barrage Skill 30 24s 1s 20 m",
+          "unlock": "Tier II"
+        },
+        {
+          "gameId": "Gun_ThreeGun",
+          "skillName": "Rapid Fire",
+          "manaCost": "28",
+          "cooldown": "24",
+          "castingRange": "0.83",
+          "type": "Skill",
+          "description": "Lock onto an enemy and channel for 3s. Consume 1 bullet every 0.5 while firing. Each bullet deals [Damage Rate: 120%] Physical Damage and reduces Armor by 10% for 4s, stacking up to 3 times. Basic attack critical hits can cause the damage to crit. Ends when out of bullets. Skill 28 24s 0.83s 22 m",
+          "unlock": "Tier II"
+        },
+        {
+          "gameId": "Gun_Grenade",
+          "skillName": "Toxic Shroud",
+          "manaCost": "13",
+          "cooldown": "4",
+          "castingRange": "16",
+          "type": "Skill",
+          "description": "Uses 3 bullets to fire 2 Toxic Shroud grenades at the target location. Upon landing, creates 2 Toxic Mist fields, lasting 4s. Each field deals [Damage Rate: 40%] Magic Damage every second to enemies in range and reduces Healing Received by 25% for 6s. Gains 1 charge every 12 seconds, up to 3 charges",
+          "unlock": "Tier II"
+        },
+        {
+          "gameId": "Gun_Common_Skill_5",
+          "skillName": "Snipe",
+          "manaCost": "11",
+          "cooldown": "1.5",
+          "castingRange": "14",
+          "type": "Skill",
+          "description": "Consumes 1 bullet to fire a sniper round in the target direction. The first enemy hit takes [Damage Rate: 100%] Physical Damage. The skill can be charged. After charging for 3s, the sniper round penetrates enemies along its path, dealing Damage Rate: 130%] Physical Damage. Damage increases by 5% per enemy hit, up to 50%. Damage is boosted by Basic Attack Damage and can crit based on Basic Attack Crit Rate, dealing 150% Critical Damage on a crit. Bullet range increases with charge time. Gains 1 charge every 12s, up to 6 charges.",
+          "unlock": "Tier II"
+        },
+        {
+          "gameId": "Gun_RifleGun",
+          "skillName": "Deadshot",
+          "manaCost": "24",
+          "cooldown": "9.6",
+          "castingRange": "30",
+          "type": "Basic Attack",
+          "description": "Enter Deadshot mode. Cannot Move but can be canceled at any time Basic Attack replacement: Use 1 Bullet, shooting towards the target direction. The Bullet deals [Damage Rate: 150%] Physical Damage to enemy targets along its path. Damage increases by 6% for each enemy hit, up to a maximum of 60%. Critical Hits deal 150% Critical Damage.",
+          "unlock": "Tier II"
+        },
+        {
+          "gameId": "Gun_PrismGun",
+          "skillName": "Photon Activation",
+          "manaCost": "22",
+          "cooldown": "24",
+          "castingRange": "6",
+          "type": "Skill",
+          "description": "Activates Photon Activation for 20s. Immune to Slow and Immobilize. Gains [Prism Beam] and [Prism Camo] -[Photon Beam] -- Deals [Damage Rate: 120%] Physical Damage and drains 5 MP from enemies before the shooter. Gains +20% Movement Speed for 1s. After 3 beams, the next Basic Attack becomes an Enhanced Prism Beam: Deals [Damage Rate: 120%] Physical Damage and drains 5 MP from enemies. Gains +20% Movement Speed for 1s. -[Photon Camouflage] -- Removes all control effects. Gain Stealth and +30% Movement Speed for 2s. Can be used while skills are disabled",
+          "unlock": "Tier II"
+        }
+      ]
+    },
+    "armor": {
+      "head_strength": [
+        {
+          "gameId": "Helm_Str_5",
+          "skillName": "Enrage",
+          "manaCost": "0",
+          "cooldown": "30",
+          "castingRange": "0",
+          "type": "Passive",
+          "description": "When dealing direct damage with Basic Attacks, increases Physical Damage by 20% for 12s. Trigger Interval: 30s Passive Skill",
+          "unlock": "Tier I"
+        },
+        {
+          "gameId": "Helm_Str_4",
+          "skillName": "Iron Wall",
+          "manaCost": "0",
+          "cooldown": "60",
+          "castingRange": "0",
+          "type": "Passive",
+          "description": "When taking damage at below 30% HP, increases Damage Resistance by 50% for 6s. Trigger Interval: 60s",
+          "unlock": "Tier I"
+        },
+        {
+          "gameId": "Helm_Str_3",
+          "skillName": "Flame Star",
+          "manaCost": "0",
+          "cooldown": "30",
+          "castingRange": "0",
+          "type": "Passive",
+          "description": "When dealing direct Basic Attack Damage, creates a Flame Star around the caster, lasting 6s. Reduces enemies' Magic Resistance by 50% (Magic Resistance Reduction), and deals [Damage Rate: 50%] Magic Damage every 1s. Trigger Interval: 30s Passive Debuff Skill",
+          "unlock": "Tier I"
+        },
+        {
+          "gameId": "Helm_Str_1",
+          "skillName": "Scale Armor",
+          "manaCost": "0",
+          "cooldown": "30",
+          "castingRange": "0",
+          "type": "Passive",
+          "description": "When affected by hard control effects (Stun, Fear, Deep Freeze, Knockup, Petrify): Gains a [Target-based Max HP 25%] shield for 6s. Trigger Interval: 30s Skill",
+          "unlock": "Tier I"
+        },
+        {
+          "gameId": "Helm_Str_6",
+          "skillName": "EMP Blast",
+          "manaCost": "0",
+          "cooldown": "30",
+          "castingRange": "0",
+          "type": "Passive",
+          "description": "When dealing direct Basic Attack Damage, triggers an EMP blast at current position. After 1s, deals [Damage Rate: 250%] Physical Damage to enemies within 6m, Stuns them for 1s and reduces their damage dealt by 20% for 6s Trigger Interval: 30s Debuff Hard Control Passive Skill",
+          "unlock": "Tier I"
+        },
+        {
+          "gameId": "Helm_Str_7",
+          "skillName": "Sandstorm",
+          "manaCost": "0",
+          "cooldown": "30",
+          "castingRange": "0",
+          "type": "Passive",
+          "description": "When dealing direct Basic Attack Damage, creates a sandstorm around the caster, lasting 6s. Enemies within 6m are slowed by 40% and disarmed. Trigger Interval: 30s Passive Skill Disarmed",
+          "unlock": "Tier I"
+        },
+        {
+          "gameId": "Helm_Str_8",
+          "skillName": "Forward Guard",
+          "manaCost": "0",
+          "cooldown": "30",
+          "castingRange": "0",
+          "type": "Passive",
+          "description": "When affected by Immobilize or Forced Movement (Knockback, Pull): Immediately removes all Immobilize, Slow and Forced Movement effects, and increases Damage Resistance by 25%, grants immunity to Slow, Immobilize, and Forced Movement for 8s. Trigger Interval: 30s. Passive Skill",
+          "unlock": "Tier I"
+        }
+      ],
+      "chest_strength": [
+        {
+          "gameId": "Cloth_Str_4",
+          "skillName": "Block",
+          "manaCost": "0",
+          "cooldown": "32",
+          "castingRange": "6 ",
+          "type": "Skill",
+          "description": "Channels for 2.5s, increasing Damage Resistance by 90%. Can move during channeling but Speed is reduced by -90%",
+          "unlock": "Tier I"
+        },
+        {
+          "gameId": "Cloth_Str_1",
+          "skillName": "Shield",
+          "manaCost": "0",
+          "cooldown": "32",
+          "castingRange": "7 ",
+          "type": "Skill",
+          "description": "> Grants a shield with [Target-based Max HP 20%] Shield Value to nearby allies for 6s. When HP is below 40%, the Shield Value increases to [Target-based Max HP 35%].",
+          "unlock": "Tier I"
+        },
+        {
+          "gameId": "Cloth_Str_2",
+          "skillName": "Stun",
+          "manaCost": "0",
+          "cooldown": "28",
+          "castingRange": "7 ",
+          "type": "Skill",
+          "description": "Deals [Damage Rate: 300%] Physical Damage to nearby enemies, stunning them for 1.5s and reducing their Speed by 40% for 4s.",
+          "unlock": "Tier I"
+        },
+        {
+          "gameId": "Cloth_Str_6",
+          "skillName": "Charge",
+          "manaCost": "0",
+          "cooldown": "32",
+          "castingRange": "7 ",
+          "type": "Skill",
+          "description": "Sounds a war horn, lasting 5s. Allies within 7m gain 30% Damage Resistance, 50 Control Resistance, and immunity to Forced Movement effects (Knockback, Pull).",
+          "unlock": "Tier I"
+        },
+        {
+          "gameId": "Cloth_Str_8",
+          "skillName": "Root Grip",
+          "manaCost": "0",
+          "cooldown": "32",
+          "castingRange": "16 ",
+          "type": "Skill",
+          "description": "Shoots a grappling rope that deals [Damage Rate: 100%] Physical Damage to the target, Immobilizes them for 2s, and pulls both toward the middle.",
+          "unlock": "Tier I"
+        },
+        {
+          "gameId": "Cloth_Str_3",
+          "skillName": "Vulnerability",
+          "manaCost": "0",
+          "cooldown": "37",
+          "castingRange": "7 ",
+          "type": "Skill",
+          "description": "Increases Damage Resistance by 30% and creates a weakening field around the caster, lasting 6s. Enemies within 7m deal 100% less damage and cannot enter Stealth.",
+          "unlock": "Tier I"
+        },
+        {
+          "gameId": "Cloth_Str_5",
+          "skillName": "Converge",
+          "manaCost": "0",
+          "cooldown": "22",
+          "castingRange": "7 ",
+          "type": "Skill",
+          "description": "Creates a converging force field. After 1.5s, deals Damage Rate: 250%] Physical Damage to enemies within 7m, pulls them to the center, Stuns them for 0.5s, and Slows them by 30% for 4s.",
+          "unlock": "Tier I"
+        }
+      ],
+      "boots_strength": [
+        {
+          "gameId": "Shoes_Str_4",
+          "skillName": "Vitality",
+          "manaCost": "0",
+          "cooldown": "28",
+          "castingRange": "6",
+          "type": "Skill",
+          "description": "Increases Movement Speed by 50% and restores [Healing Rate: 20%] HP every second for 5s.",
+          "unlock": "Tier I"
+        },
+        {
+          "gameId": "Shoes_Str_5",
+          "skillName": "Vengeance",
+          "manaCost": "0",
+          "cooldown": "28",
+          "castingRange": "6",
+          "type": "Skill",
+          "description": "For every 10% HP lost, gains 1 stack of Movement Speed Increase by 25% and damage by 7% for 6s. Stacks up to 5 times.",
+          "unlock": "Tier I"
+        },
+        {
+          "gameId": "Shoes_Str_2",
+          "skillName": "Guardian",
+          "manaCost": "0",
+          "cooldown": "28",
+          "castingRange": "10",
+          "type": "Skill",
+          "description": "Leap to the target location. Upon landing, grants [Target-based Max HP 22%] Shield to nearby allies for 6s.",
+          "unlock": "Tier I"
+        },
+        {
+          "gameId": "Shoes_Str_1",
+          "skillName": "Titanic Growth",
+          "manaCost": "0",
+          "cooldown": "42",
+          "castingRange": "6",
+          "type": "Skill",
+          "description": "Enhances Movement Speed by 30%, Max HP and Current HP by 80%, and grants Immunity to Forced Movement (Pull, Knockback) for 6s.",
+          "unlock": "Tier I"
+        },
+        {
+          "gameId": "Shoes_Str_6",
+          "skillName": "Vanguard",
+          "manaCost": "0",
+          "cooldown": "28",
+          "castingRange": "6",
+          "type": "Skill",
+          "description": "Remove Slow and immobilize effects. Increases Movement Speed by 80% and gains immunity to Slow and immobilize effects for 4s.",
+          "unlock": "Tier I"
+        },
+        {
+          "gameId": "Shoes_Str_3",
+          "skillName": "Lunge",
+          "manaCost": "0",
+          "cooldown": "37",
+          "castingRange": "14",
+          "type": "Skill",
+          "description": "Charges forward 5 times, dealing [Damage Rate: 50%]. Physical Damage to enemies in path and knocking them back 4m each time. If knocked into terrain, enemies are stunned for 2s. Immune to control effects and gains +80% Damage. Resistance while charging.",
+          "unlock": "Tier I"
+        },
+        {
+          "gameId": "Shoes_Str_7",
+          "skillName": "Mountain Crash",
+          "manaCost": "0",
+          "cooldown": "28",
+          "castingRange": "9",
+          "type": "Skill",
+          "description": "Leaps to the target location, dealing [Damage Rate: 150%] Physical Damage and inflicting Knockup for 1s to enemies upon landing. Then adjusts direction and leaps again toward the target, dealing another [Damage Rate: 150%] Physical Damage and inflicting Knockup for 1s on enemies upon landing. During the skill's duration, immune to control effects and gains +80% Damage Resistance.",
+          "unlock": "Tier I"
+        }
+      ]
+    },
+    "drifters": [
+      {},
+      {},
+      {}
+    ]
+  }
+}
