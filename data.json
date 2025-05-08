@@ -4,6 +4,7 @@
       "axe": [
         {
           "gameId": "Axe_Common_Attack_SP_1",
+          "gearName": "",
           "skillName": "Jump Cleave",
           "manaCost": "6",
           "cooldown": "1.3",
@@ -14,6 +15,7 @@
         },
         {
           "gameId": "Axe_Common_Attack_SP_2",
+          "gearName": "",
           "skillName": "Cleaving Strike",
           "manaCost": "5",
           "cooldown": "1.3",
@@ -24,6 +26,7 @@
         },
         {
           "gameId": "Axe_Common_Attack_SP_3",
+          "gearName": "",
           "skillName": "Cyclone Slash",
           "manaCost": "7",
           "cooldown": "1.3",
@@ -34,6 +37,7 @@
         },
         {
           "gameId": "Avatar_TotemPower",
+          "gearName": "",
           "skillName": "Tempest Strike",
           "manaCost": "20",
           "cooldown": "11",
@@ -44,6 +48,7 @@
         },
         {
           "gameId": "Axe_Common_Skill_2_2",
+          "gearName": "",
           "skillName": "Rock Smash",
           "manaCost": "19",
           "cooldown": "14",
@@ -54,6 +59,7 @@
         },
         {
           "gameId": "Axe_Common_Skill_4",
+          "gearName": "",
           "skillName": "Primal Rush",
           "manaCost": "19",
           "cooldown": "12",
@@ -64,6 +70,7 @@
         },
         {
           "gameId": "Axe_Common_Skill_6",
+          "gearName": "",
           "skillName": "Axehook",
           "manaCost": "17",
           "cooldown": "12",
@@ -74,6 +81,7 @@
         },
         {
           "gameId": "Axe_Common_Skill_1",
+          "gearName": "",
           "skillName": "Rage",
           "manaCost": "26",
           "cooldown": "17",
@@ -84,6 +92,7 @@
         },
         {
           "gameId": "Axe_Whirlwind",
+          "gearName": "Berserker's Fury",
           "skillName": "Whirlwind Slash",
           "manaCost": "22",
           "cooldown": "22",
@@ -94,6 +103,7 @@
         },
         {
           "gameId": "Axe_Passive",
+          "gearName": "",
           "skillName": "Bloodthirst",
           "manaCost": "0",
           "cooldown": "12",
@@ -104,6 +114,7 @@
         },
         {
           "gameId": "Axe_Throw",
+          "gearName": "Emerald Edge",
           "skillName": "Runic Rebound",
           "manaCost": "25",
           "cooldown": "19",
@@ -114,6 +125,7 @@
         },
         {
           "gameId": "Axe_Slayer",
+          "gearName": "Ravager's Cleave",
           "skillName": "Execution",
           "manaCost": "28",
           "cooldown": "24",
@@ -124,6 +136,7 @@
         },
         {
           "gameId": "Axe_JumpSlash",
+          "gearName": "Bonefang Reaper",
           "skillName": "Bonecrusher Leap",
           "manaCost": "24",
           "cooldown": "17",
@@ -134,6 +147,7 @@
         },
         {
           "gameId": "Axe_GiantSwing",
+          "gearName": "Cyclone Cleave",
           "skillName": "Vortex Toss",
           "manaCost": "28",
           "cooldown": "24",
@@ -144,6 +158,7 @@
         },
         {
           "gameId": "Axe_Flywheel",
+          "gearName": "Wreckingsaw",
           "skillName": "Bladewheel Throw",
           "manaCost": "32",
           "cooldown": "28",
@@ -154,6 +169,7 @@
         },
         {
           "gameId": "Axe_DoubleWhirl",
+          "gearName": "Wingblade",
           "skillName": "Twinstorm",
           "manaCost": "29",
           "cooldown": "21",
@@ -166,6 +182,7 @@
       "sword": [
         {
           "gameId": "SwordAttack_1",
+          "gearName": "",
           "skillName": "Sword Slash",
           "manaCost": "6",
           "cooldown": "1.3",
@@ -176,6 +193,7 @@
         },
         {
           "gameId": "SwordAttack_2",
+          "gearName": "",
           "skillName": "Sword Cleave",
           "manaCost": "6",
           "cooldown": "1.3",
@@ -186,6 +204,7 @@
         },
         {
           "gameId": "SwordAttack_3",
+          "gearName": "",
           "skillName": "Sword Energy",
           "manaCost": "6",
           "cooldown": "1.3",
@@ -196,6 +215,7 @@
         },
         {
           "gameId": "Sword_Common_Skill_1",
+          "gearName": "",
           "skillName": "Vacuum Slash",
           "manaCost": "17",
           "cooldown": "11",
@@ -206,6 +226,7 @@
         },
         {
           "gameId": "Sword_Common_Skill_3",
+          "gearName": "",
           "skillName": "Crippling Strike",
           "manaCost": "19",
           "cooldown": "14",
@@ -216,6 +237,7 @@
         },
         {
           "gameId": "Sword_Common_Skill_4",
+          "gearName": "",
           "skillName": "Power Slash",
           "manaCost": "17",
           "cooldown": "11",
@@ -226,6 +248,7 @@
         },
         {
           "gameId": "Sword_Common_Skill_5",
+          "gearName": "",
           "skillName": "Defensive Slash",
           "manaCost": "19",
           "cooldown": "14",
@@ -236,6 +259,7 @@
         },
         {
           "gameId": "Sword_Common_Skill_2",
+          "gearName": "",
           "skillName": "Heart of Steel",
           "manaCost": "24",
           "cooldown": "14",
@@ -246,6 +270,7 @@
         },
         {
           "gameId": "Sword_ZeroSlash",
+          "gearName": "Storm Cleaver",
           "skillName": "Tempest Slash",
           "manaCost": "21",
           "cooldown": "19",
@@ -256,6 +281,7 @@
         },
         {
           "gameId": "Sword_Passive",
+          "gearName": "",
           "skillName": "Aura and Blade",
           "manaCost": "0",
           "cooldown": "0",
@@ -266,6 +292,7 @@
         },
         {
           "gameId": "Sword_Claymore",
+          "gearName": "Hellcore Cleaver",
           "skillName": "Overload Slash",
           "manaCost": "21",
           "cooldown": "19",
@@ -276,6 +303,7 @@
         },
         {
           "gameId": "Sword_Clarent",
+          "gearName": "Voidblade",
           "skillName": "Force Pierce",
           "manaCost": "23",
           "cooldown": "19",
@@ -286,6 +314,7 @@
         },
         {
           "gameId": "Sword_KingSlash",
+          "gearName": "Lordbreaker",
           "skillName": "Sovereign Strike",
           "manaCost": "23",
           "cooldown": "19",
@@ -296,6 +325,7 @@
         },
         {
           "gameId": "Sword_Knight",
+          "gearName": "Titan's Spineblade",
           "skillName": "Titan's Stride",
           "manaCost": "32",
           "cooldown": "24",
@@ -306,6 +336,7 @@
         },
         {
           "gameId": "Sword_Carving",
+          "gearName": "Judicator",
           "skillName": "Obliteration",
           "manaCost": "28",
           "cooldown": "24",
@@ -316,6 +347,7 @@
         },
         {
           "gameId": "Sword_ThousandBlade",
+          "gearName": "Sovereign's Radiance",
           "skillName": "Thousandfold Strike",
           "manaCost": "28",
           "cooldown": "19",
@@ -328,6 +360,7 @@
       "mace": [
         {
           "gameId": "MaceAttack_2",
+          "gearName": "",
           "skillName": "Swing",
           "manaCost": "5",
           "cooldown": "1.2",
@@ -338,6 +371,7 @@
         },
         {
           "gameId": "MaceAttack_1",
+          "gearName": "",
           "skillName": "Smash",
           "manaCost": "7",
           "cooldown": "1.2",
@@ -348,6 +382,7 @@
         },
         {
           "gameId": "MaceAttack_3",
+          "gearName": "",
           "skillName": "Crushing Smash",
           "manaCost": "6",
           "cooldown": "1.2",
@@ -358,6 +393,7 @@
         },
         {
           "gameId": "Mace_Common_Skill_6",
+          "gearName": "",
           "skillName": "Frenzied Smash",
           "manaCost": "14",
           "cooldown": "8.6",
@@ -368,6 +404,7 @@
         },
         {
           "gameId": "Mace_Common_Skill_3",
+          "gearName": "",
           "skillName": "Binding Smash",
           "manaCost": "19",
           "cooldown": "14",
@@ -378,6 +415,7 @@
         },
         {
           "gameId": "Mace_Common_Skill_1",
+          "gearName": "",
           "skillName": "Guardian Field",
           "manaCost": "15",
           "cooldown": "9.6",
@@ -388,6 +426,7 @@
         },
         {
           "gameId": "Mace_Common_Skill_2",
+          "gearName": "",
           "skillName": "Field of Silence",
           "manaCost": "14",
           "cooldown": "8.6",
@@ -398,6 +437,7 @@
         },
         {
           "gameId": "Mace_Common_Skill_4",
+          "gearName": "",
           "skillName": "Vengeful Thunder",
           "manaCost": "20",
           "cooldown": "14",
@@ -408,6 +448,7 @@
         },
         {
           "gameId": "Mace_1HandMace",
+          "gearName": "Breaker's Resolve",
           "skillName": "Unyielding Smash",
           "manaCost": "21",
           "cooldown": "19",
@@ -418,6 +459,7 @@
         },
         {
           "gameId": "Mace_Passive",
+          "gearName": "",
           "skillName": "Guardian",
           "manaCost": "0",
           "cooldown": "0",
@@ -428,6 +470,7 @@
         },
         {
           "gameId": "Mace_Common_Skill_5",
+          "gearName": "Gravity Hammer",
           "skillName": "Pulverizing Slam",
           "manaCost": "25",
           "cooldown": "24",
@@ -438,6 +481,7 @@
         },
         {
           "gameId": "Mace_DualMace",
+          "gearName": "Voidbreaker",
           "skillName": "Void Slam",
           "manaCost": "23",
           "cooldown": "24",
@@ -448,6 +492,7 @@
         },
         {
           "gameId": "Mace_Hook",
+          "gearName": "Ripper's Grasp",
           "skillName": "Grappling Strike",
           "manaCost": "20",
           "cooldown": "17",
@@ -458,6 +503,7 @@
         },
         {
           "gameId": "Mace_ShieldMace_2",
+          "gearName": "Bulwark Core",
           "skillName": "Shield Slam",
           "manaCost": "25",
           "cooldown": "19",
@@ -468,6 +514,7 @@
         },
         {
           "gameId": "Mace_CamlannMace",
+          "gearName": "Abyssal Conduit",
           "skillName": "Void Devour",
           "manaCost": "28",
           "cooldown": "28",
@@ -478,6 +525,7 @@
         },
         {
           "gameId": "Mace_ThunderMace",
+          "gearName": "Thunderlord's Wrath",
           "skillName": "Thunderclap Impact",
           "manaCost": "30",
           "cooldown": "24",
@@ -490,6 +538,7 @@
       "gun": [
         {
           "gameId": "GunAttack_1",
+          "gearName": "",
           "skillName": "Headshot",
           "manaCost": "5",
           "cooldown": "1.2",
@@ -500,6 +549,7 @@
         },
         {
           "gameId": "GunAttack_2",
+          "gearName": "",
           "skillName": "Ricochet",
           "manaCost": "5",
           "cooldown": "1.2",
@@ -510,6 +560,7 @@
         },
         {
           "gameId": "GunAttack_3",
+          "gearName": "",
           "skillName": "Armor Break",
           "manaCost": "7",
           "cooldown": "1.2",
@@ -520,6 +571,7 @@
         },
         {
           "gameId": "Gun_Common_Skill_1",
+          "gearName": "",
           "skillName": "Trap",
           "manaCost": "15",
           "cooldown": "1.5",
@@ -530,6 +582,7 @@
         },
         {
           "gameId": "Gun_Common_Skill_6",
+          "gearName": "",
           "skillName": "Quick Load",
           "manaCost": "15",
           "cooldown": "1.5",
@@ -540,6 +593,7 @@
         },
         {
           "gameId": "Gun_Common_Skill_4",
+          "gearName": "",
           "skillName": "Concussion Grenade",
           "manaCost": "20",
           "cooldown": "17",
@@ -550,6 +604,7 @@
         },
         {
           "gameId": "Gun_Flashbang",
+          "gearName": "",
           "skillName": "Blinding Flash",
           "manaCost": "19",
           "cooldown": "14",
@@ -560,6 +615,7 @@
         },
         {
           "gameId": "Gun_Common_Skill_3",
+          "gearName": "",
           "skillName": "Aim",
           "manaCost": "18",
           "cooldown": "4.8",
@@ -570,6 +626,7 @@
         },
         {
           "gameId": "Gun_ShotGun",
+          "gearName": "Shattercoil",
           "skillName": "Scatterblast",
           "manaCost": "11",
           "cooldown": "1.5",
@@ -580,6 +637,7 @@
         },
         {
           "gameId": "Gun_BulletCharge",
+          "gearName": "",
           "skillName": "Reload",
           "manaCost": "0",
           "cooldown": "0",
@@ -590,6 +648,7 @@
         },
         {
           "gameId": "Gun_GatlinGun",
+          "gearName": "Sentinel Barrage",
           "skillName": "Sentinel Barrage",
           "manaCost": "30",
           "cooldown": "24",
@@ -600,6 +659,7 @@
         },
         {
           "gameId": "Gun_ThreeGun",
+          "gearName": "Spectral Assault",
           "skillName": "Rapid Fire",
           "manaCost": "28",
           "cooldown": "24",
@@ -610,6 +670,7 @@
         },
         {
           "gameId": "Gun_Grenade",
+          "gearName": "Blightspitter",
           "skillName": "Toxic Shroud",
           "manaCost": "13",
           "cooldown": "4",
@@ -620,6 +681,7 @@
         },
         {
           "gameId": "Gun_Common_Skill_5",
+          "gearName": "Luminet Cannon",
           "skillName": "Snipe",
           "manaCost": "11",
           "cooldown": "1.5",
@@ -630,6 +692,7 @@
         },
         {
           "gameId": "Gun_RifleGun",
+          "gearName": "Voideye",
           "skillName": "Deadshot",
           "manaCost": "24",
           "cooldown": "9.6",
@@ -640,6 +703,7 @@
         },
         {
           "gameId": "Gun_PrismGun",
+          "gearName": "Prism Cloak",
           "skillName": "Photon Activation",
           "manaCost": "22",
           "cooldown": "24",
@@ -654,6 +718,7 @@
       "head_strength": [
         {
           "gameId": "Helm_Str_5",
+          "gearName": "Furor's Helm",
           "skillName": "Enrage",
           "manaCost": "0",
           "cooldown": "30",
@@ -664,6 +729,7 @@
         },
         {
           "gameId": "Helm_Str_4",
+          "gearName": "Ironclad Helm",
           "skillName": "Iron Wall",
           "manaCost": "0",
           "cooldown": "60",
@@ -674,6 +740,7 @@
         },
         {
           "gameId": "Helm_Str_3",
+          "gearName": "Hellfire Visor",
           "skillName": "Flame Star",
           "manaCost": "0",
           "cooldown": "30",
@@ -684,6 +751,7 @@
         },
         {
           "gameId": "Helm_Str_1",
+          "gearName": "Reptilian Helm",
           "skillName": "Scale Armor",
           "manaCost": "0",
           "cooldown": "30",
@@ -694,6 +762,7 @@
         },
         {
           "gameId": "Helm_Str_6",
+          "gearName": "Savage Helm",
           "skillName": "EMP Blast",
           "manaCost": "0",
           "cooldown": "30",
@@ -704,6 +773,7 @@
         },
         {
           "gameId": "Helm_Str_7",
+          "gearName": "Stormveil Mask",
           "skillName": "Sandstorm",
           "manaCost": "0",
           "cooldown": "30",
@@ -714,6 +784,7 @@
         },
         {
           "gameId": "Helm_Str_8",
+          "gearName": "Warden's Gaze",
           "skillName": "Forward Guard",
           "manaCost": "0",
           "cooldown": "30",
@@ -726,6 +797,7 @@
       "chest_strength": [
         {
           "gameId": "Cloth_Str_4",
+          "gearName": "Guardian's Blessing",
           "skillName": "Block",
           "manaCost": "0",
           "cooldown": "32",
@@ -736,6 +808,7 @@
         },
         {
           "gameId": "Cloth_Str_1",
+          "gearName": "Aegis Plate",
           "skillName": "Shield",
           "manaCost": "0",
           "cooldown": "32",
@@ -746,6 +819,7 @@
         },
         {
           "gameId": "Cloth_Str_2",
+          "gearName": "Dazzling Guard",
           "skillName": "Stun",
           "manaCost": "0",
           "cooldown": "28",
@@ -756,6 +830,7 @@
         },
         {
           "gameId": "Cloth_Str_6",
+          "gearName": "Tempest Charge",
           "skillName": "Charge",
           "manaCost": "0",
           "cooldown": "32",
@@ -766,6 +841,7 @@
         },
         {
           "gameId": "Cloth_Str_8",
+          "gearName": "Tangle Guard",
           "skillName": "Root Grip",
           "manaCost": "0",
           "cooldown": "32",
@@ -776,6 +852,7 @@
         },
         {
           "gameId": "Cloth_Str_3",
+          "gearName": "Warden's Shell",
           "skillName": "Vulnerability",
           "manaCost": "0",
           "cooldown": "37",
@@ -786,6 +863,7 @@
         },
         {
           "gameId": "Cloth_Str_5",
+          "gearName": "Magsurge Armor",
           "skillName": "Converge",
           "manaCost": "0",
           "cooldown": "22",
@@ -798,6 +876,7 @@
       "boots_strength": [
         {
           "gameId": "Shoes_Str_4",
+          "gearName": "Energizer Boots",
           "skillName": "Vitality",
           "manaCost": "0",
           "cooldown": "28",
@@ -808,6 +887,7 @@
         },
         {
           "gameId": "Shoes_Str_5",
+          "gearName": "Wrathstep",
           "skillName": "Vengeance",
           "manaCost": "0",
           "cooldown": "28",
@@ -818,6 +898,7 @@
         },
         {
           "gameId": "Shoes_Str_2",
+          "gearName": "Bulwark Striders",
           "skillName": "Guardian",
           "manaCost": "0",
           "cooldown": "28",
@@ -828,6 +909,7 @@
         },
         {
           "gameId": "Shoes_Str_1",
+          "gearName": "Titan Walkers",
           "skillName": "Titanic Growth",
           "manaCost": "0",
           "cooldown": "42",
@@ -838,6 +920,7 @@
         },
         {
           "gameId": "Shoes_Str_6",
+          "gearName": "Vanguard's March",
           "skillName": "Vanguard",
           "manaCost": "0",
           "cooldown": "28",
@@ -848,6 +931,7 @@
         },
         {
           "gameId": "Shoes_Str_3",
+          "gearName": "Impact Heavy Boots",
           "skillName": "Lunge",
           "manaCost": "0",
           "cooldown": "37",
@@ -858,6 +942,7 @@
         },
         {
           "gameId": "Shoes_Str_7",
+          "gearName": "Avalanche Boots",
           "skillName": "Mountain Crash",
           "manaCost": "0",
           "cooldown": "28",
