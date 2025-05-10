@@ -1700,7 +1700,7 @@
           {
             "gameId": "Paragon_Skill_Dex_9_Passive",
             "gearName": "Illusarch",
-            "skillName": "",
+            "skillName": "Echo Reflection",
             "manaCost": "0",
             "cooldown": "0.3",
             "castingRange": "0",
