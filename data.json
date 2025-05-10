@@ -955,7 +955,7 @@
     },
     "drifters": {
       "paragon_str_1": {
-        "gameid": "paragon_str_1",
+        "gameId": "paragon_str_1",
         "name": "Sirokos",
         "spells": [
           {
@@ -983,7 +983,7 @@
         ]
       },
       "paragon_str_2": {
-        "gameid": "paragon_str_2",
+        "gameId": "paragon_str_2",
         "name": "Kyra",
         "spells": [
           {
@@ -1011,7 +1011,7 @@
         ]
       },
       "paragon_str_3": {
-        "gameid": "paragon_str_3",
+        "gameId": "paragon_str_3",
         "name": "Izzy",
         "spells": [
           {
@@ -1039,7 +1039,7 @@
         ]
       },
       "paragon_str_4": {
-        "gameid": "paragon_str_4",
+        "gameId": "paragon_str_4",
         "name": "Varnax",
         "spells": [
           {
@@ -1067,7 +1067,7 @@
         ]
       },
       "paragon_str_5": {
-        "gameid": "paragon_str_5",
+        "gameId": "paragon_str_5",
         "name": "Aegis",
         "spells": [
           {
@@ -1095,7 +1095,7 @@
         ]
       },
       "paragon_str_6": {
-        "gameid": "paragon_str_6",
+        "gameId": "paragon_str_6",
         "name": "Durion",
         "spells": [
           {
@@ -1123,7 +1123,7 @@
         ]
       },
       "paragon_str_7": {
-        "gameid": "paragon_str_7",
+        "gameId": "paragon_str_7",
         "name": "Draknor",
         "spells": [
           {
@@ -1151,7 +1151,7 @@
         ]
       },
       "paragon_str_8": {
-        "gameid": "paragon_str_8",
+        "gameId": "paragon_str_8",
         "name": "Auri",
         "spells": [
           {
@@ -1179,7 +1179,7 @@
         ]
       },
       "paragon_str_9": {
-        "gameid": "paragon_str_9",
+        "gameId": "paragon_str_9",
         "name": "Firestorm",
         "spells": [
           {
@@ -1205,8 +1205,511 @@
             "unlock": "TIER_IV"
           }
         ]
+      },
+      "paragon_int_1": {
+        "gameId": "paragon_int_1",
+        "name": "ShadowSeer",
+        "spells": [
+          {
+            "gameId": "Paragon_Skill_Int_1",
+            "gearName": "ShadowSeer",
+            "skillName": "Shadow Cascade",
+            "manaCost": "34",
+            "cooldown": "46",
+            "castingRange": "20",
+            "type": "Skill",
+            "description": "Channel void energy for 5s and send forth 37 Void Orbs,\neach dealing [Damage Rate: 30%] Magic Damage and\ninflicting [Void Toxin]\nSkill cannot be interrupted.\n[Void Toxin]: Deals [Damage Rate: 10%] Magic Damage\nevery second (increases based on stacks) for 12s,\nstacking up to 5 times. [Void Toxin] from different sources\nshare stacks.",
+            "unlock": "TIER_I"
+          },
+          {
+            "gameId": "Paragon_Skill_Int_1_Passive",
+            "gearName": "ShadowSeer",
+            "skillName": "",
+            "manaCost": "0",
+            "cooldown": "0",
+            "castingRange": "0",
+            "type": "Passive",
+            "description": "Gains 5% Movement Speed for 3s when inflicting an\nenemy with a DoT effect, stacking up to 6 times.",
+            "unlock": "TIER_IV"
+          }
+        ]
+      },
+      "paragon_int_2": {
+        "gameId": "paragon_int_2",
+        "name": "Solenne",
+        "spells": [
+          {
+            "gameId": "Paragon_Skill_Int_2",
+            "gearName": "Solenne",
+            "skillName": "Bond of Light",
+            "manaCost": "30",
+            "cooldown": "42",
+            "castingRange": "10",
+            "type": "Skill",
+            "description": "Links to 8 targets within 10m around the caster,\nchanneling for 4s. Restores [Healing Rate: 40%] HP to the\ncaster and linked allies every 0.5s, while dealing [Damage\nRate: 70%] Magic Damage to linked enemies.\nCannot be interrupted while channeling.",
+            "unlock": "TIER_I"
+          },
+          {
+            "gameId": "Paragon_Skill_Int_2_Passive",
+            "gearName": "Solenne",
+            "skillName": "",
+            "manaCost": "0",
+            "cooldown": "0",
+            "castingRange": "0",
+            "type": "Passive",
+            "description": "Other allies within 12m receive +20% healing.",
+            "unlock": "TIER_IV"
+          }
+        ]
+      },
+      "paragon_int_3": {
+        "gameId": "paragon_int_3",
+        "name": "Hive Queen",
+        "spells": [
+          {
+            "gameId": "Paragon_Skill_Int_3",
+            "gearName": "Hive Queen",
+            "skillName": "Abyssal Sovereignty",
+            "manaCost": "28",
+            "cooldown": "46",
+            "castingRange": "5",
+            "type": "Skill",
+            "description": "Removes all control effects and gains [Submerge] for\n2.5s\n[Submerge]: Dives underground, becoming immune to all\ndamage and control effects. Increases Movement Speed\nby 40% and recovers[Healing Rate: 49%] HP every\nsecond.\nPress skill again to exit [Submerge] early.\nUpon exiting [Submerge], deals [Damage Rate: 200%]\nMagic Damage to nearby enemies.\nCan be used while skills are disabled",
+            "unlock": "TIER_I"
+          },
+          {
+            "gameId": "Paragon_Skill_Int_3_Passive",
+            "gearName": "Hive Queen",
+            "skillName": "Hive Exaltation",
+            "manaCost": "0",
+            "cooldown": "0.5",
+            "castingRange": "0",
+            "type": "Passive",
+            "description": "Dealing damage with a skill grants 1 stack of Swarm,\nrestoring [Healing Rate: 7.5%] HP every 2s for 6s\n(stacks do not boost healing effect). During this time,\nDamage Resistance increases by 5%, stacking up to 5\ntimes. (Cooldown: 0.5s)",
+            "unlock": "TIER_IV"
+          }
+        ]
+      },
+      "paragon_int_4": {
+        "gameId": "paragon_int_4",
+        "name": "Veska",
+        "spells": [
+          {
+            "gameId": "Paragon_Skill_Int_4",
+            "gearName": "Veska",
+            "skillName": "Serpent's Whisper",
+            "manaCost": "28",
+            "cooldown": "46",
+            "castingRange": "14",
+            "type": "Skill",
+            "description": "Applies Serpent's Whisper to the caster or an allied target,\npreventing movement and skill usage for 4s and granting\nimmunity to damage and control. Deals [Damage Rate:\n58%] Magic Damage to nearby enemies every 0.5s and\napplies [Creeping Stone]\n[Creeping Stone]: Lasts 1s, stacking up to 4 times. Target\nis Petrified and has their Armor reduced by 25% for 2 at\nmax stacks (cannot gain [Creeping Stone] for 6)\nCan be used while skills are disabled. Serpent's Whisper\ncannot be dispelled.",
+            "unlock": "TIER_I"
+          },
+          {
+            "gameId": "Paragon_Skill_Int_4_Passive",
+            "gearName": "Veska",
+            "skillName": "Shedskin",
+            "manaCost": "0",
+            "cooldown": "0",
+            "castingRange": "0",
+            "type": "Passive",
+            "description": "Retains 1 HP upon taking lethal damage, transforming\ninto a spirit serpent, cleansing all negative effects\n(control, DoT, and debuffs), gaining immunity to control,\ndebuffs and damage for 2s, and +100% Movement Speed,\nand healing 5% HP every 0.5s. (CD: 120s)",
+            "unlock": "TIER_IV"
+          }
+        ]
+      },
+      "paragon_int_10": {
+        "gameId": "paragon_int_10",
+        "name": "Helix",
+        "spells": [
+          {
+            "gameId": "Paragon_Skill_Int_10",
+            "gearName": "Helix",
+            "skillName": "Genetic Cascade",
+            "manaCost": "29",
+            "cooldown": "28",
+            "castingRange": "12",
+            "type": "Skill",
+            "description": "Creates a Genetic Cascade link with the target, lasting\n15s.\nFor allied targets: Restores [Healing Rate: 25%] HP every\nsecond and increases damage dealt by 3% for 5s. Stacks\nup to 10 times.\nFor enemy targets: Deals [Damage Rate: 50%] Magic\nDamage every second and reduces damage dealt by 3%\nfor 5s. Stacks up to 10 times.\nCan link to another target of a different type while a link is\nactive.\nLink breaks if the target moves over 25m away.",
+            "unlock": "TIER_I"
+          },
+          {
+            "gameId": "Paragon_Skill_Int_10_Passive",
+            "gearName": "Helix",
+            "skillName": "Helical Convergence",
+            "manaCost": "0",
+            "cooldown": "0.5",
+            "castingRange": "0",
+            "type": "Passive",
+            "description": "After dealing damage 5 times, creates two Yin Vortexes\naround the caster that deal [Damage Rate: 100%] Magic\nDamage to enemies hit and reduce healing received by 5%\nfor 4s. Stacks up to 3 times. (Cooldown: 0.5s)\nAfter healing 5 times, creates two Yang Vortexes around\nself that restore [Healing Rate: 50%] HP to allies hit and\nincrease healing received by 5% for 4s. Stacks up to 3\ntimes. (Cooldown: 0.5s)",
+            "unlock": "TIER_IV"
+          }
+        ]
+      },
+      "paragon_int_6": {
+        "gameId": "paragon_int_6",
+        "name": "Raven",
+        "spells": [
+          {
+            "gameId": "Paragon_Skill_Int_6",
+            "gearName": "Raven",
+            "skillName": "Raven's Gaze",
+            "manaCost": "29",
+            "cooldown": "28",
+            "castingRange": "14",
+            "type": "Skill",
+            "description": "Select an enemy target to summon ravens. After 2\nseconds, ravens dive to attack, dealing [Damage Rate:\n210%] Magic Damage to up to 5 enemies in range,\ndispelling all buffs, shields, and HoT effects. Applies 50%\nSlow and reduces damage dealt by 50% for 6s. Targets\ncannot gain buffs, shields, or HoT effects during this time.",
+            "unlock": "TIER_I"
+          },
+          {
+            "gameId": "Paragon_Skill_Int_6_Passive",
+            "gearName": "Raven",
+            "skillName": "Summon Raven",
+            "manaCost": "0",
+            "cooldown": "0.5",
+            "castingRange": "0",
+            "type": "Passive",
+            "description": "Skills dealing damage grant the caster Raven's Call. At 6\nstacks, the next skill damage within 8s that hits an enemy\ntarget will summon ravens at the location, dealing\n[Damage Rate: 120%] Magic Damage to up to 5 enemy\ntargets in range. This effect removes 1 stack of buffs from\nhit targets and restores [Healing Rate: 60%] HP to self.\n(Trigger Interval: 0.5s)",
+            "unlock": "TIER_IV"
+          }
+        ]
+      },
+      "paragon_int_7": {
+        "gameId": "paragon_int_7",
+        "name": "Moonveil",
+        "spells": [
+          {
+            "gameId": "Paragon_Skill_Int_7",
+            "gearName": "Moonveil",
+            "skillName": "Twinlance Infusion",
+            "manaCost": "22",
+            "cooldown": "42",
+            "castingRange": "10",
+            "type": "Skill",
+            "description": "Creates a Lunar Domain and channels for 8s. Enemies\nwithin are struck by starlight on skill use, taking [Damage\nRate: 200%] Magic Damage and losing 20 MP. Allies\nwithin recover 8 MP every second and gain [Target-based\nMax HP 15%] Shield lasting 4s.\nSkill cannot be interrupted. +20% Movement Speed while\nchanneling.",
+            "unlock": "TIER_I"
+          },
+          {
+            "gameId": "Paragon_Skill_Int_7_Passive",
+            "gearName": "Moonveil",
+            "skillName": "Lunar Rebirth",
+            "manaCost": "0",
+            "cooldown": "0",
+            "castingRange": "12",
+            "type": "Passive",
+            "description": "Every 2s restores Moonveil Max MP + 3% MP to other\nallies within 12m",
+            "unlock": "TIER_IV"
+          }
+        ]
+      },
+      "paragon_int_11": {
+        "gameId": "paragon_int_11",
+        "name": "Revelation",
+        "spells": [
+          {
+            "gameId": "Paragon_Skill_Int_11",
+            "gearName": "Revelation",
+            "skillName": "Sanctification",
+            "manaCost": "30",
+            "cooldown": "42",
+            "castingRange": "16",
+            "type": "Skill",
+            "description": "Creates an expanding Sanctification Field at the target\nlocation and channels for 5s.\nCannot be interrupted while channeling.\nCleanses control effects every 0.5s, 2 debuffs, and 2 DoT\neffects, from up to 20 allies in the field and restores\n[Healing Rate: 25%] HP.",
+            "unlock": "TIER_I"
+          },
+          {
+            "gameId": "Paragon_Skill_Int_11_Passive",
+            "gearName": "Revelation",
+            "skillName": "Holy Covenant",
+            "manaCost": "0",
+            "cooldown": "0",
+            "castingRange": "0",
+            "type": "Passive",
+            "description": "When healing with skills, the target gains 5% additional\nDamage Resistance for 4s. Stacks up to 6 times",
+            "unlock": "TIER_IV"
+          }
+        ]
+      },
+      "paragon_int_9": {
+        "gameId": "paragon_int_9",
+        "name": "Astral Magus",
+        "spells": [
+          {
+            "gameId": "Paragon_Skill_Int_9",
+            "gearName": "Astral Magus",
+            "skillName": "Astral Gate",
+            "manaCost": "38",
+            "cooldown": "93",
+            "castingRange": "40",
+            "type": "Skill",
+            "description": "Creates an astral field beneath the caster. After 3s,\nteleports up to 15 teammates in range to the target\nlocation. Upon arrival, deals [Damage Rate: 200%] Magic\nDamage to surrounding enemies and Stuns them for 1s.\nAllies gain [Target-based Max HP 20%] Shield, +30%\nMovement Speed, immunity to Slow and Immobilize\neffects for 4s.\nIf there's unpassable terrain in the teleportation path,\nteleport to that position instead ..",
+            "unlock": "TIER_I"
+          },
+          {
+            "gameId": "Paragon_Skill_Int_9_Passive",
+            "gearName": "Astral Magus",
+            "skillName": "Celestial Rotation",
+            "manaCost": "0",
+            "cooldown": "0.5",
+            "castingRange": "0",
+            "type": "Passive",
+            "description": "Reduces the cooldown of all skills (not including Tactical\nItem skills) by 0.3s when this skill deals damage.\n(Cooldown: 0.5s)",
+            "unlock": "TIER_IV"
+          }
+        ]
+      },
+      "paragon_dex_1": {
+        "gameId": "paragon_dex_1",
+        "name": "Elektrix",
+        "spells": [
+          {
+            "gameId": "Paragon_Skill_Dex_1",
+            "gearName": "Elektrix",
+            "skillName": "Storm Pulse",
+            "manaCost": "27",
+            "cooldown": "27",
+            "castingRange": "7",
+            "type": "Skill",
+            "description": "Activate an Electric Device for 8s.\nElectric Device hits up to 5 enemies every 0.5s for\n[Damage Rate: 40%] Physical Damage, reducing Armor by\n8% for 8s. Stacks up to 10 times.",
+            "unlock": "TIER_I"
+          },
+          {
+            "gameId": "Paragon_Skill_Dex_1_Passive",
+            "gearName": "Elektrix",
+            "skillName": "Static Overdrive",
+            "manaCost": "0",
+            "cooldown": "0",
+            "castingRange": "0",
+            "type": "Passive",
+            "description": "Basic Attacks grant 1 stack of Electric Charge. At 5\nstacks, the next attack triggers EMP Blast dealing\n[Damage Rate: 160%] Physical Damage to enemies in\nrange.",
+            "unlock": "TIER_IV"
+          }
+        ]
+      },
+      "paragon_dex_2": {
+        "gameId": "paragon_dex_2",
+        "name": "Nyxa",
+        "spells": [
+          {
+            "gameId": "Paragon_Skill_Dex_2",
+            "gearName": "Nyxa",
+            "skillName": "Soul Feast",
+            "manaCost": "30",
+            "cooldown": "42",
+            "castingRange": "7",
+            "type": "Skill",
+            "description": "Creates a void field lasting 8s that envelops the caster\nand up to 5 enemies, dealing 192[Damage Rate: 50%]\nMagic Damage to enemies within. Enemies in the void are\nimmune to Physical Damage, cannot perform basic\nattacks, are slowed for 30%, and have their Magic\nResistance reduced by 30%. The caster can still perform\nbasic attacks and gain 35% Basic Attack Lifesteal, while\nalso ignoring the Physical Damage immunity of enemies\nin the void.",
+            "unlock": "TIER_I"
+          },
+          {
+            "gameId": "Paragon_Skill_Dex_2_Passive",
+            "gearName": "Nyxa",
+            "skillName": "Umbra Guardian",
+            "manaCost": "0",
+            "cooldown": "30",
+            "castingRange": "0",
+            "type": "Passive",
+            "description": "30% chance to gain an effect granting immunity to\nPhysical immunity, 30% reduced Magic Resistance, and\n20% increased Healing Received that last 4s when taking\nPhysical Damage. (Cooldown: 30s)",
+            "unlock": "TIER_IV"
+          }
+        ]
+      },
+      "paragon_dex_3": {
+        "gameId": "paragon_dex_3",
+        "name": "Overdrive",
+        "spells": [
+          {
+            "gameId": "Paragon_Skill_Dex_3",
+            "gearName": "Overdrive",
+            "skillName": "Flamecore Rampage",
+            "manaCost": "25",
+            "cooldown": "28",
+            "castingRange": "7",
+            "type": "Skill",
+            "description": "Removes all current shield values, dealing 848[Damage\nRate: 250%] Physical Damage to nearby enemies, while\nalso gaining 70% Attack Speed, 30% Movement Speed,\nand 30% Critical Rate, and becoming Immune to Control\nEffects for 6s.",
+            "unlock": "TIER_I"
+          },
+          {
+            "gameId": "Paragon_Skill_Dex_3_Passive",
+            "gearName": "Overdrive",
+            "skillName": "Hell Salvo's Embrace",
+            "manaCost": "0",
+            "cooldown": "0",
+            "castingRange": "0",
+            "type": "Passive",
+            "description": "While without Armor, gains 5 Energy per second, and\ngains 5 Energy on Basic Attack Crit. When Energy reaches\n100, restores [Target-based Max HP 15%] Armor.\nWhile with Armor, gains [Target-based Max HP 3%] Armor\non Basic Attack Crit. Armor restored cannot exceed\n[Target-based Max HP 25%]. (Trigger Interval: a cooldown\nof 1 seconds)",
+            "unlock": "TIER_IV"
+          }
+        ]
+      },
+      "paragon_dex_4": {
+        "gameId": "paragon_dex_4",
+        "name": "Zero",
+        "spells": [
+          {
+            "gameId": "Paragon_Skill_Dex_4",
+            "gearName": "Zero",
+            "skillName": "Null Pulse",
+            "manaCost": "19",
+            "cooldown": "18",
+            "castingRange": "9",
+            "type": "Skill",
+            "description": "Releases a Null Pulse in the target direction, dealing\n [Damage Rate: 50%] Physical Damage to enemies in\nrange, knocking them back 12m, and applying Silence and\n40% Slow for 3s.",
+            "unlock": "TIER_I"
+          },
+          {
+            "gameId": "Paragon_Skill_Dex_4_Passive",
+            "gearName": "Zero",
+            "skillName": "Overclocking Reflex",
+            "manaCost": "0",
+            "cooldown": "0",
+            "castingRange": "0",
+            "type": "Passive",
+            "description": "Has a 35% chance to dodge Basic Attack damage.",
+            "unlock": "TIER_IV"
+          }
+        ]
+      },
+      "paragon_dex_5": {
+        "gameId": "paragon_dex_5",
+        "name": "Vryssia",
+        "spells": [
+          {
+            "gameId": "Paragon_Skill_Dex_5",
+            "gearName": "Vryssia",
+            "skillName": "Shadow Dive",
+            "manaCost": "38",
+            "cooldown": "56",
+            "castingRange": "0",
+            "type": "Skill",
+            "description": "Enters Stealth, gaining [Spectral Shield] and the ability\n[Phantom Bind], lasting 9s.\nSpectral Shield: Grants [Target-based Max HP 25%] shield\neffect; if the Spectral Shield fades out, the Phantom Bind\neffect ends prematurely.\nPhantom Bind: Summon phantoms that track enemies in\nrange, dealing 557[Damage Rate: 183%] Magic Damage\nand replenishing [Target-based Max HP 5%] Spectral\nShield.\nDoesn't break Phantom Clone Stealth ..\nUsing any skill other than Phantom Bind, or dealing direct\nhealing or damage, reveals you for 2s before re-entering\nStealth.\nRecovers 6% HP every 2s while in Stealth.",
+            "unlock": "TIER_I"
+          },
+          {
+            "gameId": "Paragon_Skill_Dex_5_Passive",
+            "gearName": "Vryssia",
+            "skillName": "Healing Bloom Hunter",
+            "manaCost": "0",
+            "cooldown": "0",
+            "castingRange": "0",
+            "type": "Passive",
+            "description": "Enters Stealth when standing still unhurt and not using\nskills for a short duration. Damage, skills, or movement\nbreaks Stealth.\nWarning when enemies are 7-14m away. Stealth breaks\nafter 3s within 7m.\nRecovers 6% HP every 2s while in Stealth",
+            "unlock": "TIER_IV"
+          }
+        ]
+      },
+      "paragon_dex_6": {
+        "gameId": "paragon_dex_6",
+        "name": "Umbra",
+        "spells": [
+          {
+            "gameId": "Paragon_Skill_Dex_6",
+            "gearName": "Umbra",
+            "skillName": "Shadow Rift",
+            "manaCost": "21",
+            "cooldown": "38",
+            "castingRange": "15",
+            "type": "Skill",
+            "description": "Creates a field around the caster, lasting 20s. Then\nscatter 8 Shadow Clones, each dealing [Damage Rate:\n200%] Physical Damage to those hit. Damage reduces to\n15% for subsequent hits on the same target. While in the\nfield, skill changes to [Shadow Swap]. Touching a\nShadow Clone reduces Shadow Swap's cooldown by 5s,\ngrants [Target-based Max HP 10%] Shield and +20%\nMovement Speed for 4s.\nField disappears when leaving range.\n[Shadow Swap]: Dash forward and increase the Attack\nSpeed of the next 5 basic attacks within 6s by 60%.",
+            "unlock": "TIER_I"
+          },
+          {
+            "gameId": "Paragon_Skill_Dex_6_Passive",
+            "gearName": "Umbra",
+            "skillName": "Umbra Kinetics",
+            "manaCost": "0",
+            "cooldown": "0.8",
+            "castingRange": "0",
+            "type": "Passive",
+            "description": "Grants Basic Attacks a 30% chance to trigger a shadow\nstrike for 6s, dealing [Damage Rate: 100%] Physical\nDamage (Cooldown: 0.8s).\nBasic Attack Damage Bonuses affect damage and basic\nattack critical hits can cause the damage to crit.",
+            "unlock": "TIER_IV"
+          }
+        ]
+      },
+      "paragon_dex_7": {
+        "gameId": "paragon_dex_7",
+        "name": "Sanguor",
+        "spells": [
+          {
+            "gameId": "Paragon_Skill_Dex_7",
+            "gearName": "Sanguor",
+            "skillName": "Hemophage",
+            "manaCost": "33",
+            "cooldown": "42",
+            "castingRange": "7",
+            "type": "Skill",
+            "description": "Activates Crimson Vortex for 6s.\nCrimson Vortex deals [Damage Rate: 75%] Physical Damage to up to 5 enemies every second, healing the caster for 60% of damage dealt.\nDamage increases up to [Damage Rate: 150%] as HP drops.",
+            "unlock": "TIER_I"
+          },
+          {
+            "gameId": "Paragon_Skill_Dex_7_Passive",
+            "gearName": "Sanguor",
+            "skillName": "Blood Contract",
+            "manaCost": "0",
+            "cooldown": "0",
+            "castingRange": "0",
+            "type": "Passive",
+            "description": "Gains +4% Damage Resistance and +6% Attack Speed for every 10% HP lost.",
+            "unlock": "TIER_IV"
+          }
+        ]
+      },
+      "paragon_dex_8": {
+        "gameId": "paragon_dex_8",
+        "name": "Stormblade",
+        "spells": [
+          {
+            "gameId": "Paragon_Skill_Dex_8",
+            "gearName": "Stormblade",
+            "skillName": "Tempest Slash",
+            "manaCost": "29",
+            "cooldown": "28",
+            "castingRange": "8",
+            "type": "Skill",
+            "description": "",
+            "unlock": "TIER_I"
+          },
+          {
+            "gameId": "Paragon_Skill_Dex_8_Passive",
+            "gearName": "Stormblade",
+            "skillName": "Cyclone Reap",
+            "manaCost": "0",
+            "cooldown": "1.3",
+            "castingRange": "0",
+            "type": "Passive",
+            "description": "On Critical Hit, deals [Damage Rate: 70%] Physical\nDamage to nearby enemies, while also reducing their\nArmor by 15% for 4s. (Cooldown: 1.3s)",
+            "unlock": "TIER_IV"
+          }
+        ]
+      },
+      "paragon_dex_9": {
+        "gameId": "paragon_dex_9",
+        "name": "Illusarch",
+        "spells": [
+          {
+            "gameId": "Paragon_Skill_Dex_9",
+            "gearName": "Illusarch",
+            "skillName": "Spectral Disguise",
+            "manaCost": "28",
+            "cooldown": "46",
+            "castingRange": "8",
+            "type": "Skill",
+            "description": "Creates a Spectral Disguise granting Stealth to the caster\nand up to 15 nearby allies, increasing Damage Resistance\nby 25% for 8s\nUsing a skill, dealing damage or inflicting healing breaks\nStealth for 4s before reapplying",
+            "unlock": "TIER_I"
+          },
+          {
+            "gameId": "Paragon_Skill_Dex_9_Passive",
+            "gearName": "Illusarch",
+            "skillName": "",
+            "manaCost": "0",
+            "cooldown": "0.3",
+            "castingRange": "0",
+            "type": "Passive",
+            "description": "Skill and Basic Attack hits from the rear deal [Damage\nRate: 60%] additional Physical Damage (Cooldown: 0.3s).\nBasic Attack Damage Bonuses affect damage and basic\nattack critical hits can cause the damage to crit.",
+            "unlock": "TIER_IV"
+          }
+        ]
       }
     }
-
   }
 }
