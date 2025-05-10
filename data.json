@@ -953,39 +953,260 @@
         }
       ]
     },
-    "drifters": [
-      {
-        "gameId": "Shoes_Str_7",
-        "gearName": "Varnax",
-        "skillName": "Mountain Crash",
-        "manaCost": "0",
-        "cooldown": "28",
-        "castingRange": "9",
-        "type": "Skill",
-        "description": "Leaps to the target location, dealing [Damage Rate: 150%] Physical Damage and inflicting Knockup for 1s to enemies upon landing. Then adjusts direction and leaps again toward the target, dealing another [Damage Rate: 150%] Physical Damage and inflicting Knockup for 1s on enemies upon landing. During the skill's duration, immune to control effects and gains +80% Damage Resistance.",
-        "unlock": "Tier_I"},
-      {
-        "gameId": "Shoes_Str_7",
-        "gearName": "Avalanche Boots",
-        "skillName": "Mountain Crash",
-        "manaCost": "0",
-        "cooldown": "28",
-        "castingRange": "9",
-        "type": "Skill",
-        "description": "Leaps to the target location, dealing [Damage Rate: 150%] Physical Damage and inflicting Knockup for 1s to enemies upon landing. Then adjusts direction and leaps again toward the target, dealing another [Damage Rate: 150%] Physical Damage and inflicting Knockup for 1s on enemies upon landing. During the skill's duration, immune to control effects and gains +80% Damage Resistance.",
-        "unlock": "Tier_I"
+    "drifters": {
+      "paragon_str_1": {
+        "gameid": "paragon_str_1",
+        "name": "Sirokos",
+        "spells": [
+          {
+            "gameId": "Paragon_Skill_Str_1",
+            "gearName": "Sirokos",
+            "skillName": "Sandstorm Dominion",
+            "manaCost": "25",
+            "cooldown": "28",
+            "castingRange": "8",
+            "type": "Skill",
+            "description": "Creates a Sandstorm around the caster, pushing all\nenemies outside. Channels for 6s with +45% Damage\nResistance and control immunity. Enemies touching the\nfield take [Damage Rate: 300%] Physical Damage, and are\nSilenced and Slowed by 60% for 4s. Also knocks them\nback 11m from center. The Sandstorm applies 60% Slow.",
+            "unlock": "TIER_I"
+          },
+          {
+            "gameId": "Paragon_Skill_Str_1_Passive",
+            "gearName": "Sirokos",
+            "skillName": "Sand Veil",
+            "manaCost": "0",
+            "cooldown": "20",
+            "castingRange": "0",
+            "type": "Passive",
+            "description": "Creates a circular storm field around the caster for 4s\nwhen causing Forced Movement (Pull, Knockback). Deals\n[Damage Rate: 100%] Physical Damage to enemies in\nfield, inflicting 40% Slow and a 40% chance to miss Basic\nAttacks for 3s. (Cooldown: 20s)",
+            "unlock": "TIER_IV"
+          }
+        ]
       },
-      {
-        "gameId": "Shoes_Str_7",
-        "gearName": "Avalanche Boots",
-        "skillName": "Mountain Crash",
-        "manaCost": "0",
-        "cooldown": "28",
-        "castingRange": "9",
-        "type": "Skill",
-        "description": "Leaps to the target location, dealing [Damage Rate: 150%] Physical Damage and inflicting Knockup for 1s to enemies upon landing. Then adjusts direction and leaps again toward the target, dealing another [Damage Rate: 150%] Physical Damage and inflicting Knockup for 1s on enemies upon landing. During the skill's duration, immune to control effects and gains +80% Damage Resistance.",
-        "unlock": "Tier_I"
+      "paragon_str_2": {
+        "gameid": "paragon_str_2",
+        "name": "Kyra",
+        "spells": [
+          {
+            "gameId": "Paragon_Skill_Str_2",
+            "gearName": "Kyra",
+            "skillName": "Frozen Maelstrom",
+            "manaCost": "25",
+            "cooldown": "28",
+            "castingRange": "10",
+            "type": "Skill",
+            "description": "After a brief charge-up, unleash a Frozen Maelstrom\nforward, dealing 640[Damage Rate: 200%] Magic Damage\nto enemies in the area, applying Slow by 40%% and\nreducing Attack Speed by 40%%, lasting 6s. The punch\nalso deals 960[Damage Rate: 300%] additional Magic\nDamage to enemies directly in front and applies Frozen\nfor 3s.",
+            "unlock": "TIER_I"
+          },
+          {
+            "gameId": "Paragon_Skill_Str_2_Passive",
+            "gearName": "Kyra",
+            "skillName": "Fractured Ice",
+            "manaCost": "0",
+            "cooldown": "20",
+            "castingRange": "0",
+            "type": "Passive",
+            "description": "Gains 25% Damage Resistance if damage is dealt within\n5, lasts for 6s. When taking damage during this time,\nsends forth freezing air in all directions, dealing\n256[Damage Rate: 80%] Magic Damage to targets within\nrange, reducing Attack Speed by 30% and Movement\nSpeed by 30% for 4s. Minimum interval of 1s. (Cooldown:\n20s)",
+            "unlock": "TIER_IV"
+          }
+        ]
+      },
+      "paragon_str_3": {
+        "gameid": "paragon_str_3",
+        "name": "Izzy",
+        "spells": [
+          {
+            "gameId": "Paragon_Skill_Str_3",
+            "gearName": "Izzy",
+            "skillName": "Acid Blast",
+            "manaCost": "27",
+            "cooldown": "42",
+            "castingRange": "7",
+            "type": "Skill",
+            "description": "Sprays ooze for 4s, creating 4 ooze zones every second\nthat last 8.5s. Enemies in ooze zones are Slowed by 50%.\nEnemies entering ooze zones gain [Acid Blast].\n\n[Acid Blast]\nReduces Damage by 40% and cancels Stealth. Takes\n[Damage Rate: 20%] Magic Damage every 1s per stack for\n6s. Stacks up to 3 times.",
+            "unlock": "TIER_I"
+          },
+          {
+            "gameId": "Paragon_Skill_Str_3_Passive",
+            "gearName": "Izzy",
+            "skillName": "Corrosion Barrier",
+            "manaCost": "0",
+            "cooldown": "0",
+            "castingRange": "0",
+            "type": "Passive",
+            "description": "After taking 5 instances of damage, releases acid\noutward, dealing [Damage Rate: 70%] Magic Damage to\nenemies in range, reducing their damage dealt by 25% and\nMovement Speed by 25% for 4s.",
+            "unlock": "TIER_IV"
+          }
+        ]
+      },
+      "paragon_str_4": {
+        "gameid": "paragon_str_4",
+        "name": "Varnax",
+        "spells": [
+          {
+            "gameId": "Paragon_Skill_Str_4",
+            "gearName": "Varnax",
+            "skillName": "Magma Slam",
+            "manaCost": "17",
+            "cooldown": "18",
+            "castingRange": "10",
+            "type": "Skill",
+            "description": "Leaps to the target location. Gains immunity to control\nduring leap. Deals[Damage Rate: 350%] Physical\nDamage and knocks enemies in the area up for 1.5s.",
+            "unlock": "TIER_I"
+          },
+          {
+            "gameId": "Paragon_Skill_Str_4_Passive",
+            "gearName": "Varnax",
+            "skillName": "Seismic Impact",
+            "manaCost": "0",
+            "cooldown": "5",
+            "castingRange": "0",
+            "type": "Passive",
+            "description": "When inflicting Immobilize or Hard Control (Stun, Fear,\nFreeze, Knockup, Petrify), drops a meteor after 1s, dealing\n480[Damage Rate: 150%] Physical Damage and 30% Slow\nfor 3s. (Cooldown: 5s)",
+            "unlock": "TIER_IV"
+          }
+        ]
+      },
+      "paragon_str_5": {
+        "gameid": "paragon_str_5",
+        "name": "Aegis",
+        "spells": [
+          {
+            "gameId": "Paragon_Skill_Str_5",
+            "gearName": "Aegis",
+            "skillName": "Shield of Conviction",
+            "manaCost": "27",
+            "cooldown": "42",
+            "castingRange": "7",
+            "type": "Skill",
+            "description": "Grants Shield of Conviction to up to 5 allies around the\ncaster for 6s. Allies with Shield of Conviction gain\n[Target-based Max HP 30%] Shield effect, and 30% of\ndamage dealt will be converted into shield value, up to\n[Target-based Max HP 15%] additional Shield. After 6s, if\nthe shield remains unbroken, deals [Damage Rate: 300%]\nMagic Damage to nearby enemies. Subsequent\nexplosions deal reduced damage (15%).",
+            "unlock": "TIER_I"
+          },
+          {
+            "gameId": "Paragon_Skill_Str_5_Passive",
+            "gearName": "Aegis",
+            "skillName": "Defiant Resolve",
+            "manaCost": "0",
+            "cooldown": "20",
+            "castingRange": "",
+            "type": "Passive",
+            "description": "Gains immunity to control effects and 20% Damage\nResistance whenever gaining shield for as long as the\nshield remains. (Cooldown: 20s)",
+            "unlock": "TIER_IV"
+          }
+        ]
+      },
+      "paragon_str_6": {
+        "gameid": "paragon_str_6",
+        "name": "Durion",
+        "spells": [
+          {
+            "gameId": "Paragon_Skill_Str_6",
+            "gearName": "Durion",
+            "skillName": "Protector's Radiance",
+            "manaCost": "33",
+            "cooldown": "42",
+            "castingRange": "10",
+            "type": "Skill",
+            "description": "Channel for 6s, gaining immunity to control. Allies on the\nfield gain +40% Max HP and immunity to Forced\nMovement (Pull, Knockback). Each 5000 total damage\ntaken by allies grants 1 Energy stack, up to 5.\nUse again within 12s of starting the channeling to\nunleash absorbed energy, dealing [Damage Rate:\n350%]-[Damage Rate: 700%] Magic Damage based on\nstacks and reducing Movement Speed by 30% for 4s.",
+            "unlock": "TIER_I"
+          },
+          {
+            "gameId": "Paragon_Skill_Str_6_Passive",
+            "gearName": "Durion",
+            "skillName": "Reflective Shield",
+            "manaCost": "0",
+            "cooldown": "25",
+            "castingRange": "0",
+            "type": "Passive",
+            "description": "Taking damage equal to 10% of Max HP within 5s after\nskill cast grants 25% Damage Resistance for 6s. During\nthis time, reflect Magic Damage equal to 65% + 1.5% of\nMax HP to the attacker. (Cooldown: 25s)",
+            "unlock": "TIER_IV"
+          }
+        ]
+      },
+      "paragon_str_7": {
+        "gameid": "paragon_str_7",
+        "name": "Draknor",
+        "spells": [
+          {
+            "gameId": "Paragon_Skill_Str_7",
+            "gearName": "Draknor",
+            "skillName": "Shackled Grip",
+            "manaCost": "25",
+            "cooldown": "28",
+            "castingRange": "4",
+            "type": "Skill",
+            "description": "Channel for 4s with control immunity and 30% increased\nMovement Speed. On hit, deals [Damage Rate: 215%]\nPhysical Damage and creates a chain link (max 5 chains).\nChains break at range limit. After the channeling ends,\npull all chained targets to deal [Damage Rate: 215%]\nPhysical Damage and Stun them for 1.5s.",
+            "unlock": "TIER_I"
+          },
+          {
+            "gameId": "Paragon_Skill_Str_7_Passive",
+            "gearName": "Draknor",
+            "skillName": "Imprisonment",
+            "manaCost": "0",
+            "cooldown": "20",
+            "castingRange": "0",
+            "type": "Passive",
+            "description": "When inflicting Forced Movement (Pull, Knockback) on\nenemies, creates a circular prison lasting 4s. Enemies\ntouching the prison take [Damage Rate: 100%] Magic\nDamage and are Immobilized until the prison ends\n(Cooldown: 20s)",
+            "unlock": "TIER_IV"
+          }
+        ]
+      },
+      "paragon_str_8": {
+        "gameid": "paragon_str_8",
+        "name": "Auri",
+        "spells": [
+          {
+            "gameId": "Paragon_Skill_Str_8",
+            "gearName": "Auri",
+            "skillName": "Skyward Leap",
+            "manaCost": "30",
+            "cooldown": "42",
+            "castingRange": "16",
+            "type": "Skill",
+            "description": "Creates a protection zone at the target location that\ngrants allies within +30% Damage Resistance, +40%\nHealing Received, +40% Dodge and heals for [Healing\nRate: 50%] HP every second. Then leaps to the target\nlocation, dealing [Damage Rate: 250%] Physical Damage\nto those hit and knocking them up for 1s.\nImmune to control during prep and leap.",
+            "unlock": "TIER_I"
+          },
+          {
+            "gameId": "Paragon_Skill_Str_8_Passive",
+            "gearName": "Auri",
+            "skillName": "Healing Guardian",
+            "manaCost": "0",
+            "cooldown": "20",
+            "castingRange": "0",
+            "type": "Passive",
+            "description": "Gains 25% Damage Resistance for 1s if HP is below 75%.\nSends healing radiation waves in all directions, healing\nallies in range for [Healing Rate: 50%] HP and granting\n[Target-based Max HP 5%] Shield every 1s for 4s.\n(Cooldown: 20s)",
+            "unlock": "TIER_IV"
+          }
+        ]
+      },
+      "paragon_str_9": {
+        "gameid": "paragon_str_9",
+        "name": "Firestorm",
+        "spells": [
+          {
+            "gameId": "Paragon_Skill_Str_9",
+            "gearName": "Firestorm",
+            "skillName": "Cannonade",
+            "manaCost": "18",
+            "cooldown": "9.3",
+            "castingRange": "30",
+            "type": "Skill",
+            "description": "Transform into a turret for 25s. Basic Attacks become\nartillery strikes, firing projectiles at targets beyond 8m,\ndealing [Damage Rate: 250%] Physical Damage to players\n([Damage Rate: 150%] Physical Damage to mobs).\nArtillery Critical Damage is 150%.",
+            "unlock": "TIER_I"
+          },
+          {
+            "gameId": "Paragon_Skill_Str_9_Passive",
+            "gearName": "Firestorm",
+            "skillName": "Resolve",
+            "manaCost": "0",
+            "cooldown": "0",
+            "castingRange": "0",
+            "type": "Passive",
+            "description": "While standing still, gain 1 stack of [Steadfast] every\nsecond.\n[Steadfast]: +2% Critical Rate, +1.5% damage for 3s.\nStacks up to 15 times",
+            "unlock": "TIER_IV"
+          }
+        ]
       }
-    ]
+    }
+
   }
 }
