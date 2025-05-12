@@ -880,7 +880,7 @@
           "unlock": "TIER_II"
         },
         {
-          "gameId": "Bow_Light",
+          "gameId": "Bow_GravityArrow",
           "gearName": "Eclypse Bow",
           "skillName": "Shadow Vortex",
           "manaCost": "23",
