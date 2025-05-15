@@ -1294,7 +1294,7 @@
           "unlock": "1"
         },
         {
-          "gameId": "Nature_Common_Skill2",
+          "gameId": "Nature_Common_Skill_2",
           "gearName": "",
           "skillName": "Energize",
           "manaCost": "",
@@ -1305,7 +1305,7 @@
           "unlock": "3"
         },
         {
-          "gameId": "Nature_Common_Skill3",
+          "gameId": "Nature_Common_Skill_3",
           "gearName": "",
           "skillName": "Vitality Seed",
           "manaCost": "19",
@@ -1316,7 +1316,7 @@
           "unlock": "5"
         },
         {
-          "gameId": "Nature_Common_Skill5",
+          "gameId": "Nature_Common_Skill_5",
           "gearName": "",
           "skillName": "Freshness",
           "manaCost": "21",
