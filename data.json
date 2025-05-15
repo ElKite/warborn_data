@@ -1,6 +1,6 @@
 {
   "data": {
-    "lastDataUpdate": "May 14, 2025 9:23:53 PM",
+    "lastDataUpdate": " Thursday, May 15, 2025 7:19:57 AM",
     "weapon": {
       "axe": [
         {
@@ -1916,7 +1916,7 @@
           "unlock": "2"
         },
         {
-          "gameId": "HolyStaff_Single_Holy",
+          "gameId": "HolyStaff_SingleHoly",
           "gearName": "Divine Resonator",
           "skillName": "Sanctified Domain",
           "manaCost": "25",
