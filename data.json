@@ -2571,28 +2571,16 @@
       ],
       "chest_dexterity": [
         {
-          "gameId": "Cloth_Dex_1",
-          "gearName": "Ranger's Hide",
-          "skillName": "Armor Breaker",
+          "gameId": "Cloth_Dex_6",
+          "gearName": "Recovery Vest",
+          "skillName": "Bandage",
           "manaCost": "",
-          "cooldown": "18",
-          "castingRange": "7",
+          "cooldown": "32",
+          "castingRange": "6",
           "type": "Skill",
-          "description": "Deals [Damage Rate: 200%] Physical Damage to nearby\nenemies, reduces their Damage Resistance by 20% for 8s\nand increases own damage by 12% for 8s",
+          "description": "Channel for 5s, recovering [Healing Rate: 70%] HP every\nsecond.\nCan move slowly while channeling",
           "unlock": "1",
-          "rarity": "3"
-        },
-        {
-          "gameId": "Cloth_Dex_2",
-          "gearName": "Hero's Embrace",
-          "skillName": "Rally",
-          "manaCost": "",
-          "cooldown": "23",
-          "castingRange": "7",
-          "type": "Skill",
-          "description": "Creates a Rally aura around the caster, lasting 9s\nAllies within 7m gain +30% Attack Speed and +30%\nCooldown Speed",
-          "unlock": "1",
-          "rarity": "3"
+          "rarity": "1"
         },
         {
           "gameId": "Cloth_Dex_3",
@@ -2631,18 +2619,6 @@
           "rarity": "2"
         },
         {
-          "gameId": "Cloth_Dex_6",
-          "gearName": "Recovery Vest",
-          "skillName": "Bandage",
-          "manaCost": "",
-          "cooldown": "32",
-          "castingRange": "6",
-          "type": "Skill",
-          "description": "Channel for 5s, recovering [Healing Rate: 70%] HP every\nsecond.\nCan move slowly while channeling",
-          "unlock": "1",
-          "rarity": "1"
-        },
-        {
           "gameId": "Cloth_Dex_7",
           "gearName": "Beastcaller's Coat",
           "skillName": "Snarl",
@@ -2653,9 +2629,45 @@
           "description": "Snarls toward the target direction, dealing [Damage Rate:\n200%] Physical Damage to enemies in range. Reduces\ntheir Movement Speed by 40%, damage dealt by 50%, and\ndisables Stealth for 5s",
           "unlock": "1",
           "rarity": "2"
+        },
+        {
+          "gameId": "Cloth_Dex_1",
+          "gearName": "Ranger's Hide",
+          "skillName": "Armor Breaker",
+          "manaCost": "",
+          "cooldown": "18",
+          "castingRange": "7",
+          "type": "Skill",
+          "description": "Deals [Damage Rate: 200%] Physical Damage to nearby\nenemies, reduces their Damage Resistance by 20% for 8s\nand increases own damage by 12% for 8s",
+          "unlock": "1",
+          "rarity": "3"
+        },
+        {
+          "gameId": "Cloth_Dex_2",
+          "gearName": "Hero's Embrace",
+          "skillName": "Rally",
+          "manaCost": "",
+          "cooldown": "23",
+          "castingRange": "7",
+          "type": "Skill",
+          "description": "Creates a Rally aura around the caster, lasting 9s\nAllies within 7m gain +30% Attack Speed and +30%\nCooldown Speed",
+          "unlock": "1",
+          "rarity": "3"
         }
       ],
       "boots_dexterity": [
+        {
+          "gameId": "Shoes_Dex_3",
+          "gearName": "Rallystep Boots",
+          "skillName": "Sidestep",
+          "manaCost": "",
+          "cooldown": "28",
+          "castingRange": "9",
+          "type": "Skill",
+          "description": "Step 9m toward target direction. Increases Movement\nSpeed by 40% for 4s.",
+          "unlock": "1",
+          "rarity": "1"
+        },
         {
           "gameId": "Shoes_Dex_1",
           "gearName": "Swiftstride Boots",
@@ -2681,18 +2693,6 @@
           "rarity": "2"
         },
         {
-          "gameId": "Shoes_Dex_3",
-          "gearName": "Rallystep Boots",
-          "skillName": "Sidestep",
-          "manaCost": "",
-          "cooldown": "28",
-          "castingRange": "9",
-          "type": "Skill",
-          "description": "Step 9m toward target direction. Increases Movement\nSpeed by 40% for 4s.",
-          "unlock": "1",
-          "rarity": "1"
-        },
-        {
           "gameId": "Shoes_Dex_4",
           "gearName": "Deathwalker Boots",
           "skillName": "Assassinate",
@@ -2701,6 +2701,18 @@
           "castingRange": "11",
           "type": "Skill",
           "description": "Quickly dash behind target, dealing [Damage Rate: 150%]\nPhysical Damage and increasing Basic Attack Damage by\n40% for 6s.\nGains 1 charge every 20s, up to 2 charges",
+          "unlock": "1",
+          "rarity": "2"
+        },
+        {
+          "gameId": "Shoes_Dex_7",
+          "gearName": "Shadeveil Slippers",
+          "skillName": "Vanish",
+          "manaCost": "",
+          "cooldown": "28",
+          "castingRange": "6",
+          "type": "Skill",
+          "description": "Increases Movement Speed by 30%, enters Stealth after\n1s, gaining +60% Movement Speed for 4s.\nUsing a skill, dealing damage or inflicting healing breaks\nStealth",
           "unlock": "1",
           "rarity": "2"
         },
@@ -2715,18 +2727,6 @@
           "description": "Remove control effects and dash toward target direction.\nGain Control Immunity for 2s.\nCan be used while skills are disabled",
           "unlock": "1",
           "rarity": "3"
-        },
-        {
-          "gameId": "Shoes_Dex_7",
-          "gearName": "Shadeveil Slippers",
-          "skillName": "Vanish",
-          "manaCost": "",
-          "cooldown": "28",
-          "castingRange": "6",
-          "type": "Skill",
-          "description": "Increases Movement Speed by 30%, enters Stealth after\n1s, gaining +60% Movement Speed for 4s.\nUsing a skill, dealing damage or inflicting healing breaks\nStealth",
-          "unlock": "1",
-          "rarity": "2"
         },
         {
           "gameId": "Shoes_Dex_8",
