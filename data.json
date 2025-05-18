@@ -3004,6 +3004,9 @@
       "paragon_str_1": {
         "gameId": "paragon_str_1",
         "name": "Sirokos",
+        "strBonus": "2.5",
+        "dexBonus": "1",
+        "intBonus": "1",
         "spells": [
           {
             "gameId": "Paragon_Skill_Str_1",
@@ -3032,6 +3035,9 @@
       "paragon_str_2": {
         "gameId": "paragon_str_2",
         "name": "Kyra",
+        "strBonus": "2",
+        "dexBonus": "1.1",
+        "intBonus": "1",
         "spells": [
           {
             "gameId": "Paragon_Skill_Str_2",
@@ -3060,6 +3066,9 @@
       "paragon_str_3": {
         "gameId": "paragon_str_3",
         "name": "Izzy",
+        "strBonus": "3.1",
+        "dexBonus": "0.5",
+        "intBonus": "0.5",
         "spells": [
           {
             "gameId": "Paragon_Skill_Str_3",
@@ -3088,6 +3097,9 @@
       "paragon_str_4": {
         "gameId": "paragon_str_4",
         "name": "Varnax",
+        "strBonus": "2.4",
+        "dexBonus": "1.5",
+        "intBonus": "0.8",
         "spells": [
           {
             "gameId": "Paragon_Skill_Str_4",
@@ -3116,6 +3128,9 @@
       "paragon_str_5": {
         "gameId": "paragon_str_5",
         "name": "Aegis",
+        "strBonus": "2.2",
+        "dexBonus": "0.5",
+        "intBonus": "1.4",
         "spells": [
           {
             "gameId": "Paragon_Skill_Str_5",
@@ -3144,6 +3159,9 @@
       "paragon_str_6": {
         "gameId": "paragon_str_6",
         "name": "Durion",
+        "strBonus": "2.4",
+        "dexBonus": "0.7",
+        "intBonus": "1",
         "spells": [
           {
             "gameId": "Paragon_Skill_Str_6",
@@ -3172,6 +3190,9 @@
       "paragon_str_7": {
         "gameId": "paragon_str_7",
         "name": "Draknor",
+        "strBonus": "2.4",
+        "dexBonus": "1",
+        "intBonus": "1.1",
         "spells": [
           {
             "gameId": "Paragon_Skill_Str_7",
@@ -3200,6 +3221,9 @@
       "paragon_str_8": {
         "gameId": "paragon_str_8",
         "name": "Auri",
+        "strBonus": "2.1",
+        "dexBonus": "0.7",
+        "intBonus": "1.3",
         "spells": [
           {
             "gameId": "Paragon_Skill_Str_8",
@@ -3228,6 +3252,9 @@
       "paragon_str_9": {
         "gameId": "paragon_str_9",
         "name": "Firestorm",
+        "strBonus": "1.8",
+        "dexBonus": "1.5",
+        "intBonus": "0.8",
         "spells": [
           {
             "gameId": "Paragon_Skill_Str_9",
@@ -3256,6 +3283,9 @@
       "paragon_int_1": {
         "gameId": "paragon_int_1",
         "name": "ShadowSeer",
+        "strBonus": "0.5",
+        "dexBonus": "0.5",
+        "intBonus": "3.1",
         "spells": [
           {
             "gameId": "Paragon_Skill_Int_1",
@@ -3284,6 +3314,9 @@
       "paragon_int_2": {
         "gameId": "paragon_int_2",
         "name": "Solenne",
+        "strBonus": "1",
+        "dexBonus": "1.1",
+        "intBonus": "2",
         "spells": [
           {
             "gameId": "Paragon_Skill_Int_2",
@@ -3312,6 +3345,9 @@
       "paragon_int_3": {
         "gameId": "paragon_int_3",
         "name": "Hive Queen",
+        "strBonus": "1.1",
+        "dexBonus": "1",
+        "intBonus": "2",
         "spells": [
           {
             "gameId": "Paragon_Skill_Int_3",
@@ -3340,6 +3376,9 @@
       "paragon_int_4": {
         "gameId": "paragon_int_4",
         "name": "Veska",
+        "strBonus": "1",
+        "dexBonus": "0.7",
+        "intBonus": "2.1",
         "spells": [
           {
             "gameId": "Paragon_Skill_Int_4",
@@ -3368,6 +3407,9 @@
       "paragon_int_10": {
         "gameId": "paragon_int_10",
         "name": "Helix",
+        "strBonus": "1",
+        "dexBonus": "0.8",
+        "intBonus": "2.3",
         "spells": [
           {
             "gameId": "Paragon_Skill_Int_10",
@@ -3396,6 +3438,9 @@
       "paragon_int_6": {
         "gameId": "paragon_int_6",
         "name": "Raven",
+        "strBonus": "1.2",
+        "dexBonus": "0.8",
+        "intBonus": "2.1",
         "spells": [
           {
             "gameId": "Paragon_Skill_Int_6",
@@ -3424,6 +3469,9 @@
       "paragon_int_7": {
         "gameId": "paragon_int_7",
         "name": "Moonveil",
+        "strBonus": "1",
+        "dexBonus": "0.7",
+        "intBonus": "2.4",
         "spells": [
           {
             "gameId": "Paragon_Skill_Int_7",
@@ -3452,6 +3500,9 @@
       "paragon_int_11": {
         "gameId": "paragon_int_11",
         "name": "Revelation",
+        "strBonus": "0.8",
+        "dexBonus": "1",
+        "intBonus": "2.3",
         "spells": [
           {
             "gameId": "Paragon_Skill_Int_11",
@@ -3480,6 +3531,9 @@
       "paragon_int_9": {
         "gameId": "paragon_int_9",
         "name": "Astral Magus",
+        "strBonus": "1",
+        "dexBonus": "1",
+        "intBonus": "2.1",
         "spells": [
           {
             "gameId": "Paragon_Skill_Int_9",
@@ -3508,6 +3562,9 @@
       "paragon_dex_1": {
         "gameId": "paragon_dex_1",
         "name": "Elektrix",
+        "strBonus": "1",
+        "dexBonus": "2.2",
+        "intBonus": "0.9",
         "spells": [
           {
             "gameId": "Paragon_Skill_Dex_1",
@@ -3536,6 +3593,9 @@
       "paragon_dex_2": {
         "gameId": "paragon_dex_2",
         "name": "Nyxa",
+        "strBonus": "1",
+        "dexBonus": "2.1",
+        "intBonus": "1",
         "spells": [
           {
             "gameId": "Paragon_Skill_Dex_2",
@@ -3564,6 +3624,9 @@
       "paragon_dex_3": {
         "gameId": "paragon_dex_3",
         "name": "Overdrive",
+        "strBonus": "1.5",
+        "dexBonus": "1.8",
+        "intBonus": "0.8",
         "spells": [
           {
             "gameId": "Paragon_Skill_Dex_3",
@@ -3592,6 +3655,9 @@
       "paragon_dex_4": {
         "gameId": "paragon_dex_4",
         "name": "Zero",
+        "strBonus": "1.2",
+        "dexBonus": "2",
+        "intBonus": "0.9",
         "spells": [
           {
             "gameId": "Paragon_Skill_Dex_4",
@@ -3620,6 +3686,9 @@
       "paragon_dex_5": {
         "gameId": "paragon_dex_5",
         "name": "Vryssia",
+        "strBonus": "0.6",
+        "dexBonus": "2.3",
+        "intBonus": "0.8",
         "spells": [
           {
             "gameId": "Paragon_Skill_Dex_5",
@@ -3648,6 +3717,9 @@
       "paragon_dex_6": {
         "gameId": "paragon_dex_6",
         "name": "Umbra",
+        "strBonus": "0.8",
+        "dexBonus": "2.3",
+        "intBonus": "1",
         "spells": [
           {
             "gameId": "Paragon_Skill_Dex_6",
@@ -3676,6 +3748,9 @@
       "paragon_dex_7": {
         "gameId": "paragon_dex_7",
         "name": "Sanguor",
+        "strBonus": "1.2",
+        "dexBonus": "2.2",
+        "intBonus": "0.7",
         "spells": [
           {
             "gameId": "Paragon_Skill_Dex_7",
@@ -3704,6 +3779,9 @@
       "paragon_dex_8": {
         "gameId": "paragon_dex_8",
         "name": "Stormblade",
+        "strBonus": "1",
+        "dexBonus": "2.4",
+        "intBonus": "0.7",
         "spells": [
           {
             "gameId": "Paragon_Skill_Dex_8",
@@ -3732,6 +3810,9 @@
       "paragon_dex_9": {
         "gameId": "paragon_dex_9",
         "name": "Illusarch",
+        "strBonus": "1",
+        "dexBonus": "2",
+        "intBonus": "1.1",
         "spells": [
           {
             "gameId": "Paragon_Skill_Dex_9",
