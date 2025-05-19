@@ -1670,17 +1670,6 @@
       ],
       "frost": [
         {
-          "gameId": "IceStaff_Passive",
-          "gearName": "",
-          "skillName": "",
-          "manaCost": "",
-          "cooldown": "",
-          "castingRange": "",
-          "type": "Passive",
-          "description": "After not taking damage for 20s, gains [Target-based Max\nHP 20%] Shield. When hit by Basic Attacks, applies [Frost]\nto the attacker.\n[Frost]: Reduces Attack Speed and Movement Speed by\n40% for 4s, gradually weakening over time.",
-          "unlock": "0"
-        },
-        {
           "gameId": "IceStaffAttack_1",
           "gearName": "",
           "skillName": "Ice Burst",
@@ -1712,6 +1701,17 @@
           "type": "Basic_Attack",
           "description": "Replaces Basic Attack with [Frost Burst].\nLaunches three frost shards in the target direction after a\ndelay, each dealing [Damage Rate: 110%] Magic Damage\nto enemies hit. The damage from shards beyond the first\nis reduced by 25%.",
           "unlock": "6"
+        },
+{
+          "gameId": "IceStaff_Passive",
+          "gearName": "",
+          "skillName": "",
+          "manaCost": "",
+          "cooldown": "",
+          "castingRange": "",
+          "type": "Passive",
+          "description": "After not taking damage for 20s, gains [Target-based Max\nHP 20%] Shield. When hit by Basic Attacks, applies [Frost]\nto the attacker.\n[Frost]: Reduces Attack Speed and Movement Speed by\n40% for 4s, gradually weakening over time.",
+          "unlock": "0"
         },
         {
           "gameId": "IceStaff_Common_Skill_3",
