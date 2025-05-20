@@ -1,6 +1,6 @@
 {
   "data": {
-    "lastDataUpdate": "May 15, 2025 11:03:06 AM",
+    "lastDataUpdate": "May 20, 2025 11:00:00 AM",
     "weapon": {
       "axe": [
         {
@@ -3009,6 +3009,8 @@
         "intBonus": "1",
         "supportBonus": "Base Control Resistance +3.23",
         "supportMalus": "Damage Boost -1.07%",
+        "supportBonusValue": "",
+        "supportMalusValue": "",
         "spells": [
           {
             "gameId": "Paragon_Skill_Str_1",
@@ -3042,6 +3044,8 @@
         "intBonus": "1",
         "supportBonus": "Armor +9.00%",
         "supportMalus": "Physical Damage Bonus -3.60%",
+        "supportBonusValue": "",
+        "supportMalusValue": "",
         "spells": [
           {
             "gameId": "Paragon_Skill_Str_2",
@@ -3075,6 +3079,8 @@
         "intBonus": "0.5",
         "supportBonus": "Control Boost (PvP) +3.23",
         "supportMalus": "Damage Resistance -1.07%",
+        "supportBonusValue": "",
+        "supportMalusValue": "",
         "spells": [
           {
             "gameId": "Paragon_Skill_Str_3",
@@ -3108,6 +3114,8 @@
         "intBonus": "0.8",
         "supportBonus": "Damage Bonus (PvE) +4.52",
         "supportMalus": "Damage Resistance (PvE) -3.01%",
+        "supportBonusValue": "",
+        "supportMalusValue": "",
         "spells": [
           {
             "gameId": "Paragon_Skill_Str_4",
@@ -3141,6 +3149,8 @@
         "intBonus": "1.4",
         "supportBonus": "Damage Resistance (PvE) +3.23%",
         "supportMalus": "Damage Bonus (PvE) -2.15%",
+        "supportBonusValue": "",
+        "supportMalusValue": "",
         "spells": [
           {
             "gameId": "Paragon_Skill_Str_5",
@@ -3174,6 +3184,8 @@
         "intBonus": "1",
         "supportBonus": "Max HP +3.23%",
         "supportMalus": "Max MP Bonus -3.23%",
+        "supportBonusValue": "",
+        "supportMalusValue": "",
         "spells": [
           {
             "gameId": "Paragon_Skill_Str_6",
@@ -3207,6 +3219,8 @@
         "intBonus": "1.1",
         "supportBonus": "Gathering Yield Bonus +2.15%",
         "supportMalus": "",
+        "supportBonusValue": "",
+        "supportMalusValue": "",
         "spells": [
           {
             "gameId": "Paragon_Skill_Str_7",
@@ -3240,6 +3254,8 @@
         "intBonus": "1.3",
         "supportBonus": "Healing Received +3.23%",
         "supportMalus": "Healing Bonus -2.15%",
+        "supportBonusValue": "",
+        "supportMalusValue": "",
         "spells": [
           {
             "gameId": "Paragon_Skill_Str_8",
@@ -3273,6 +3289,8 @@
         "intBonus": "0.8",
         "supportBonus": "Ranged Damage Bonus +1.93%",
         "supportMalus": "Damage Resistance -1.07%",
+        "supportBonusValue": "",
+        "supportMalusValue": "",
         "spells": [
           {
             "gameId": "Paragon_Skill_Str_9",
@@ -3306,6 +3324,8 @@
         "intBonus": "3.1",
         "supportBonus": "Magic Damage Bonus +3.23%",
         "supportMalus": "Magic Resistance -3.23%",
+        "supportBonusValue": "",
+        "supportMalusValue": "",
         "spells": [
           {
             "gameId": "Paragon_Skill_Int_1",
@@ -3339,6 +3359,8 @@
         "intBonus": "2",
         "supportBonus": "Healing Bonus +3.23%",
         "supportMalus": "Healing Received -2.15%",
+        "supportBonusValue": "",
+        "supportMalusValue": "",
         "spells": [
           {
             "gameId": "Paragon_Skill_Int_2",
@@ -3372,6 +3394,8 @@
         "intBonus": "2",
         "supportBonus": "Magic Resistance +9.25%",
         "supportMalus": "Magic Damage Bonus -3.70%",
+        "supportBonusValue": "",
+        "supportMalusValue": "",
         "spells": [
           {
             "gameId": "Paragon_Skill_Int_3",
@@ -3405,6 +3429,8 @@
         "intBonus": "2.1",
         "supportBonus": "Damage Resistance (PvP) +1.61%",
         "supportMalus": "Damage Bonus (PvP) -1.07%",
+        "supportBonusValue": "",
+        "supportMalusValue": "",
         "spells": [
           {
             "gameId": "Paragon_Skill_Int_4",
@@ -3438,6 +3464,8 @@
         "intBonus": "2.3",
         "supportBonus": "Skill Cooldown Rate +1.61%",
         "supportMalus": "Skill Bonus -1.07%",
+        "supportBonusValue": "",
+        "supportMalusValue": "",
         "spells": [
           {
             "gameId": "Paragon_Skill_Int_10",
@@ -3471,6 +3499,8 @@
         "intBonus": "2.1",
         "supportBonus": "Max MP Bonus +5.38%",
         "supportMalus": "Max HP Bonus -2.15%",
+        "supportBonusValue": "",
+        "supportMalusValue": "",
         "spells": [
           {
             "gameId": "Paragon_Skill_Int_6",
@@ -3504,6 +3534,8 @@
         "intBonus": "2.4",
         "supportBonus": "Damage Bonus (PvP) +1.61%",
         "supportMalus": "Damage Resistance (PvP) -1.07%",
+        "supportBonusValue": "",
+        "supportMalusValue": "",
         "spells": [
           {
             "gameId": "Paragon_Skill_Int_7",
@@ -3537,6 +3569,8 @@
         "intBonus": "2.3",
         "supportBonus": "Loot Bonus +2.15%",
         "supportMalus": "",
+        "supportBonusValue": "",
+        "supportMalusValue": "",
         "spells": [
           {
             "gameId": "Paragon_Skill_Int_11",
@@ -3570,6 +3604,8 @@
         "intBonus": "2.1",
         "supportBonus": "Gathering Experience Bonus +2.15%",
         "supportMalus": "",
+        "supportBonusValue": "",
+        "supportMalusValue": "",
         "spells": [
           {
             "gameId": "Paragon_Skill_Int_9",
@@ -3603,6 +3639,8 @@
         "intBonus": "0.9",
         "supportBonus": "Attack Speed +5.38%",
         "supportMalus": "Basic Attack Bonus -2.69%",
+        "supportBonusValue": "",
+        "supportMalusValue": "",
         "spells": [
           {
             "gameId": "Paragon_Skill_Dex_1",
@@ -3636,6 +3674,8 @@
         "intBonus": "1",
         "supportBonus": "Physical Damage Bonus +4.81%",
         "supportMalus": "Armor -4.81%",
+        "supportBonusValue": "",
+        "supportMalusValue": "",
         "spells": [
           {
             "gameId": "Paragon_Skill_Dex_2",
@@ -3669,6 +3709,8 @@
         "intBonus": "0.8",
         "supportBonus": "Critical Rate +8.40%",
         "supportMalus": "Critical Damage -6.72",
+        "supportBonusValue": "",
+        "supportMalusValue": "",
         "spells": [
           {
             "gameId": "Paragon_Skill_Dex_3",
@@ -3702,6 +3744,8 @@
         "intBonus": "0.9",
         "supportBonus": "Basic Attack Bonus +4.12%",
         "supportMalus": "Critical Rate -2.48%",
+        "supportBonusValue": "",
+        "supportMalusValue": "",
         "spells": [
           {
             "gameId": "Paragon_Skill_Dex_4",
@@ -3735,6 +3779,8 @@
         "intBonus": "0.8",
         "supportBonus": "Dodge Rate +6.50%",
         "supportMalus": "Basic Attack Bonus -4.06%",
+        "supportBonusValue": "",
+        "supportMalusValue": "",
         "spells": [
           {
             "gameId": "Paragon_Skill_Dex_5",
@@ -3768,6 +3814,8 @@
         "intBonus": "1",
         "supportBonus": "Melee Damage Bonus +1.93%",
         "supportMalus": "Damage Resistance -1.07%",
+        "supportBonusValue": "",
+        "supportMalusValue": "",
         "spells": [
           {
             "gameId": "Paragon_Skill_Dex_6",
@@ -3801,6 +3849,8 @@
         "intBonus": "0.7",
         "supportBonus": "Gathering Rate Bonus +3.74%",
         "supportMalus": "",
+        "supportBonusValue": "",
+        "supportMalusValue": "",
         "spells": [
           {
             "gameId": "Paragon_Skill_Dex_7",
@@ -3834,6 +3884,8 @@
         "intBonus": "0.7",
         "supportBonus": "Starfall Token Acquisition Bonus +2.15%",
         "supportMalus": "",
+        "supportBonusValue": "",
+        "supportMalusValue": "",
         "spells": [
           {
             "gameId": "Paragon_Skill_Dex_8",
@@ -3867,6 +3919,8 @@
         "intBonus": "1.1",
         "supportBonus": "Experience Bonus +2.15%",
         "supportMalus": "",
+        "supportBonusValue": "",
+        "supportMalusValue": "",
         "spells": [
           {
             "gameId": "Paragon_Skill_Dex_9",
@@ -4104,6 +4158,791 @@
           }
         ]
       }
-    ]
+    ],
+    "mods": {
+      "armor": {
+        "category": "armor",
+        "mods": [
+          {
+            "name": "Vitality",
+            "iconName": "ArmorRare1",
+            "rarity": "1",
+            "slot": "all",
+            "description": "Increases Max HP by %s1%",
+            "arguments": [
+              {
+                "argumentName": "s1",
+                "argumentRange": "[60~300]"
+              }
+            ]
+          },
+          {
+            "name": "Armor",
+            "iconName": "ArmorRare2",
+            "rarity": "1",
+            "slot": "all",
+            "description": "Increases Armor by %s1%",
+            "arguments": [
+              {
+                "argumentName": "s1",
+                "argumentRange": "[4.8~24]"
+              }
+            ]
+          },
+          {
+            "name": "Magic Armor",
+            "iconName": "ArmorRare3",
+            "rarity": "1",
+            "slot": "all",
+            "description": "Increases Magic Resistance by %s1%",
+            "arguments": [
+              {
+                "argumentName": "s1",
+                "argumentRange": "[4.8~24]"
+              }
+            ]
+          },
+          {
+            "name": "Psyche",
+            "iconName": "ArmorRare4",
+            "rarity": "1",
+            "slot": "all",
+            "description": "Increases Max MP by %s1%",
+            "arguments": [
+              {
+                "argumentName": "s1",
+                "argumentRange": "[4~20]"
+              }
+            ]
+          },
+          {
+            "name": "Punish",
+            "iconName": "ArmorEpic1",
+            "rarity": "2",
+            "slot": "all",
+            "description": "When taking direct damage from Basic Attacks, has\na (melee weapons %s1% / ranged weapons %s2%)\nchance to increase the attacker's Attack Speed by\n-%s3% for 4s.\nTrigger Interval: 30s",
+            "arguments": [
+              {
+                "argumentName": "s1",
+                "argumentRange": "[10%~20%]"
+              },
+              {
+                "argumentName": "s2",
+                "argumentRange": "[-20%~40%]"
+              },
+              {
+                "argumentName": "s3",
+                "argumentRange": "[-8%~-40%]"
+              }
+            ]
+          },
+          {
+            "name": "Physical Resistance",
+            "iconName": "ArmorEpic2",
+            "rarity": "2",
+            "slot": "all",
+            "description": "When taking direct Physical Damage, has a %s1%\nchance to increase Armor by %s2% for 4s.\nTrigger Interval: 30s.",
+            "arguments": [
+              {
+                "argumentName": "s1",
+                "argumentRange": "[17%~35%]"
+              },
+              {
+                "argumentName": "s2",
+                "argumentRange": "[8%~40%]"
+              }
+            ]
+          },
+          {
+            "name": "Valor Force",
+            "iconName": "ArmorEpic3",
+            "rarity": "2",
+            "slot": "all",
+            "description": "When affected by hard control effects (Stun, Fear,\nFrozen, Knockup, Petrify), has a %s1% chance to\nincrease Crowd Control Resistance by %s2% for 4s.\nCooldown: 30s",
+            "arguments": [
+              {
+                "argumentName": "s1",
+                "argumentRange": "[17%~35%]"
+              },
+              {
+                "argumentName": "s2",
+                "argumentRange": "[10~50]"
+              }
+            ]
+          },
+          {
+            "name": "Rebound",
+            "iconName": "ArmorEpic4",
+            "rarity": "2",
+            "slot": "all",
+            "description": "Taking direct damage from Basic Attacks has a\nchance (%s2% for ranged weapons / %s1% for melee\nweapons) to grant a buff for 5s: Taking direct\ndamage from Basic Attacks has a chance (%s2% for\nranged weapons / %s1% for melee weapons) to deal\n%s3% Physical Damage to the attacker.\nTrigger Interval: 25s.",
+            "arguments": [
+              {
+                "argumentName": "s1",
+                "argumentRange": "[10%~20%]"
+              },
+              {
+                "argumentName": "s2",
+                "argumentRange": "[15%~30%]"
+              },
+              {
+                "argumentName": "s3",
+                "argumentRange": "[40%~200%]"
+              }
+            ]
+          },
+          {
+            "name": "Frenzy",
+            "iconName": "ArmorEpic5",
+            "rarity": "2",
+            "slot": "all",
+            "description": "When taking direct damage from Basic Attacks, has\na %s1% chance to increase Attack Speed by %s2% for\n5s.\nTrigger Interval: 30s.",
+            "arguments": [
+              {
+                "argumentName": "s1",
+                "argumentRange": "[20%~40%]"
+              },
+              {
+                "argumentName": "s2",
+                "argumentRange": "[8%~40%]"
+              }
+            ]
+          },
+          {
+            "name": "Emulate",
+            "iconName": "ArmorEpic6",
+            "rarity": "2",
+            "slot": "all",
+            "description": "When hit by a critical hit, has %s1% chance\n to increase Basic Attack's Critical Chance\n by %s2% for 5s.\nTrigger Interval: 30s.",
+            "arguments": [
+              {
+                "argumentName": "s1",
+                "argumentRange": "[20%~40%]"
+              },
+              {
+                "argumentName": "s2",
+                "argumentRange": "[10%~50%]"
+              }
+            ]
+          },
+          {
+            "name": "Magic Resistance",
+            "iconName": "ArmorEpic7",
+            "rarity": "2",
+            "slot": "all",
+            "description": "When hit by Magic Damage, has a %s1% chance to\nincrease Magic Resistance by %s2% for 4s.\nTrigger Interval: 30s.",
+            "arguments": [
+              {
+                "argumentName": "s1",
+                "argumentRange": "[17%~35%]"
+              },
+              {
+                "argumentName": "s2",
+                "argumentRange": "[8%~40%]"
+              }
+            ]
+          },
+          {
+            "name": "Barrier",
+            "iconName": "ArmorEpic8",
+            "rarity": "2",
+            "slot": "all",
+            "description": "When taking direct damage from skills, has a %s1%\nchance to gain [Target-based Max HP %s2%] Shield\nPoints for 4s.\nTrigger Interval: 30s.",
+            "arguments": [
+              {
+                "argumentName": "s1",
+                "argumentRange": "[17%~35%]"
+              },
+              {
+                "argumentName": "s2",
+                "argumentRange": "[3%~15%]"
+              }
+            ]
+          },
+          {
+            "name": "Absorb",
+            "iconName": "ArmorEpic9",
+            "rarity": "2",
+            "slot": "all",
+            "description": "When taking direct damage from skills, has a %s1%\nchance to restore %s2% HP and %s3% MP.\nTrigger Interval: 30s.",
+            "arguments": [
+              {
+                "argumentName": "s1",
+                "argumentRange": "[15%~30%]"
+              },
+              {
+                "argumentName": "s2",
+                "argumentRange": "[1.6%~8%]"
+              },
+              {
+                "argumentName": "s3",
+                "argumentRange": "[5~25]"
+              }
+            ]
+          },
+          {
+            "name": "Intimidate",
+            "iconName": "ArmorExclusiveLgdr1",
+            "rarity": "3",
+            "slot": "Chest",
+            "description": "When using Chest skills, deals [Damage Rate:\n%s1%] Magic Damage to nearby enemies\nand reduces their Movement Speed by %s3% and\ndamage dealt by %s2% for 4s.\nTrigger Interval: 10s",
+            "arguments": [
+              {
+                "argumentName": "s1",
+                "argumentRange": "[12%~60%]"
+              },
+              {
+                "argumentName": "s2",
+                "argumentRange": "[-3%~-15%]"
+              },
+              {
+                "argumentName": "s3",
+                "argumentRange": "[-6%~-30%]"
+              }
+            ]
+          },
+          {
+            "name": "Charge Up",
+            "iconName": "ArmorExclusiveLgdr2",
+            "rarity": "3",
+            "slot": "Chest",
+            "description": "When using Chest skills, detonates after 1s to deal\n[Damage Rate: %s1%] Physical\nDamage to nearby enemies and modify Attack\nSpeed by %s2% for 4s.\nTrigger Interval: 10s",
+            "arguments": [
+              {
+                "argumentName": "s1",
+                "argumentRange": "[20%~100%]"
+              },
+              {
+                "argumentName": "s2",
+                "argumentRange": "[-12%~-60%]"
+              }
+            ]
+          },
+          {
+            "name": "Pain Relief",
+            "iconName": "ArmorExclusiveLgdr3",
+            "rarity": "3",
+            "slot": "Chest",
+            "description": "When using Chest skills, restores %s1% HP and \n %s2%MP to nearby allies.\nTrigger Interval: 10s.",
+            "arguments": [
+              {
+                "argumentName": "s1",
+                "argumentRange": "[1.3%~6.5%]"
+              },
+              {
+                "argumentName": "s2",
+                "argumentRange": "[8~40]"
+              }
+            ]
+          },
+          {
+            "name": "Protection",
+            "iconName": "ArmorExclusiveLgdr4",
+            "rarity": "3",
+            "slot": "Boots",
+            "description": "When using Boots Skills, the character gains an\nadditional [Target-based Max HP %s1%] Shield Value\nfor 4s.\nTrigger Interval: 20s",
+            "arguments": [
+              {
+                "argumentName": "s1",
+                "argumentRange": "[4%~20%]"
+              }
+            ]
+          },
+          {
+            "name": "Deception",
+            "iconName": "ArmorExclusiveLgdr5",
+            "rarity": "3",
+            "slot": "Boots",
+            "description": "When using Boots skills,\n throw a trap at your feet;\n When triggered by an enemy,\n deal [Damage Rate: %s1%] Physical Damage\n and stuns them for %s2%.\nTrigger Interval: 20s",
+            "arguments": [
+              {
+                "argumentName": "s1",
+                "argumentRange": "[12%~60%]"
+              },
+              {
+                "argumentName": "s2",
+                "argumentRange": "[0.4~0.4]"
+              }
+            ]
+          },
+          {
+            "name": "Divine Blessing",
+            "iconName": "ArmorExclusiveLgdr6",
+            "rarity": "3",
+            "slot": "Boots",
+            "description": "When using Boot skills, restores %s1% HP and\nbecomes immune to control effects for 2s.\nCooldown: 20s",
+            "arguments": [
+              {
+                "argumentName": "s1",
+                "argumentRange": "[0.9%~4.5%]"
+              }
+            ]
+          },
+          {
+            "name": "Roar",
+            "iconName": "ArmorExclusiveLgdr7",
+            "rarity": "3",
+            "slot": "all",
+            "description": "When affected by hard control effects (Stun, Fear,\nFreeze, Knockup, Petrify), has a %s1% chance to cast\na Bellow that deals [Damage Rate:%s2%]\n Physical Damage to nearby\nenemies and inflicts Fear for 1.5s.\nTrigger Interval: 30s.",
+            "arguments": [
+              {
+                "argumentName": "s1",
+                "argumentRange": "[17%~35%]"
+              },
+              {
+                "argumentName": "s2",
+                "argumentRange": "[20%~100%]"
+              }
+            ]
+          },
+          {
+            "name": "Counter",
+            "iconName": "ArmorExclusiveLgdr8",
+            "rarity": "3",
+            "slot": "all",
+            "description": "When taking direct damage from Basic Attacks, has\na %s1% chance to trigger: for the next 5 seconds,\nany direct damage from Basic Attacks reflects %s2%\nMagic Damage to the attacker and modifies their\nArmor by %s3% for 4s.\nCooldown: 25s.",
+            "arguments": [
+              {
+                "argumentName": "s1",
+                "argumentRange": "[15%~30%]"
+              },
+              {
+                "argumentName": "s2",
+                "argumentRange": "[16%~80%]"
+              },
+              {
+                "argumentName": "s3",
+                "argumentRange": "[-4%~-20%]"
+              }
+            ]
+          },
+          {
+            "name": "Muzzle",
+            "iconName": "ArmorExclusiveLgdr9",
+            "rarity": "3",
+            "slot": "all",
+            "description": "When taking direct damage from skills, has a %s1%\nchance to deal [Damage Rate: %s2%] Magic Damage\n to all enemy targets within the damage source's range,\n drain %s4% MP, and\nreduce the damage they deal by %s3% for 4s.\nTrigger Interval: 30s",
+            "arguments": [
+              {
+                "argumentName": "s1",
+                "argumentRange": "[15%~30%]"
+              },
+              {
+                "argumentName": "s2",
+                "argumentRange": "[12%~60%]"
+              },
+              {
+                "argumentName": "s3",
+                "argumentRange": "[-4%~-20%]"
+              },
+              {
+                "argumentName": "s4",
+                "argumentRange": "[5~25]"
+              }
+            ]
+          }
+        ]
+      },
+      "weapon": {
+        "category": "weapon",
+        "mods": [
+          {
+            "name": "Advance",
+            "iconName": "WeaponRare1",
+            "rarity": "1",
+            "slot": "all",
+            "description": "Increases Basic Attack Damage by %s1%",
+            "arguments": [
+              {
+                "argumentName": "s1",
+                "argumentRange": "[5%~10%]"
+              }
+            ]
+          },
+          {
+            "name": "Tactics",
+            "iconName": "WeaponRare2",
+            "rarity": "1",
+            "slot": "all",
+            "description": "Increases Skill Effect by %s1%",
+            "arguments": [
+              {
+                "argumentName": "s1",
+                "argumentRange": "[2.5%~5%]"
+              }
+            ]
+          },
+          {
+            "name": "Armor Breaker",
+            "iconName": "WeaponEpic1",
+            "rarity": "2",
+            "slot": "all",
+            "description": "When weapon skills deal direct Physical Damage,\nhas a %s1% chance to modifify the target's Armor by \n %s2% for 4s.\nTrigger Interval: 30s",
+            "arguments": [
+              {
+                "argumentName": "s1",
+                "argumentRange": "[15%~30%]"
+              },
+              {
+                "argumentName": "s2",
+                "argumentRange": "[-4%~-20%]"
+              }
+            ]
+          },
+          {
+            "name": "Fortify",
+            "iconName": "WeaponEpic2",
+            "rarity": "2",
+            "slot": "all",
+            "description": "When Basic Attacks deal direct damage, has a\n(melee weapons %s1% / ranged weapons %s2%)\nchance to gain [Target-based Max HP %s3%] Shield\nfor 4s.\nTrigger Interval: 30s.",
+            "arguments": [
+              {
+                "argumentName": "s1",
+                "argumentRange": "[15%~30%]"
+              },
+              {
+                "argumentName": "s2",
+                "argumentRange": "[7.5%~15%]"
+              },
+              {
+                "argumentName": "s3",
+                "argumentRange": "[3%~15%]"
+              }
+            ]
+          },
+          {
+            "name": "Dominate",
+            "iconName": "WeaponEpic3",
+            "rarity": "2",
+            "slot": "all",
+            "description": "When weapon skills or Basic Attacks deal Direct\nDamage to enemies under Hard Control effects\n(Stun, Fear, Freeze, Knockup, Petrify), there is a\n%s1% chance to reduce their Damage Resistance by\n%s2% for 4s.\nCooldown: 30s.",
+            "arguments": [
+              {
+                "argumentName": "s1",
+                "argumentRange": "[17%~35%]"
+              },
+              {
+                "argumentName": "s2",
+                "argumentRange": "[-3%~-15%]"
+              }
+            ]
+          },
+          {
+            "name": "Upperhand",
+            "iconName": "WeaponEpic4",
+            "rarity": "2",
+            "slot": "all",
+            "description": "When dealing direct damage with Basic Attacks,\nhas a %s1% chance to increase Basic Attack\nDamage by %s2% for 6s.\nTrigger Interval: 30s.",
+            "arguments": [
+              {
+                "argumentName": "s1",
+                "argumentRange": "[17%~35%]"
+              },
+              {
+                "argumentName": "s2",
+                "argumentRange": "[7%~35%]"
+              }
+            ]
+          },
+          {
+            "name": "Pursuit",
+            "iconName": "WeaponEpic5",
+            "rarity": "2",
+            "slot": "all",
+            "description": "When dealing direct damage with Basic Attacks,\nhas a (melee weapons %s1% / ranged weapons %s2%)\nchance to modify the target's Movement Speed by\n%s3% for 4s.\nTrigger Interval: 10s",
+            "arguments": [
+              {
+                "argumentName": "s1",
+                "argumentRange": "[15%~30%]"
+              },
+              {
+                "argumentName": "s2",
+                "argumentRange": "[7.5%~15%]"
+              },
+              {
+                "argumentName": "s3",
+                "argumentRange": "[-7%~-35%]"
+              }
+            ]
+          },
+          {
+            "name": "Ravage",
+            "iconName": "WeaponEpic6",
+            "rarity": "2",
+            "slot": "all",
+            "description": "When scoring a Critical Hit, has a %s1% chance to\nmodify the target's Damage Resistance by %s2% for\n4s.\nTrigger Interval: 30s.",
+            "arguments": [
+              {
+                "argumentName": "s1",
+                "argumentRange": "[17%~35%]"
+              },
+              {
+                "argumentName": "s2",
+                "argumentRange": "[-4%~-20%]"
+              }
+            ]
+          },
+          {
+            "name": "Magic Break",
+            "iconName": "WeaponEpic7",
+            "rarity": "2",
+            "slot": "all",
+            "description": "When weapon skills deal direct Magic Damage, has\na %s1% chance to modify the target's Magic\nResistance by %s2% for 4s.\nTrigger Interval: 30s",
+            "arguments": [
+              {
+                "argumentName": "s1",
+                "argumentRange": "[17%~35%]"
+              },
+              {
+                "argumentName": "s2",
+                "argumentRange": "[-4%~-20%]"
+              }
+            ]
+          },
+          {
+            "name": "Charge",
+            "iconName": "WeaponEpic8",
+            "rarity": "2",
+            "slot": "all",
+            "description": "When weapon skills deal direct damage, has a %s1%\nchance to restore %s2% MP.\nTrigger Interval: 10s.",
+            "arguments": [
+              {
+                "argumentName": "s1",
+                "argumentRange": "[15%~30%]"
+              },
+              {
+                "argumentName": "s2",
+                "argumentRange": "[10~50]"
+              }
+            ]
+          },
+          {
+            "name": "Fortify",
+            "iconName": "WeaponEpic9",
+            "rarity": "2",
+            "slot": "all",
+            "description": "When Basic Attacks deal direct damage, has a\n(melee weapons %s1% / ranged weapons %s2%)\nchance to gain [Target-based Max HP %s3%] Shield\nfor 4s.\nTrigger Interval: 30s.",
+            "arguments": [
+              {
+                "argumentName": "s1",
+                "argumentRange": "[15%~30%]"
+              },
+              {
+                "argumentName": "s2",
+                "argumentRange": "[7.5%~15%]"
+              },
+              {
+                "argumentName": "s3",
+                "argumentRange": "[3%~15%]"
+              }
+            ]
+          },
+          {
+            "name": "Valor",
+            "iconName": "WeaponExclusiveLgdr1",
+            "rarity": "3",
+            "slot": "sword",
+            "description": "Only triggers with Greatswords\nWhen weapon skills or Basic Attacks deal direct\ndamage, has a %s1% chance to gain 2 stacks of\nSword Momentum and increase Damage\nResistance by %s2% for 4s.\nTrigger Interval: 15s.\nSword Momentum: Damage Boost: +3% (3% per\nstack, can stack)\nDamage Resistance: +4% (4% per stack, can stack)\nAttack Speed: +4% (4% per stack, can stack)",
+            "arguments": [
+              {
+                "argumentName": "s1",
+                "argumentRange": "[15%~30%]"
+              },
+              {
+                "argumentName": "s2",
+                "argumentRange": "[3%~15%]"
+              }
+            ]
+          },
+          {
+            "name": "Disrupt",
+            "iconName": "WeaponExclusiveLgdr2",
+            "rarity": "3",
+            "slot": "mace",
+            "description": "Only triggers with Maces\nWhen weapon skills or Basic Attacks deal Direct\nDamage, has a 35% chance to create a disruption\nfield around the caster. Enemies within take %s1%\nreduced Damage and have their Attack Speed\nreduced by %s2% for 4s.\nCooldown: 15s.",
+            "arguments": [
+              {
+                "argumentName": "s1",
+                "argumentRange": "[-5%~-25%]"
+              },
+              {
+                "argumentName": "s2",
+                "argumentRange": "[-20%~-40%]"
+              }
+            ]
+          },
+          {
+            "name": "Seize Chance",
+            "iconName": "WeaponExclusiveLgdr3",
+            "rarity": "3",
+            "slot": "axe",
+            "description": "Only triggers with Axes\nWhen gaining the [Bloodthirst] buff, has a 25%\nchance to increase Attack Speed by %s2% and\nDamage by %s1% for 6s.\nTrigger Interval: 20s.",
+            "arguments": [
+              {
+                "argumentName": "s1",
+                "argumentRange": "[2%~10%]"
+              },
+              {
+                "argumentName": "s2",
+                "argumentRange": "[8%~40%]"
+              }
+            ]
+          },
+          {
+            "name": "Detonate",
+            "iconName": "WeaponExclusiveLgdr4",
+            "rarity": "3",
+            "slot": "bow",
+            "description": "Only triggers with Bows\nWhen arrows deal direct damage, has a %s1%\nchance of creating an explosion at the target\nlocation dealing [Damage Rate: %s2%] Physical Damage\n and applying[Target Mark].\nTrigger Interval: 10s.",
+            "arguments": [
+              {
+                "argumentName": "s1",
+                "argumentRange": "[15%~30%]"
+              },
+              {
+                "argumentName": "s2",
+                "argumentRange": "[20%~100%]"
+              }
+            ]
+          },
+          {
+            "name": "Synergy",
+            "iconName": "WeaponExclusiveLgdr5",
+            "rarity": "3",
+            "slot": "spear",
+            "description": "Only triggers with Spears\nWhen scoring a Critical Hit, has a %s1% chance to\nincrease Attack Speed by %s2% for 6s.\nCooldown: 15s",
+            "arguments": [
+              {
+                "argumentName": "s1",
+                "argumentRange": "[17%~35%]"
+              },
+              {
+                "argumentName": "s2",
+                "argumentRange": "[13%~65%]"
+              }
+            ]
+          },
+          {
+            "name": "Annihilate",
+            "iconName": "WeaponExclusiveLgdr6",
+            "rarity": "3",
+            "slot": "dagger",
+            "description": "Only triggers with Daggers\nAgainst targets below 40%, Basic Attacks have a\n%s1% chance to deal additional [Damage Rate: %s2%]Physical Damage\nand apply 2 stacks of [Bleed].\nTrigger Interval: 15s.\n[Bleed]: Deals [Damage Rate: 30%] Physical\nDamage every second for 8s, stacking up to 6\ntimes. At max stacks, causes Hemorrhage,\nremoving all stacks and instantly dealing [Damage\nRate: 100%] Physical Damage.",
+            "arguments": [
+              {
+                "argumentName": "s1",
+                "argumentRange": "[15%~30%]"
+              },
+              {
+                "argumentName": "s2",
+                "argumentRange": "[20%~100%]"
+              }
+            ]
+          },
+          {
+            "name": "Wild Growth",
+            "iconName": "WeaponExclusiveLgdr7",
+            "rarity": "3",
+            "slot": "nature",
+            "description": "Only triggers with Bloom Staves\nWhen weapon skills or Basic Attacks directly heal\nan ally with Recovery, has a %s1% * Recovery stacks\nchance to grant [Target-based Max HP %s2%] Shield\nfor 4s.\nTrigger Interval: 15s.\nRecovery: Restores [Healing Rate: 12%] HP every\nsecond for 12s, stacking up to 3 times.",
+            "arguments": [
+              {
+                "argumentName": "s1",
+                "argumentRange": "[7.5%~15%]"
+              },
+              {
+                "argumentName": "s2",
+                "argumentRange": "[3%~15%]"
+              }
+            ]
+          },
+          {
+            "name": "Ice Blast",
+            "iconName": "WeaponExclusiveLgdr8",
+            "rarity": "3",
+            "slot": "ice",
+            "description": "Only triggers with Ice Foci\nWhen weapon skills or Basic Attacks deal direct\ndamage, has a %s1% chance to trigger a frost\nexplosion at the target location \nthat deals [Damage Rate: %s2%] Magic Damage\n to all enemies within 4m and inflicts Frost.\nTrigger Interval: 20s.\nFrost: Movement Speed is reduced by -40% for 4s,\nSlow gradually diminishes over time",
+            "arguments": [
+              {
+                "argumentName": "s1",
+                "argumentRange": "[15%~30%]"
+              },
+              {
+                "argumentName": "s2",
+                "argumentRange": "[10%~50%]"
+              }
+            ]
+          },
+          {
+            "name": "Flame Blast",
+            "iconName": "WeaponExclusiveLgdr9",
+            "rarity": "3",
+            "slot": "fire",
+            "description": "Only triggers with Cannonades\nWhen weapon skills or Basic Attacks deal direct\ndamage, has a %s1% chance to trigger a flame\nexplosion at the target location \nthat deals [Damage Rate: %s2%] Magic Damage \nto all enemies within 4m and inflicts 2\nstacks of Burn.\nTrigger Interval: 15s.\nBurn: Deals [Damage Rate: 25%] Magic Damage\nevery second for 8s, stacking up to 6 times. At 6\nstacks, removes the effect and deals [Damage\nRate: 80%] Magic Damage to enemy targets within\n4m of the carrier.",
+            "arguments": [
+              {
+                "argumentName": "s1",
+                "argumentRange": "[15%~30%]"
+              },
+              {
+                "argumentName": "s2",
+                "argumentRange": "[20%~100%]"
+              }
+            ]
+          },
+          {
+            "name": "Blessing",
+            "iconName": "WeaponExclusiveLgdr10",
+            "rarity": "3",
+            "slot": "holy",
+            "description": "Only triggers with Radiant Fluxes\nWhen weapon skills or Basic Attacks apply direct\nhealing to allies, has a %s1% chance to increase\ntarget's Damage Resistance by %s2% for 5s.\nTrigger Interval: 15s.",
+            "arguments": [
+              {
+                "argumentName": "s1",
+                "argumentRange": "[15%~30%]"
+              },
+              {
+                "argumentName": "s2",
+                "argumentRange": "[5%~25%]"
+              }
+            ]
+          },
+          {
+            "name": "Curse",
+            "iconName": "WeaponExclusiveLgdr10",
+            "rarity": "3",
+            "slot": "curse",
+            "description": "Only triggers with Voidcallers\nWhen weapon skills or Basic Attacks inflict DoT\neffects on enemies, has a %s1% chance to inflict 2\nstacks of Plague.\nTrigger Interval: %s2%s.\nPlague: Deals [Damage Rate: 20%] Magic Damage\nevery 3s for 13s. Stacks up to 10 times.",
+            "arguments": [
+              {
+                "argumentName": "s1",
+                "argumentRange": "[15%~30%]"
+              },
+              {
+                "argumentName": "s2",
+                "argumentRange": "[30~15]"
+              }
+            ]
+          },
+          {
+            "name": "Renovate",
+            "iconName": "WeaponExclusiveLgdr11",
+            "rarity": "3",
+            "slot": "gun",
+            "description": "When Weapon Skills or Basic Attacks deal direct\n damage, has a %s1% chance to restore 1 bullet and \n boosts Basic Attack Damage by %s2% for 5s.\nTrigger Interval: 15s.",
+            "arguments": [
+              {
+                "argumentName": "s1",
+                "argumentRange": "[15%~30%]"
+              },
+              {
+                "argumentName": "s2",
+                "argumentRange": "[10%~50%]"
+              }
+            ]
+          }
+        ]
+      }
+    }
   }
 }
