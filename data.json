@@ -4940,6 +4940,69 @@
                 "argumentRange": "[10%~50%]"
               }
             ]
+          },
+          {
+            "name": "EarthQuake",
+            "iconName": "WeaponLgdr1",
+            "rarity": "3",
+            "slot": "all",
+            "description": "When a weapon skill inflicts Hard Control effects\n(Stun, Fear, Frozen, Knockup, Petrify) or Pull\neffects, it has a %s1% chance to create an\nearthquake at the target's location. After a\n1.5-second delay, it deals\n [Damage Rate: %s2%] Physical Damage and\napplies Stun for %s3% seconds.\nCooldown: 30s.",
+            "arguments": [
+              {
+                "argumentName": "s1",
+                "argumentRange": "[22%~45%]"
+              },
+              {
+                "argumentName": "s2",
+                "argumentRange": "[8%~40%]"
+              },
+              {
+                "argumentName": "s3",
+                "argumentRange": "[0.3~1.5]"
+              }
+            ]
+          },
+          {
+            "name": "Rend",
+            "iconName": "WeaponLgdr2",
+            "rarity": "3",
+            "slot": "all",
+            "description": "When dealing direct damage with Basic Attacks,\nhas a %s1% chance to deal additional\n [Damage Rate: %s2%] Physical Damage \nto the current target and reduce\nMovement Speed by %s3% for 2s.\nTrigger Interval: 30s",
+            "arguments": [
+              {
+                "argumentName": "s1",
+                "argumentRange": "[15%~30%]"
+              },
+              {
+                "argumentName": "s2",
+                "argumentRange": "[20%~100%]"
+              },
+              {
+                "argumentName": "s3",
+                "argumentRange": "[-10%~-50%]"
+              }
+            ]
+          },
+          {
+            "name": "Retribution",
+            "iconName": "WeaponLgdr3",
+            "rarity": "3",
+            "slot": "all",
+            "description": "When weapon skills deal direct damage, there is a\n%s1% chance to trigger an explosion at the target\nlocation, dealing\n[Damage Rate: %s2%]Magic Damage \n and increasing\nDamage Resistance by %s3% for 4s.\nTrigger Interval: 30s.",
+            "arguments": [
+              {
+                "argumentName": "s1",
+                "argumentRange": "[15%~30%]"
+              },
+              {
+                "argumentName": "s2",
+                "argumentRange": "[8%~40%]"
+              },
+              {
+                "argumentName": "s3",
+                "argumentRange": "[-4%~-20%]"
+              }
+            ]
           }
         ]
       }
