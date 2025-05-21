@@ -2234,7 +2234,7 @@
           "cooldown": "30",
           "castingRange": "",
           "type": "Passive",
-          "description": "When dealing direct damage with Basic Attacks, increases Physical Damage by 20% for 12s. Trigger Interval: 30s Passive Skill",
+          "description": "When dealing direct damage with Basic Attacks, increases Physical Damage by 20% for 12s. Trigger Interval: 30s",
           "unlock": "0",
           "rarity": "1"
         },
@@ -2258,7 +2258,7 @@
           "cooldown": "30",
           "castingRange": "",
           "type": "Passive",
-          "description": "When dealing direct Basic Attack Damage, creates a Flame Star around the caster, lasting 6s. Reduces enemies' Magic Resistance by 50% (Magic Resistance Reduction), and deals [Damage Rate: 50%] Magic Damage every 1s. Trigger Interval: 30s Passive Debuff Skill",
+          "description": "When dealing direct Basic Attack Damage, creates a Flame Star around the caster, lasting 6s. Reduces enemies' Magic Resistance by 50% (Magic Resistance Reduction), and deals [Damage Rate: 50%] Magic Damage every 1s. Trigger Interval: 30s",
           "unlock": "1",
           "rarity": "2"
         },
@@ -2282,7 +2282,7 @@
           "cooldown": "30",
           "castingRange": "",
           "type": "Passive",
-          "description": "When dealing direct Basic Attack Damage, triggers an EMP blast at current position. After 1s, deals [Damage Rate: 250%] Physical Damage to enemies within 6m, Stuns them for 1s and reduces their damage dealt by 20% for 6s Trigger Interval: 30s Debuff Hard Control Passive Skill",
+          "description": "When dealing direct Basic Attack Damage, triggers an EMP blast at current position. After 1s, deals [Damage Rate: 250%] Physical Damage to enemies within 6m, Stuns them for 1s and reduces their damage dealt by 20% for 6s Trigger Interval: 30s",
           "unlock": "1",
           "rarity": "2"
         },
@@ -2294,7 +2294,7 @@
           "cooldown": "30",
           "castingRange": "",
           "type": "Passive",
-          "description": "When dealing direct Basic Attack Damage, creates a sandstorm around the caster, lasting 6s. Enemies within 6m are slowed by 40% and disarmed. Trigger Interval: 30s Passive Skill Disarmed",
+          "description": "When dealing direct Basic Attack Damage, creates a sandstorm around the caster, lasting 6s. Enemies within 6m are slowed by 40% and disarmed. Trigger Interval: 30s",
           "unlock": "1",
           "rarity": "3"
         },
@@ -2306,7 +2306,7 @@
           "cooldown": "30",
           "castingRange": "",
           "type": "Passive",
-          "description": "When affected by Immobilize or Forced Movement (Knockback, Pull): Immediately removes all Immobilize, Slow and Forced Movement effects, and increases Damage Resistance by 25%, grants immunity to Slow, Immobilize, and Forced Movement for 8s. Trigger Interval: 30s. Passive Skill",
+          "description": "When affected by Immobilize or Forced Movement (Knockback, Pull): Immediately removes all Immobilize, Slow and Forced Movement effects, and increases Damage Resistance by 25%, grants immunity to Slow, Immobilize, and Forced Movement for 8s. Trigger Interval: 30s.",
           "unlock": "1",
           "rarity": "3"
         }
@@ -4483,7 +4483,7 @@
             "iconName": "ArmorLgdr1",
             "rarity": "3",
             "slot": "all",
-            "description": "When affected by hard control effects (Stun, Fear,\nFreeze, Knockup, Petrify), has a %s1% chance to cast\na Bellow that deals [Damage Rate:%s2%]\n Physical Damage to nearby\nenemies and inflicts Fear for 1.5s.\nTrigger Interval: 30s.",
+            "description": "When affected by hard control effects (Stun, Fear,\nFreeze, Knockup, Petrify), has a %s1% chance to cast\na Bellow that deals [Damage Rate: %s2%]\n Physical Damage to nearby\nenemies and inflicts Fear for 1.5s.\nTrigger Interval: 30s.",
             "arguments": [
               {
                 "argumentName": "s1",
