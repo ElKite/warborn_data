@@ -4166,7 +4166,7 @@
           {
             "name": "Vitality",
             "iconName": "ArmorRare1",
-            "rarity": "1",
+            "rarity": "2",
             "slot": "all",
             "description": "Increases Max HP by %s1%",
             "arguments": [
@@ -4179,7 +4179,7 @@
           {
             "name": "Armor",
             "iconName": "ArmorRare2",
-            "rarity": "1",
+            "rarity": "2",
             "slot": "all",
             "description": "Increases Armor by %s1%",
             "arguments": [
@@ -4192,7 +4192,7 @@
           {
             "name": "Magic Armor",
             "iconName": "ArmorRare3",
-            "rarity": "1",
+            "rarity": "2",
             "slot": "all",
             "description": "Increases Magic Resistance by %s1%",
             "arguments": [
@@ -4205,7 +4205,7 @@
           {
             "name": "Psyche",
             "iconName": "ArmorRare4",
-            "rarity": "1",
+            "rarity": "2",
             "slot": "all",
             "description": "Increases Max MP by %s1%",
             "arguments": [
@@ -4549,7 +4549,7 @@
           {
             "name": "Advance",
             "iconName": "WeaponRare1",
-            "rarity": "1",
+            "rarity": "2",
             "slot": "all",
             "description": "Increases Basic Attack Damage by %s1%",
             "arguments": [
@@ -4562,7 +4562,7 @@
           {
             "name": "Tactics",
             "iconName": "WeaponRare2",
-            "rarity": "1",
+            "rarity": "2",
             "slot": "all",
             "description": "Increases Skill Effect by %s1%",
             "arguments": [
