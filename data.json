@@ -4909,7 +4909,7 @@
           },
           {
             "name": "Curse",
-            "iconName": "WeaponExclusiveLgdr10",
+            "iconName": "WeaponExclusiveLgdr11",
             "rarity": "3",
             "slot": "curse",
             "description": "Only triggers with Voidcallers\nWhen weapon skills or Basic Attacks inflict DoT\neffects on enemies, has a %s1% chance to inflict 2\nstacks of Plague.\nTrigger Interval: %s2%s.\nPlague: Deals [Damage Rate: 20%] Magic Damage\nevery 3s for 13s. Stacks up to 10 times.",
@@ -4926,7 +4926,7 @@
           },
           {
             "name": "Renovate",
-            "iconName": "WeaponExclusiveLgdr11",
+            "iconName": "WeaponExclusiveLgdr12",
             "rarity": "3",
             "slot": "gun",
             "description": "When Weapon Skills or Basic Attacks deal direct\n damage, has a %s1% chance to restore 1 bullet and \n boosts Basic Attack Damage by %s2% for 5s.\nTrigger Interval: 15s.",
