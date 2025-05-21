@@ -3007,10 +3007,10 @@
         "strBonus": "2.5",
         "dexBonus": "1",
         "intBonus": "1",
-        "supportBonus": "Base Control Resistance +3.23",
-        "supportMalus": "Damage Boost -1.07%",
-        "supportBonusValue": "",
-        "supportMalusValue": "",
+        "supportBonus": "Base Control Resistance",
+        "supportMalus": "Damage Boost",
+        "supportBonusValue": "+3.23",
+        "supportMalusValue": "-1.07%",
         "spells": [
           {
             "gameId": "Paragon_Skill_Str_1",
@@ -3042,10 +3042,10 @@
         "strBonus": "2",
         "dexBonus": "1.1",
         "intBonus": "1",
-        "supportBonus": "Armor +9.00%",
-        "supportMalus": "Physical Damage Bonus -3.60%",
-        "supportBonusValue": "",
-        "supportMalusValue": "",
+        "supportBonus": "Armor ",
+        "supportMalus": "Physical Damage Bonus",
+        "supportBonusValue": "+9.00%",
+        "supportMalusValue": " -3.60%",
         "spells": [
           {
             "gameId": "Paragon_Skill_Str_2",
@@ -3077,10 +3077,10 @@
         "strBonus": "3.1",
         "dexBonus": "0.5",
         "intBonus": "0.5",
-        "supportBonus": "Control Boost (PvP) +3.23",
-        "supportMalus": "Damage Resistance -1.07%",
-        "supportBonusValue": "",
-        "supportMalusValue": "",
+        "supportBonus": "Control Boost (PvP)",
+        "supportMalus": "Damage Resistance",
+        "supportBonusValue": " +3.23",
+        "supportMalusValue": " -1.07%",
         "spells": [
           {
             "gameId": "Paragon_Skill_Str_3",
@@ -3112,10 +3112,10 @@
         "strBonus": "2.4",
         "dexBonus": "1.5",
         "intBonus": "0.8",
-        "supportBonus": "Damage Bonus (PvE) +4.52",
-        "supportMalus": "Damage Resistance (PvE) -3.01%",
-        "supportBonusValue": "",
-        "supportMalusValue": "",
+        "supportBonus": "Damage Bonus (PvE)",
+        "supportMalus": "Damage Resistance (PvE)",
+        "supportBonusValue": " +4.52",
+        "supportMalusValue": " -3.01%",
         "spells": [
           {
             "gameId": "Paragon_Skill_Str_4",
@@ -3147,10 +3147,10 @@
         "strBonus": "2.2",
         "dexBonus": "0.5",
         "intBonus": "1.4",
-        "supportBonus": "Damage Resistance (PvE) +3.23%",
-        "supportMalus": "Damage Bonus (PvE) -2.15%",
-        "supportBonusValue": "",
-        "supportMalusValue": "",
+        "supportBonus": "Damage Resistance (PvE)",
+        "supportMalus": "Damage Bonus (PvE) ",
+        "supportBonusValue": " +3.23%",
+        "supportMalusValue": "-2.15%",
         "spells": [
           {
             "gameId": "Paragon_Skill_Str_5",
@@ -3182,10 +3182,10 @@
         "strBonus": "2.4",
         "dexBonus": "0.7",
         "intBonus": "1",
-        "supportBonus": "Max HP +3.23%",
-        "supportMalus": "Max MP Bonus -3.23%",
-        "supportBonusValue": "",
-        "supportMalusValue": "",
+        "supportBonus": "Max HP",
+        "supportMalus": "Max MP Bonus",
+        "supportBonusValue": " +3.23%",
+        "supportMalusValue": " -3.23%",
         "spells": [
           {
             "gameId": "Paragon_Skill_Str_6",
@@ -3217,9 +3217,9 @@
         "strBonus": "2.4",
         "dexBonus": "1",
         "intBonus": "1.1",
-        "supportBonus": "Gathering Yield Bonus +2.15%",
+        "supportBonus": "Gathering Yield Bonus",
         "supportMalus": "",
-        "supportBonusValue": "",
+        "supportBonusValue": " +2.15%",
         "supportMalusValue": "",
         "spells": [
           {
@@ -3252,10 +3252,10 @@
         "strBonus": "2.1",
         "dexBonus": "0.7",
         "intBonus": "1.3",
-        "supportBonus": "Healing Received +3.23%",
-        "supportMalus": "Healing Bonus -2.15%",
-        "supportBonusValue": "",
-        "supportMalusValue": "",
+        "supportBonus": "Healing Received",
+        "supportMalus": "Healing Bonus",
+        "supportBonusValue": " +3.23%",
+        "supportMalusValue": " -2.15%",
         "spells": [
           {
             "gameId": "Paragon_Skill_Str_8",
@@ -3287,10 +3287,10 @@
         "strBonus": "1.8",
         "dexBonus": "1.5",
         "intBonus": "0.8",
-        "supportBonus": "Ranged Damage Bonus +1.93%",
-        "supportMalus": "Damage Resistance -1.07%",
-        "supportBonusValue": "",
-        "supportMalusValue": "",
+        "supportBonus": "Ranged Damage Bonus",
+        "supportMalus": "Damage Resistance",
+        "supportBonusValue": " +1.93%",
+        "supportMalusValue": " -1.07%",
         "spells": [
           {
             "gameId": "Paragon_Skill_Str_9",
@@ -3322,10 +3322,10 @@
         "strBonus": "0.5",
         "dexBonus": "0.5",
         "intBonus": "3.1",
-        "supportBonus": "Magic Damage Bonus +3.23%",
-        "supportMalus": "Magic Resistance -3.23%",
-        "supportBonusValue": "",
-        "supportMalusValue": "",
+        "supportBonus": "Magic Damage Bonus",
+        "supportMalus": "Magic Resistance ",
+        "supportBonusValue": " +3.23%",
+        "supportMalusValue": "-3.23%",
         "spells": [
           {
             "gameId": "Paragon_Skill_Int_1",
@@ -3357,10 +3357,10 @@
         "strBonus": "1",
         "dexBonus": "1.1",
         "intBonus": "2",
-        "supportBonus": "Healing Bonus +3.23%",
-        "supportMalus": "Healing Received -2.15%",
-        "supportBonusValue": "",
-        "supportMalusValue": "",
+        "supportBonus": "Healing Bonus",
+        "supportMalus": "Healing Received",
+        "supportBonusValue": " +3.23%",
+        "supportMalusValue": " -2.15%",
         "spells": [
           {
             "gameId": "Paragon_Skill_Int_2",
@@ -3392,10 +3392,10 @@
         "strBonus": "1.1",
         "dexBonus": "1",
         "intBonus": "2",
-        "supportBonus": "Magic Resistance +9.25%",
-        "supportMalus": "Magic Damage Bonus -3.70%",
-        "supportBonusValue": "",
-        "supportMalusValue": "",
+        "supportBonus": "Magic Resistance",
+        "supportMalus": "Magic Damage Bonus",
+        "supportBonusValue": " +9.25%",
+        "supportMalusValue": " -3.70%",
         "spells": [
           {
             "gameId": "Paragon_Skill_Int_3",
@@ -3427,10 +3427,10 @@
         "strBonus": "1",
         "dexBonus": "0.7",
         "intBonus": "2.1",
-        "supportBonus": "Damage Resistance (PvP) +1.61%",
-        "supportMalus": "Damage Bonus (PvP) -1.07%",
-        "supportBonusValue": "",
-        "supportMalusValue": "",
+        "supportBonus": "Damage Resistance (PvP)",
+        "supportMalus": "Damage Bonus (PvP)",
+        "supportBonusValue": " +1.61%",
+        "supportMalusValue": " -1.07%",
         "spells": [
           {
             "gameId": "Paragon_Skill_Int_4",
@@ -3462,10 +3462,10 @@
         "strBonus": "1",
         "dexBonus": "0.8",
         "intBonus": "2.3",
-        "supportBonus": "Skill Cooldown Rate +1.61%",
-        "supportMalus": "Skill Bonus -1.07%",
-        "supportBonusValue": "",
-        "supportMalusValue": "",
+        "supportBonus": "Skill Cooldown Rate",
+        "supportMalus": "Skill Bonus ",
+        "supportBonusValue": " +1.61%",
+        "supportMalusValue": "-1.07%",
         "spells": [
           {
             "gameId": "Paragon_Skill_Int_10",
@@ -3497,10 +3497,10 @@
         "strBonus": "1.2",
         "dexBonus": "0.8",
         "intBonus": "2.1",
-        "supportBonus": "Max MP Bonus +5.38%",
-        "supportMalus": "Max HP Bonus -2.15%",
-        "supportBonusValue": "",
-        "supportMalusValue": "",
+        "supportBonus": "Max MP Bonus",
+        "supportMalus": "Max HP Bonus ",
+        "supportBonusValue": " +5.38%",
+        "supportMalusValue": "-2.15%",
         "spells": [
           {
             "gameId": "Paragon_Skill_Int_6",
@@ -3532,10 +3532,10 @@
         "strBonus": "1",
         "dexBonus": "0.7",
         "intBonus": "2.4",
-        "supportBonus": "Damage Bonus (PvP) +1.61%",
-        "supportMalus": "Damage Resistance (PvP) -1.07%",
-        "supportBonusValue": "",
-        "supportMalusValue": "",
+        "supportBonus": "Damage Bonus (PvP) ",
+        "supportMalus": "Damage Resistance (PvP)",
+        "supportBonusValue": "+1.61%",
+        "supportMalusValue": " -1.07%",
         "spells": [
           {
             "gameId": "Paragon_Skill_Int_7",
@@ -3567,9 +3567,9 @@
         "strBonus": "0.8",
         "dexBonus": "1",
         "intBonus": "2.3",
-        "supportBonus": "Loot Bonus +2.15%",
+        "supportBonus": "Loot Bonus",
         "supportMalus": "",
-        "supportBonusValue": "",
+        "supportBonusValue": " +2.15%",
         "supportMalusValue": "",
         "spells": [
           {
@@ -3602,9 +3602,9 @@
         "strBonus": "1",
         "dexBonus": "1",
         "intBonus": "2.1",
-        "supportBonus": "Gathering Experience Bonus +2.15%",
+        "supportBonus": "Gathering Experience Bonus",
         "supportMalus": "",
-        "supportBonusValue": "",
+        "supportBonusValue": " +2.15%",
         "supportMalusValue": "",
         "spells": [
           {
@@ -3637,10 +3637,10 @@
         "strBonus": "1",
         "dexBonus": "2.2",
         "intBonus": "0.9",
-        "supportBonus": "Attack Speed +5.38%",
-        "supportMalus": "Basic Attack Bonus -2.69%",
-        "supportBonusValue": "",
-        "supportMalusValue": "",
+        "supportBonus": "Attack Speed",
+        "supportMalus": "Basic Attack Bonus",
+        "supportBonusValue": " +5.38%",
+        "supportMalusValue": " -2.69%",
         "spells": [
           {
             "gameId": "Paragon_Skill_Dex_1",
@@ -3672,10 +3672,10 @@
         "strBonus": "1",
         "dexBonus": "2.1",
         "intBonus": "1",
-        "supportBonus": "Physical Damage Bonus +4.81%",
-        "supportMalus": "Armor -4.81%",
-        "supportBonusValue": "",
-        "supportMalusValue": "",
+        "supportBonus": "Physical Damage Bonus",
+        "supportMalus": "Armor ",
+        "supportBonusValue": " +4.81%",
+        "supportMalusValue": "-4.81%",
         "spells": [
           {
             "gameId": "Paragon_Skill_Dex_2",
@@ -3707,10 +3707,10 @@
         "strBonus": "1.5",
         "dexBonus": "1.8",
         "intBonus": "0.8",
-        "supportBonus": "Critical Rate +8.40%",
-        "supportMalus": "Critical Damage -6.72",
-        "supportBonusValue": "",
-        "supportMalusValue": "",
+        "supportBonus": "Critical Rate",
+        "supportMalus": "Critical Damage",
+        "supportBonusValue": " +8.40%",
+        "supportMalusValue": " -6.72%",
         "spells": [
           {
             "gameId": "Paragon_Skill_Dex_3",
@@ -3742,10 +3742,10 @@
         "strBonus": "1.2",
         "dexBonus": "2",
         "intBonus": "0.9",
-        "supportBonus": "Basic Attack Bonus +4.12%",
-        "supportMalus": "Critical Rate -2.48%",
-        "supportBonusValue": "",
-        "supportMalusValue": "",
+        "supportBonus": "Basic Attack Bonus",
+        "supportMalus": "Critical Rate",
+        "supportBonusValue": " +4.12%",
+        "supportMalusValue": " -2.48%",
         "spells": [
           {
             "gameId": "Paragon_Skill_Dex_4",
@@ -3777,10 +3777,10 @@
         "strBonus": "0.6",
         "dexBonus": "2.3",
         "intBonus": "0.8",
-        "supportBonus": "Dodge Rate +6.50%",
-        "supportMalus": "Basic Attack Bonus -4.06%",
-        "supportBonusValue": "",
-        "supportMalusValue": "",
+        "supportBonus": "Dodge Rate ",
+        "supportMalus": "Basic Attack Bonus",
+        "supportBonusValue": "+6.50%",
+        "supportMalusValue": " -4.06%",
         "spells": [
           {
             "gameId": "Paragon_Skill_Dex_5",
@@ -3812,10 +3812,10 @@
         "strBonus": "0.8",
         "dexBonus": "2.3",
         "intBonus": "1",
-        "supportBonus": "Melee Damage Bonus +1.93%",
-        "supportMalus": "Damage Resistance -1.07%",
-        "supportBonusValue": "",
-        "supportMalusValue": "",
+        "supportBonus": "Melee Damage Bonus",
+        "supportMalus": "Damage Resistance ",
+        "supportBonusValue": " +1.93%",
+        "supportMalusValue": "-1.07%",
         "spells": [
           {
             "gameId": "Paragon_Skill_Dex_6",
@@ -3847,9 +3847,9 @@
         "strBonus": "1.2",
         "dexBonus": "2.2",
         "intBonus": "0.7",
-        "supportBonus": "Gathering Rate Bonus +3.74%",
+        "supportBonus": "Gathering Rate Bonus",
         "supportMalus": "",
-        "supportBonusValue": "",
+        "supportBonusValue": " +3.74%",
         "supportMalusValue": "",
         "spells": [
           {
@@ -3882,9 +3882,9 @@
         "strBonus": "1",
         "dexBonus": "2.4",
         "intBonus": "0.7",
-        "supportBonus": "Starfall Token Acquisition Bonus +2.15%",
+        "supportBonus": "Starfall Token Acquisition Bonus ",
         "supportMalus": "",
-        "supportBonusValue": "",
+        "supportBonusValue": "+2.15%",
         "supportMalusValue": "",
         "spells": [
           {
@@ -3917,9 +3917,9 @@
         "strBonus": "1",
         "dexBonus": "2",
         "intBonus": "1.1",
-        "supportBonus": "Experience Bonus +2.15%",
+        "supportBonus": "Experience Bonus ",
         "supportMalus": "",
-        "supportBonusValue": "",
+        "supportBonusValue": "+2.15%",
         "supportMalusValue": "",
         "spells": [
           {
