@@ -3992,13 +3992,13 @@
             "drifterId": "paragon_str_2"
           },
           {
-            "drifterName": "paragon_str_4"
+            "drifterId": "paragon_str_4"
           },
           {
-            "drifterName": "paragon_str_5"
+            "drifterId": "paragon_str_5"
           },
           {
-            "drifterName": "paragon_str_7"
+            "drifterId": "paragon_str_7"
           }
         ]
       },
@@ -4480,7 +4480,7 @@
           },
           {
             "name": "Roar",
-            "iconName": "ArmorExclusiveLgdr1",
+            "iconName": "ArmorLgdr1",
             "rarity": "3",
             "slot": "all",
             "description": "When affected by hard control effects (Stun, Fear,\nFreeze, Knockup, Petrify), has a %s1% chance to cast\na Bellow that deals [Damage Rate:%s2%]\n Physical Damage to nearby\nenemies and inflicts Fear for 1.5s.\nTrigger Interval: 30s.",
@@ -4497,7 +4497,7 @@
           },
           {
             "name": "Counter",
-            "iconName": "ArmorExclusiveLgdr2",
+            "iconName": "ArmorLgdr2",
             "rarity": "3",
             "slot": "all",
             "description": "When taking direct damage from Basic Attacks, has\na %s1% chance to trigger: for the next 5 seconds,\nany direct damage from Basic Attacks reflects %s2%\nMagic Damage to the attacker and modifies their\nArmor by %s3% for 4s.\nCooldown: 25s.",
@@ -4518,7 +4518,7 @@
           },
           {
             "name": "Muzzle",
-            "iconName": "ArmorExclusiveLgdr3",
+            "iconName": "ArmorLgdr3",
             "rarity": "3",
             "slot": "all",
             "description": "When taking direct damage from skills, has a %s1%\nchance to deal [Damage Rate: %s2%] Magic Damage\n to all enemy targets within the damage source's range,\n drain %s4% MP, and\nreduce the damage they deal by %s3% for 4s.\nTrigger Interval: 30s",
