@@ -2240,7 +2240,7 @@
         },
         {
           "gameId": "Helm_Str_4",
-          "gearName": "Ironclad Helm",
+          "gearName": "Reptilian Helm",
           "skillName": "Iron Wall",
           "manaCost": "",
           "cooldown": "60",
@@ -2264,7 +2264,7 @@
         },
         {
           "gameId": "Helm_Str_1",
-          "gearName": "Reptilian Helm",
+          "gearName": "Ironclad Helm",
           "skillName": "Scale Armor",
           "manaCost": "",
           "cooldown": "30",
