@@ -4721,18 +4721,14 @@
             "iconName": "WeaponEpic9",
             "rarity": "2",
             "slot": "all",
-            "description": "When Basic Attacks deal direct damage, has a\n(melee weapons %s1% / ranged weapons %s2%)\nchance to gain [Target-based Max HP %s3%] Shield\nfor 4s.\nTrigger Interval: 30s.",
+            "description": "When casting weapon skills, has a %s1% chance to\nincrease Cooldown Speed by %s2% for 4s.\nTrigger Interval: 30s.",
             "arguments": [
               {
                 "argumentName": "s1",
-                "argumentRange": "[15%~30%]"
+                "argumentRange": "[20%~40%]"
               },
               {
                 "argumentName": "s2",
-                "argumentRange": "[7.5%~15%]"
-              },
-              {
-                "argumentName": "s3",
                 "argumentRange": "[3%~15%]"
               }
             ]
