@@ -1155,7 +1155,7 @@
           "cooldown": "8.4",
           "castingRange": "12",
           "type": "Common_Skill",
-          "description": "Throws 3 blades forward. Each blade deals [Damage\nRate: 80%] Physical Damage to all enemies hit. Upon\nreaching max range, the blades return, dealing [Damage\nRate: 80%] Physical Damage to those hit and inflicting 1\nstack of [Bleed]\nMultiple blade hits on the same target beyond the first\ndeal 30% reduced damage",
+          "description": "Throws 3 blades forward. Each blade deals \n[Damage Rate: 80%] Physical Damage to all enemies hit. Upon\nreaching max range, the blades return, dealing \n[Damage Rate: 80%] Physical Damage to those hit and inflicting 1\nstack of [Bleed]\nMultiple blade hits on the same target beyond the first\ndeal 30% reduced damage",
           "unlock": "1"
         },
         {
@@ -1210,7 +1210,7 @@
           "cooldown": "",
           "castingRange": "",
           "type": "Passive",
-          "description": "Dealing damage inflicts [Bleed], dealing [Damage Rate:\n30%] Physical Damage every second for 8s, stacking up to\n6 times (stacks do not boost damage).\nAt max stacks, triggers Hemorrhage, dealing [Damage\nRate: 100%] Physical Damage + True Damage equal to 4%\nof the target's current HP and removes all [Bleed] stacks.\nBasic Attack Damage Bonuses affect the base damage\nand basic attack critical hits can cause the damage to\ncrit.",
+          "description": "Dealing damage inflicts [Bleed], dealing [Damage Rate:\n30%] Physical Damage every second for 8s, stacking up to\n6 times (stacks do not boost damage).\nAt max stacks, triggers Hemorrhage, dealing \n[Damage Rate: 100%] Physical Damage + True Damage equal to 4%\nof the target's current HP and removes all [Bleed] stacks.\nBasic Attack Damage Bonuses affect the base damage\nand basic attack critical hits can cause the damage to\ncrit.",
           "unlock": "0"
         },
         {
@@ -1245,7 +1245,7 @@
           "cooldown": "16",
           "castingRange": "7",
           "type": "Skill",
-          "description": "Inflicts the enemy with a Soul Snare, dealing [Damage\nRate: 150%] Physical Damage and linking with the target,\nsilencing both parties for 5s. During this period, the caster\ngains [Soul Snare]. The link breaks if distance exceeds\n12m.\n\n[Soul Snare]\nCritical Rate: +30%\nDamage Resistance: +50%\nAttack Speed: +30%\nCannot use skills",
+          "description": "Inflicts the enemy with a Soul Snare, dealing \n[Damage Rate: 150%] Physical Damage and linking with the target,\nsilencing both parties for 5s. During this period, the caster\ngains [Soul Snare]. The link breaks if distance exceeds\n12m.\n\n[Soul Snare]\nCritical Rate: +30%\nDamage Resistance: +50%\nAttack Speed: +30%\nCannot use skills",
           "unlock": "2",
           "rarity": "2"
         },
@@ -1788,7 +1788,7 @@
           "cooldown": "23",
           "castingRange": "12",
           "type": "Skill",
-          "description": "Creates a freezing cyclone at the target location, lasting\n5s. Enemies inside are Slowed by 60% and take [Damage\nRate: 90%] Magic Damage every second.",
+          "description": "Creates a freezing cyclone at the target location, lasting\n5s. Enemies inside are Slowed by 60% and take \n[Damage Rate: 90%] Magic Damage every second.",
           "unlock": "2",
           "rarity": "2"
         },
@@ -1939,7 +1939,7 @@
           "cooldown": "15",
           "castingRange": "3",
           "type": "Common_Skill",
-          "description": "Creates multiple holy walls in front. Enemies who touch\nthem take [Damage Rate: 150%] Magic Damage and are\nstunned for 1.5s, while the caster gains [Target-based\nMax HP 12%] Shield for 6s, stacking up to 4 times.",
+          "description": "Creates multiple holy walls in front. Enemies who touch\nthem take [Damage Rate: 150%] Magic Damage and are\nstunned for 1.5s, while the caster gains \n[Target-based Max HP 12%] Shield for 6s, stacking up to 4 times.",
           "unlock": "7"
         },
         {
@@ -1985,7 +1985,7 @@
           "cooldown": "18",
           "castingRange": "12",
           "type": "Skill",
-          "description": "Launches a Holy Chain that bounces to the nearest allied\ntarget within 9 meters after hitting an ally, restoring\n[Healing Rate: 100%] HP with each hit. It deals [Damage\nRate: 100%] Magic Damage to up to 5 enemy targets in\nrange, with damage reduced to 20% for subsequent\nexplosions.\nThe chain can bounce up to 9 times, and each target can\nbe hit a maximum of 3 times.",
+          "description": "Launches a Holy Chain that bounces to the nearest allied\ntarget within 9 meters after hitting an ally, restoring\n[Healing Rate: 100%] HP with each hit. It deals \n[Damage Rate: 100%] Magic Damage to up to 5 enemy targets in\nrange, with damage reduced to 20% for subsequent\nexplosions.\nThe chain can bounce up to 9 times, and each target can\nbe hit a maximum of 3 times.",
           "unlock": "2",
           "rarity": "2"
         },
@@ -1997,7 +1997,7 @@
           "cooldown": "18",
           "castingRange": "7",
           "type": "Skill",
-          "description": "Creates a holy domain that deals [Damage Rate: 300%]\nMagic Damage to enemies in range and knocks them back\n10m. Channels for 3s, healing allies in range for [Healing\nRate: 50%] HP every 0.5s and increasing their Damage\nResistance by 10% for 6s. Stacks up to 3 times.",
+          "description": "Creates a holy domain that deals [Damage Rate: 300%]\nMagic Damage to enemies in range and knocks them back\n10m. Channels for 3s, healing allies in range for \n[Healing Rate: 50%] HP every 0.5s and increasing their Damage\nResistance by 10% for 6s. Stacks up to 3 times.",
           "unlock": "2",
           "rarity": "2"
         },
@@ -2009,7 +2009,7 @@
           "cooldown": "18",
           "castingRange": "12",
           "type": "Skill",
-          "description": "Casts holy radiance at the target location. Heals allies in\nrange for [Healing Rate: 100%] HP and deals [Damage\nRate: 300%] Magic Damage to enemies, knocking them\nback 7m from the center. Gives enemies 60% chance to\nmiss Basic Attacks and reveals Stealth for 6s.",
+          "description": "Casts holy radiance at the target location. Heals allies in\nrange for [Healing Rate: 100%] HP and deals \n[Damage Rate: 300%] Magic Damage to enemies, knocking them\nback 7m from the center. Gives enemies 60% chance to\nmiss Basic Attacks and reveals Stealth for 6s.",
           "unlock": "2",
           "rarity": "2"
         },
@@ -2080,7 +2080,7 @@
           "cooldown": "",
           "castingRange": "",
           "type": "Passive",
-          "description": "[Plague]: Deals [Damage Rate: 20%] Magic Damage every\n3s for 13s. Stacks up to 10 times.\nWhen a target affected by [Plague] dies, deals [Damage\nRate: 120%] Magic Damage to up to 5 other nearby\nenemies.",
+          "description": "[Plague]: Deals [Damage Rate: 20%] Magic Damage every\n3s for 13s. Stacks up to 10 times.\nWhen a target affected by [Plague] dies, deals \n[Damage Rate: 120%] Magic Damage to up to 5 other nearby\nenemies.",
           "unlock": "0"
         },
         {
@@ -2848,7 +2848,7 @@
           "cooldown": "28",
           "castingRange": "6",
           "type": "Skill",
-          "description": "Immediately removes all control effects, restores [Healing\nRate: 150%] HP, and grants Control Immunity for 2s.\nCan be used while skills are disabled",
+          "description": "Immediately removes all control effects, restores \n[Healing Rate: 150%] HP, and grants Control Immunity for 2s.\nCan be used while skills are disabled",
           "unlock": "1",
           "rarity": "2"
         },
@@ -3055,7 +3055,7 @@
             "cooldown": "28",
             "castingRange": "10",
             "type": "Skill",
-            "description": "After a brief charge-up, unleash a Frozen Maelstrom\nforward, dealing 640[Damage Rate: 200%] Magic Damage\nto enemies in the area, applying Slow by 40%% and\nreducing Attack Speed by 40%%, lasting 6s. The punch\nalso deals 960[Damage Rate: 300%] additional Magic\nDamage to enemies directly in front and applies Frozen\nfor 3s.",
+            "description": "After a brief charge-up, unleash a Frozen Maelstrom\nforward, dealing [Damage Rate: 200%] Magic Damage\nto enemies in the area, applying Slow by 40%% and\nreducing Attack Speed by 40%%, lasting 6s. The punch\nalso deals [Damage Rate: 300%] additional Magic\nDamage to enemies directly in front and applies Frozen\nfor 3s.",
             "unlock": "1"
           },
           {
@@ -3066,7 +3066,7 @@
             "cooldown": "20",
             "castingRange": "",
             "type": "Passive",
-            "description": "Gains 25% Damage Resistance if damage is dealt within\n5, lasts for 6s. When taking damage during this time,\nsends forth freezing air in all directions, dealing\n256[Damage Rate: 80%] Magic Damage to targets within\nrange, reducing Attack Speed by 30% and Movement\nSpeed by 30% for 4s. Minimum interval of 1s. (Cooldown:\n20s)",
+            "description": "Gains 25% Damage Resistance if damage is dealt within\n5, lasts for 6s. When taking damage during this time,\nsends forth freezing air in all directions, dealing\[Damage Rate: 80%] Magic Damage to targets within\nrange, reducing Attack Speed by 30% and Movement\nSpeed by 30% for 4s. Minimum interval of 1s. (Cooldown:\n20s)",
             "unlock": "4"
           }
         ]
@@ -3265,7 +3265,7 @@
             "cooldown": "42",
             "castingRange": "16",
             "type": "Skill",
-            "description": "Creates a protection zone at the target location that\ngrants allies within +30% Damage Resistance, +40%\nHealing Received, +40% Dodge and heals for [Healing\nRate: 50%] HP every second. Then leaps to the target\nlocation, dealing [Damage Rate: 250%] Physical Damage\nto those hit and knocking them up for 1s.\nImmune to control during prep and leap.",
+            "description": "Creates a protection zone at the target location that\ngrants allies within +30% Damage Resistance, +40%\nHealing Received, +40% Dodge and heals for \n[Healing Rate: 50%] HP every second. Then leaps to the target\nlocation, dealing [Damage Rate: 250%] Physical Damage\nto those hit and knocking them up for 1s.\nImmune to control during prep and leap.",
             "unlock": "1"
           },
           {
@@ -3370,7 +3370,7 @@
             "cooldown": "42",
             "castingRange": "10",
             "type": "Skill",
-            "description": "Links to 8 targets within 10m around the caster,\nchanneling for 4s. Restores [Healing Rate: 40%] HP to the\ncaster and linked allies every 0.5s, while dealing [Damage\nRate: 70%] Magic Damage to linked enemies.\nCannot be interrupted while channeling.",
+            "description": "Links to 8 targets within 10m around the caster,\nchanneling for 4s. Restores [Healing Rate: 40%] HP to the\ncaster and linked allies every 0.5s, while dealing \n[Damage Rate: 70%] Magic Damage to linked enemies.\nCannot be interrupted while channeling.",
             "unlock": "1"
           },
           {
@@ -3545,7 +3545,7 @@
             "cooldown": "42",
             "castingRange": "10",
             "type": "Skill",
-            "description": "Creates a Lunar Domain and channels for 8s. Enemies\nwithin are struck by starlight on skill use, taking [Damage\nRate: 200%] Magic Damage and losing 20 MP. Allies\nwithin recover 8 MP every second and gain [Target-based\nMax HP 15%] Shield lasting 4s.\nSkill cannot be interrupted. +20% Movement Speed while\nchanneling.",
+            "description": "Creates a Lunar Domain and channels for 8s. Enemies\nwithin are struck by starlight on skill use, taking \n[Damage Rate: 200%] Magic Damage and losing 20 MP. Allies\nwithin recover 8 MP every second and gain \n[Target-based Max HP 15%] Shield lasting 4s.\nSkill cannot be interrupted. +20% Movement Speed while\nchanneling.",
             "unlock": "1"
           },
           {
@@ -3720,7 +3720,7 @@
             "cooldown": "28",
             "castingRange": "7",
             "type": "Skill",
-            "description": "Removes all current shield values, dealing 848[Damage\nRate: 250%] Physical Damage to nearby enemies, while\nalso gaining 70% Attack Speed, 30% Movement Speed,\nand 30% Critical Rate, and becoming Immune to Control\nEffects for 6s.",
+            "description": "Removes all current shield values, dealing \n[Damage Rate: 250%] Physical Damage to nearby enemies, while\nalso gaining 70% Attack Speed, 30% Movement Speed,\nand 30% Critical Rate, and becoming Immune to Control\nEffects for 6s.",
             "unlock": "1"
           },
           {
@@ -3790,7 +3790,7 @@
             "cooldown": "56",
             "castingRange": "",
             "type": "Skill",
-            "description": "Enters Stealth, gaining [Spectral Shield] and the ability\n[Phantom Bind], lasting 9s.\nSpectral Shield: Grants [Target-based Max HP 25%] shield\neffect; if the Spectral Shield fades out, the Phantom Bind\neffect ends prematurely.\nPhantom Bind: Summon phantoms that track enemies in\nrange, dealing 557[Damage Rate: 183%] Magic Damage\nand replenishing [Target-based Max HP 5%] Spectral\nShield.\nDoesn't break Phantom Clone Stealth ..\nUsing any skill other than Phantom Bind, or dealing direct\nhealing or damage, reveals you for 2s before re-entering\nStealth.\nRecovers 6% HP every 2s while in Stealth.",
+            "description": "Enters Stealth, gaining [Spectral Shield] and the ability\n[Phantom Bind], lasting 9s.\nSpectral Shield: Grants [Target-based Max HP 25%] shield\neffect; if the Spectral Shield fades out, the Phantom Bind\neffect ends prematurely.\nPhantom Bind: Summon phantoms that track enemies in\nrange, dealing [Damage Rate: 183%] Magic Damage\nand replenishing [Target-based Max HP 5%] Spectral\nShield.\nDoesn't break Phantom Clone Stealth ..\nUsing any skill other than Phantom Bind, or dealing direct\nhealing or damage, reveals you for 2s before re-entering\nStealth.\nRecovers 6% HP every 2s while in Stealth.",
             "unlock": "1"
           },
           {
@@ -3941,7 +3941,7 @@
             "cooldown": "0.3",
             "castingRange": "",
             "type": "Passive",
-            "description": "Skill and Basic Attack hits from the rear deal [Damage\nRate: 60%] additional Physical Damage (Cooldown: 0.3s).\nBasic Attack Damage Bonuses affect damage and basic\nattack critical hits can cause the damage to crit.",
+            "description": "Skill and Basic Attack hits from the rear deal \n[Damage Rate: 60%] additional Physical Damage (Cooldown: 0.3s).\nBasic Attack Damage Bonuses affect damage and basic\nattack critical hits can cause the damage to crit.",
             "unlock": "4"
           }
         ]
@@ -4823,7 +4823,7 @@
             "iconName": "WeaponExclusiveLgdr6",
             "rarity": "3",
             "slot": "dagger",
-            "description": "Only triggers with Daggers\nAgainst targets below 40%, Basic Attacks have a\n%s1% chance to deal additional [Damage Rate: %s2%]Physical Damage\nand apply 2 stacks of [Bleed].\nTrigger Interval: 15s.\n[Bleed]: Deals [Damage Rate: 30%] Physical\nDamage every second for 8s, stacking up to 6\ntimes. At max stacks, causes Hemorrhage,\nremoving all stacks and instantly dealing [Damage\nRate: 100%] Physical Damage.",
+            "description": "Only triggers with Daggers\nAgainst targets below 40%, Basic Attacks have a\n%s1% chance to deal additional [Damage Rate: %s2%]Physical Damage\nand apply 2 stacks of [Bleed].\nTrigger Interval: 15s.\n[Bleed]: Deals [Damage Rate: 30%] Physical\nDamage every second for 8s, stacking up to 6\ntimes. At max stacks, causes Hemorrhage,\nremoving all stacks and instantly dealing \n[Damage Rate: 100%] Physical Damage.",
             "arguments": [
               {
                 "argumentName": "s1",
@@ -4874,7 +4874,7 @@
             "iconName": "WeaponExclusiveLgdr9",
             "rarity": "3",
             "slot": "fire",
-            "description": "Only triggers with Cannonades\nWhen weapon skills or Basic Attacks deal direct\ndamage, has a %s1% chance to trigger a flame\nexplosion at the target location \nthat deals [Damage Rate: %s2%] Magic Damage \nto all enemies within 4m and inflicts 2\nstacks of Burn.\nTrigger Interval: 15s.\nBurn: Deals [Damage Rate: 25%] Magic Damage\nevery second for 8s, stacking up to 6 times. At 6\nstacks, removes the effect and deals [Damage\nRate: 80%] Magic Damage to enemy targets within\n4m of the carrier.",
+            "description": "Only triggers with Cannonades\nWhen weapon skills or Basic Attacks deal direct\ndamage, has a %s1% chance to trigger a flame\nexplosion at the target location \nthat deals [Damage Rate: %s2%] Magic Damage \nto all enemies within 4m and inflicts 2\nstacks of Burn.\nTrigger Interval: 15s.\nBurn: Deals [Damage Rate: 25%] Magic Damage\nevery second for 8s, stacking up to 6 times. At 6\nstacks, removes the effect and deals \n[Damage Rate: 80%] Magic Damage to enemy targets within\n4m of the carrier.",
             "arguments": [
               {
                 "argumentName": "s1",
