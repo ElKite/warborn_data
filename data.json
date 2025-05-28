@@ -1,6 +1,6 @@
 {
   "data": {
-    "lastDataUpdate": "May 20, 2025 11:00:00 AM",
+    "lastDataUpdate": "May 28, 2025 21:00:00 AM",
     "weapon": {
       "axe": [
         {
@@ -1702,7 +1702,7 @@
           "description": "Replaces Basic Attack with [Frost Burst].\nLaunches three frost shards in the target direction after a\ndelay, each dealing [Damage Rate: 110%] Magic Damage\nto enemies hit. The damage from shards beyond the first\nis reduced by 25%.",
           "unlock": "6"
         },
-{
+        {
           "gameId": "IceStaff_Passive",
           "gearName": "",
           "skillName": "",
@@ -3066,7 +3066,7 @@
             "cooldown": "20",
             "castingRange": "",
             "type": "Passive",
-            "description": "Gains 25% Damage Resistance if damage is dealt within\n5, lasts for 6s. When taking damage during this time,\nsends forth freezing air in all directions, dealing\[Damage Rate: 80%] Magic Damage to targets within\nrange, reducing Attack Speed by 30% and Movement\nSpeed by 30% for 4s. Minimum interval of 1s. (Cooldown:\n20s)",
+            "description": "Gains 25% Damage Resistance if damage is dealt within\n5, lasts for 6s. When taking damage during this time,\nsends forth freezing air in all directions, dealing\n[Damage Rate: 80%] Magic Damage to targets within\nrange, reducing Attack Speed by 30% and Movement\nSpeed by 30% for 4s. Minimum interval of 1s. (Cooldown:\n20s)",
             "unlock": "4"
           }
         ]
