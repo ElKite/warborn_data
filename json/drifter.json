@@ -876,7 +876,7 @@
           "cooldown": "30",
           "castingRange": "",
           "type": "Passive",
-          "description": " Converts Physical Damage from Basic Attacks into Magic Damage. Each\ntime an attack deals damage, it reduces the target's Magic Resistance by 4%, for 4s, stacking up\nto 10.",
+          "description": "Converts Physical Damage from Basic Attacks into Magic Damage. Each\ntime an attack deals damage, it reduces the target's Magic Resistance by 4%, for 4s, stacking up\nto 10.",
           "unlock": "4"
         }
       ]

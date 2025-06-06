@@ -190,7 +190,7 @@
       },
       {
         "lastUpdate": "June 6, 2025 02:46:00 AM",
-        "status": "balance",
+        "status": "buff",
         "changes": "- Knockback Count: Max 1 -> Max 3\n- Damage Output Reduction: 15% -> 20%",
         "gameId": "Axe_GiantSwing",
         "gearName": "Cyclone Cleave",
@@ -747,7 +747,7 @@
       {
         "lastUpdate": "June 6, 2025 02:46:00 AM",
         "status": "balance",
-        "changes": "- Duration: 150s -> 30s\n- Charge Count: 2 -> 3",
+        "changes": "-Duration: 150s -> 30s\n- Charge Count: 2 -> 3",
         "gameId": "Gun_Common_Skill_1",
         "gearName": "",
         "skillName": "Trap",
@@ -921,7 +921,7 @@
       {
         "lastUpdate": "June 6, 2025 02:46:00 AM",
         "status": "balance",
-        "changes": "- Removed Self-Movement Speed Increase Effect\n- Added Requirement to Consume 1 Bullet When Used\\n- Movement Speed Increase: 20% -> 25%\n- Movement Speed Duration: 1s -> 3s",
+        "changes": "- Removed Self-Movement Speed Increase Effect\n- Added Requirement to Consume 1 Bullet When Used\n- Movement Speed Increase: 20% -> 25%\n- Movement Speed Duration: 1s -> 3s",
         "gameId": "Gun_PrismGun",
         "gearName": "Prism Cloak",
         "skillName": "Photon Activation",
