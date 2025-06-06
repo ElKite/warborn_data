@@ -1,9 +1,12 @@
 {
   "data": {
-    "lastDataUpdate": "May 28, 2025 21:00:00 AM",
+    "lastDataUpdate": "June 6, 2025 6 AM",
     "weapon": {
       "axe": [
         {
+          "lastUpdate": "",
+          "status": "",
+          "latestChanges": "",
           "gameId": "Axe_Common_Attack_SP_1",
           "gearName": "",
           "skillName": "Jump Cleave",
@@ -15,6 +18,9 @@
           "unlock": "2"
         },
         {
+          "lastUpdate": "",
+          "status": "",
+          "latestChanges": "",
           "gameId": "Axe_Common_Attack_SP_2",
           "gearName": "",
           "skillName": "Cleaving Strike",
@@ -26,6 +32,9 @@
           "unlock": "4"
         },
         {
+          "lastUpdate": "",
+          "status": "",
+          "latestChanges": "",
           "gameId": "Axe_Common_Attack_SP_3",
           "gearName": "",
           "skillName": "Cyclone Slash",
@@ -37,6 +46,9 @@
           "unlock": "6"
         },
         {
+          "lastUpdate": "",
+          "status": "",
+          "latestChanges": "",
           "gameId": "Avatar_TotemPower",
           "gearName": "",
           "skillName": "Tempest Strike",
@@ -48,6 +60,9 @@
           "unlock": "1"
         },
         {
+          "lastUpdate": "",
+          "status": "",
+          "latestChanges": "",
           "gameId": "Axe_Common_Skill_2_2",
           "gearName": "",
           "skillName": "Rock Smash",
@@ -59,6 +74,9 @@
           "unlock": "3"
         },
         {
+          "lastUpdate": "June 6, 2025 02:46:00 AM",
+          "status": "buff",
+          "latestChanges": "■ Skill Cast Time Reduced by 0.2s",
           "gameId": "Axe_Common_Skill_4",
           "gearName": "",
           "skillName": "Primal Rush",
@@ -70,6 +88,9 @@
           "unlock": "5"
         },
         {
+          "lastUpdate": "",
+          "status": "",
+          "latestChanges": "",
           "gameId": "Axe_Common_Skill_6",
           "gearName": "",
           "skillName": "Axehook",
@@ -81,17 +102,23 @@
           "unlock": "7"
         },
         {
+          "lastUpdate": "June 6, 2025 02:46:00 AM",
+          "status": "nerf",
+          "latestChanges": "■ Effect Duration: 8s → 6s\n■ Cooldown: 18s → 24s",
           "gameId": "Axe_Common_Skill_1",
           "gearName": "",
           "skillName": "Rage",
           "manaCost": "26",
-          "cooldown": "17",
+          "cooldown": "24",
           "castingRange": "6",
           "type": "Common_Skill",
-          "description": "Removes control effects and increases Attack Speed by 40%, damage by 15%, and Movement Speed by 30% for 8s.",
+          "description": "Removes control effects and increases Attack Speed by 40%, damage by 15%, and Movement Speed by 30% for 6s.",
           "unlock": "8"
         },
         {
+          "lastUpdate": "",
+          "status": "",
+          "latestChanges": "",
           "gameId": "Axe_Whirlwind",
           "gearName": "Berserker's Fury",
           "skillName": "Whirlwind Slash",
@@ -104,6 +131,9 @@
           "rarity": "1"
         },
         {
+          "lastUpdate": "",
+          "status": "",
+          "latestChanges": "",
           "gameId": "Axe_Passive",
           "gearName": "",
           "skillName": "Bloodthirst",
@@ -115,6 +145,9 @@
           "unlock": "0"
         },
         {
+          "lastUpdate": "",
+          "status": "",
+          "latestChanges": "",
           "gameId": "Axe_Throw",
           "gearName": "Emerald Edge",
           "skillName": "Runic Rebound",
@@ -127,6 +160,9 @@
           "rarity": "2"
         },
         {
+          "lastUpdate": "",
+          "status": "",
+          "latestChanges": "",
           "gameId": "Axe_Slayer",
           "gearName": "Ravager's Cleave",
           "skillName": "Execution",
@@ -139,6 +175,9 @@
           "rarity": "2"
         },
         {
+          "lastUpdate": "",
+          "status": "",
+          "latestChanges": "",
           "gameId": "Axe_JumpSlash",
           "gearName": "Bonefang Reaper",
           "skillName": "Bonecrusher Leap",
@@ -151,6 +190,9 @@
           "rarity": "2"
         },
         {
+          "lastUpdate": "",
+          "status": "",
+          "latestChanges": "",
           "gameId": "Axe_GiantSwing",
           "gearName": "Cyclone Cleave",
           "skillName": "Vortex Toss",
@@ -163,6 +205,9 @@
           "rarity": "2"
         },
         {
+          "lastUpdate": "",
+          "status": "",
+          "latestChanges": "",
           "gameId": "Axe_Flywheel",
           "gearName": "Wreckingsaw",
           "skillName": "Bladewheel Throw",
@@ -175,6 +220,9 @@
           "rarity": "3"
         },
         {
+          "lastUpdate": "June 6, 2025 02:46:00 AM",
+          "status": "nerf",
+          "latestChanges": "■ Removed Damage Resistance Reduction from Path Slashes",
           "gameId": "Axe_DoubleWhirl",
           "gearName": "Wingblade",
           "skillName": "Twinstorm",
@@ -182,13 +230,16 @@
           "cooldown": "21",
           "castingRange": "12",
           "type": "Skill",
-          "description": "Spin toward the target location, reducing the Damage Resistance of enemies hit by 15% for 4s. Each hit deals [Damage Rate: 60%] Physical Damage. The final hit deals [Damage Rate: 220%] Physical Damage and knocks enemies up for 1.5s. Creates dual spinning axes that last 6s and deal [Damage Rate: 50%] Physical Damage every 0.5s.",
+          "description": "Spin toward the target location, Each hit deals [Damage Rate: 60%] Physical Damage. The final hit deals [Damage Rate: 220%] Physical Damage and knocks enemies up for 1.5s. Creates dual spinning axes that last 6s and deal [Damage Rate: 50%] Physical Damage every 0.5s.",
           "unlock": "2",
           "rarity": "3"
         }
       ],
       "sword": [
         {
+          "lastUpdate": "",
+          "status": "",
+          "latestChanges": "",
           "gameId": "SwordAttack_1",
           "gearName": "",
           "skillName": "Sword Slash",
@@ -200,6 +251,9 @@
           "unlock": "2"
         },
         {
+          "lastUpdate": "June 6, 2025 02:46:00 AM",
+          "status": "nerf",
+          "latestChanges": "■ Shield Effect: 4% → 3%",
           "gameId": "SwordAttack_2",
           "gearName": "",
           "skillName": "Sword Cleave",
@@ -207,10 +261,13 @@
           "cooldown": "1.3",
           "castingRange": "3.5",
           "type": "Basic_Attack",
-          "description": "[Basic Attack]:Deals [Damage Rate: 130%] Physical Damage to enemy target. Can cast [Sword Cleave] every 5. Deals [Damage Rate: 220%] Physical Damage to surrounding enemies. Grants [Target-based Max HP 4%] Shield for each enemy hit, lasting 4s. Stacks up to 5 times.",
+          "description": "[Basic Attack]:Deals [Damage Rate: 130%] Physical Damage to enemy target. Can cast [Sword Cleave] every 5. Deals [Damage Rate: 220%] Physical Damage to surrounding enemies. Grants [Target-based Max HP 3%] Shield for each enemy hit, lasting 4s. Stacks up to 5 times.",
           "unlock": "4"
         },
         {
+          "lastUpdate": "",
+          "status": "",
+          "latestChanges": "",
           "gameId": "SwordAttack_3",
           "gearName": "",
           "skillName": "Sword Energy",
@@ -222,6 +279,9 @@
           "unlock": "6"
         },
         {
+          "lastUpdate": "",
+          "status": "",
+          "latestChanges": "",
           "gameId": "Sword_Common_Skill_1",
           "gearName": "",
           "skillName": "Vacuum Slash",
@@ -233,6 +293,9 @@
           "unlock": "1"
         },
         {
+          "lastUpdate": "",
+          "status": "",
+          "latestChanges": "",
           "gameId": "Sword_Common_Skill_3",
           "gearName": "",
           "skillName": "Crippling Strike",
@@ -244,6 +307,9 @@
           "unlock": "3"
         },
         {
+          "lastUpdate": "",
+          "status": "",
+          "latestChanges": "",
           "gameId": "Sword_Common_Skill_4",
           "gearName": "",
           "skillName": "Power Slash",
@@ -255,6 +321,9 @@
           "unlock": "5"
         },
         {
+          "lastUpdate": "",
+          "status": "",
+          "latestChanges": "",
           "gameId": "Sword_Common_Skill_5",
           "gearName": "",
           "skillName": "Defensive Slash",
@@ -266,6 +335,9 @@
           "unlock": "7"
         },
         {
+          "lastUpdate": "",
+          "status": "",
+          "latestChanges": "",
           "gameId": "Sword_Common_Skill_2",
           "gearName": "",
           "skillName": "Heart of Steel",
@@ -277,6 +349,9 @@
           "unlock": "8"
         },
         {
+          "lastUpdate": "",
+          "status": "",
+          "latestChanges": "",
           "gameId": "Sword_ZeroSlash",
           "gearName": "Storm Cleaver",
           "skillName": "Tempest Slash",
@@ -289,17 +364,23 @@
           "rarity": "1"
         },
         {
+          "lastUpdate": "June 6, 2025 02:46:00 AM",
+          "status": "nerf",
+          "latestChanges": "",
           "gameId": "Sword_Passive",
-          "gearName": "",
+          "gearName": "■ Sword Momentum Duration: 10s → 8s",
           "skillName": "Aura and Blade",
           "manaCost": "",
           "cooldown": "",
           "castingRange": "",
           "type": "Passive",
-          "description": "X Aura and Blade Passive [Momentum]: Gains 1 stack of [Momentum] every second while in combat and 2 stacks when dealing damage with Basic Attacks, 4 stacks on Critical Hit, 1 stack when taking Basic Attack Damage, and 2 stacks when taking Skill Damage. At 10 [Momentum] stacks, increases Sword Momentum by 1 level. Momentum lasts 20s. [Sword Momentum]: Each level grants +3% Damage, +4% Attack Speed, and +4% Damage Resistance. Lasts 10s. Grants up to 6 stacks, decaying over time.",
+          "description": "X Aura and Blade Passive [Momentum]: Gains 1 stack of [Momentum] every second while in combat and 2 stacks when dealing damage with Basic Attacks, 4 stacks on Critical Hit, 1 stack when taking Basic Attack Damage, and 2 stacks when taking Skill Damage. At 10 [Momentum] stacks, increases Sword Momentum by 1 level. Momentum lasts 20s. [Sword Momentum]: Each level grants +3% Damage, +4% Attack Speed, and +4% Damage Resistance. Lasts 8s. Grants up to 6 stacks, decaying over time.",
           "unlock": "0"
         },
         {
+          "lastUpdate": "June 6, 2025 02:46:00 AM",
+          "status": "buff",
+          "latestChanges": "■ Healing Reduction Duration: 3s → 4s\n■ Stun Duration: 1s → 1.5s\n■ Explosion Damage Rate: 150% → 200%",
           "gameId": "Sword_Claymore",
           "gearName": "Hellcore Cleaver",
           "skillName": "Overload Slash",
@@ -307,11 +388,14 @@
           "cooldown": "19",
           "castingRange": "12",
           "type": "Skill",
-          "description": "Briefly charges up and then rushes at the target enemy, inflicting [Heal Block] for 3s and dealing Physical Damage based on [Sword Momentum] stacks. [Sword Momentum] stacks: 0 | 1 | 2 | 3-6 Physical Damage: [Damage Rate: 210%] | [Damage Rate: 240%] | [Damage Rate: 270%] | [Damage Rate: 300%] At 3+ stacks, creates an explosion dealing [Damage Rate: 150%] Physical Damage and Stunning for 1s. [Heal Block]: Cannot receive healing.",
+          "description": "Briefly charges up and then rushes at the target enemy, inflicting [Heal Block] for 4s and dealing Physical Damage based on [Sword Momentum] stacks. [Sword Momentum] stacks: 0 | 1 | 2 | 3-6 Physical Damage: [Damage Rate: 210%] | [Damage Rate: 240%] | [Damage Rate: 270%] | [Damage Rate: 300%] At 3+ stacks, creates an explosion dealing [Damage Rate: 200%] Physical Damage and Stunning for 1.5s. [Heal Block]: Cannot receive healing.",
           "unlock": "2",
           "rarity": "2"
         },
         {
+          "lastUpdate": "June 6, 2025 02:46:00 AM",
+          "status": "buff",
+          "latestChanges": "■ Silence Duration at 2 Stacks: 1s → 2s\n■ Silence Duration at 3+ Stacks: 2s → 4s",
           "gameId": "Sword_Clarent",
           "gearName": "Voidblade",
           "skillName": "Force Pierce",
@@ -319,11 +403,14 @@
           "cooldown": "19",
           "castingRange": "20",
           "type": "Skill",
-          "description": "Unleashes a powerful sword energy toward the target direction, dealing [Damage Rate: 300%] Magic Damage to enemies hit. Additional effects based on [Sword Momentum] stacks: 1 stack: 30% Slow for 2s. 2 stacks: 30% Slow for 2s and Silence for 1s. 3-6 stacks: 30% Slow for 4s and Silence for 2s. At 3+ stacks, unleashes 2 extra Sword Energy. Additional Sword Energy deals 30% reduced damage.",
+          "description": "Unleashes a powerful sword energy toward the target direction, dealing [Damage Rate: 300%] Magic Damage to enemies hit. Additional effects based on [Sword Momentum] stacks: 1 stack: 30% Slow for 2s. 2 stacks: 30% Slow for 2s and Silence for 2s. 3-6 stacks: 30% Slow for 4s and Silence for 4s. At 3+ stacks, unleashes 2 extra Sword Energy. Additional Sword Energy deals 30% reduced damage.",
           "unlock": "2",
           "rarity": "2"
         },
         {
+          "lastUpdate": "June 6, 2025 02:46:00 AM",
+          "status": "buff",
+          "latestChanges": "■ Damage Output Reduction Duration: 4s → 6s\n■ Stun Duration: 1.5s → 2s",
           "gameId": "Sword_KingSlash",
           "gearName": "Lordbreaker",
           "skillName": "Sovereign Strike",
@@ -331,11 +418,14 @@
           "cooldown": "19",
           "castingRange": "7",
           "type": "Skill",
-          "description": "Knocks enemies back 8m and deals [Damage Rate: 450%] Physical Damage. Reduces Damage dealt based on [Sword Momentum] stacks for 4s. Sword Momentum] Stacks: 0 | 1 | 2 | 3-6 Reduction to damage dealt: 20% | 26% | 32% | 38% At 3+ stacks, Knockback increased to 12m and Stuns for 1.5s on collision.",
+          "description": "Knocks enemies back 8m and deals [Damage Rate: 450%] Physical Damage. Reduces Damage dealt based on [Sword Momentum] stacks for 6s. Sword Momentum] Stacks: 0 | 1 | 2 | 3-6 Reduction to damage dealt: 20% | 26% | 32% | 38% At 3+ stacks, Knockback increased to 12m and Stuns for 2s on collision.",
           "unlock": "2",
           "rarity": "2"
         },
         {
+          "lastUpdate": "",
+          "status": "",
+          "latestChanges": "",
           "gameId": "Sword_Knight",
           "gearName": "Titan's Spineblade",
           "skillName": "Titan's Stride",
@@ -348,18 +438,24 @@
           "rarity": "2"
         },
         {
+          "lastUpdate": "June 6, 2025 02:46:00 AM",
+          "status": "nerf",
+          "latestChanges": "■ Sword Energy Damage Rate: 300% → 250%\n■ Each Slash Damage Rate: 40% → 30%\n■ Damage Resistance Reduction Duration: 6s → 4s\n■ Cooldown: 25s → 30s\n■ Movement Method: Fixed 16m Displacement → Selectable 6-16m Displacement",
           "gameId": "Sword_Carving",
           "gearName": "Judicator",
           "skillName": "Obliteration",
           "manaCost": "28",
-          "cooldown": "24",
+          "cooldown": "30",
           "castingRange": "16",
           "type": "Skill",
-          "description": "Dashes forward, dealing [Damage Rate: 300%] Physical Damage to all enemies hit. Reduces Damage Resistance based on [Sword Momentum] stacks for 6s. [Sword Momentum] stacks: 0 | 1 | 2 | 3-6 Damage Resistance reduction: 15% | 24% | 32% | 40% At 3+ stacks, Pulls enemies to the center on arrival and slashes multiple times over 1.8s, dealing [Damage Rate: 40%] Physical Damage every 0.3s.",
+          "description": "Dashes forward, dealing [Damage Rate: 250%] Physical Damage to all enemies hit. Reduces Damage Resistance based on [Sword Momentum] stacks for 4s. [Sword Momentum] stacks: 0 | 1 | 2 | 3-6 Damage Resistance reduction: 15% | 24% | 32% | 40% At 3+ stacks, Pulls enemies to the center on arrival and slashes multiple times over 1.8s, dealing [Damage Rate: 30%] Physical Damage every 0.3s.",
           "unlock": "2",
           "rarity": "3"
         },
         {
+          "lastUpdate": "June 6, 2025 02:46:00 AM",
+          "status": "nerf",
+          "latestChanges": "■ Blade Growth Damage Rate: 200% → 150%",
           "gameId": "Sword_ThousandBlade",
           "gearName": "Sovereign's Radiance",
           "skillName": "Thousandfold Strike",
@@ -367,13 +463,16 @@
           "cooldown": "19",
           "castingRange": "12",
           "type": "Skill",
-          "description": "Leaps to the target location, creating countless blades. Physical Damage scales with [Sword Momentum] stacks. [Sword Momentum] Stacks: 0 | 1 | 2 | 3-6 Physical Damage: [Damage Rate: 280%] | [Damage Rate: 320%] | [Damage Rate: 360%] | [Damage Rate: 400%] At 3+ stacks, creates two sets of blades forming outward, each dealing [Damage Rate: 200%] Physical Damage and inflicting 1s Knockup.",
+          "description": "Leaps to the target location, creating countless blades. Physical Damage scales with [Sword Momentum] stacks. [Sword Momentum] Stacks: 0 | 1 | 2 | 3-6 Physical Damage: [Damage Rate: 280%] | [Damage Rate: 320%] | [Damage Rate: 360%] | [Damage Rate: 400%] At 3+ stacks, creates two sets of blades forming outward, each dealing [Damage Rate: 150%] Physical Damage and inflicting 1s Knockup.",
           "unlock": "2",
           "rarity": "3"
         }
       ],
       "mace": [
         {
+          "lastUpdate": "",
+          "status": "",
+          "latestChanges": "",
           "gameId": "MaceAttack_2",
           "gearName": "",
           "skillName": "Swing",
@@ -385,6 +484,9 @@
           "unlock": "2"
         },
         {
+          "lastUpdate": "",
+          "status": "",
+          "latestChanges": "",
           "gameId": "MaceAttack_1",
           "gearName": "",
           "skillName": "Smash",
@@ -396,6 +498,9 @@
           "unlock": "4"
         },
         {
+          "lastUpdate": "",
+          "status": "",
+          "latestChanges": "",
           "gameId": "MaceAttack_3",
           "gearName": "",
           "skillName": "Crushing Smash",
@@ -407,6 +512,9 @@
           "unlock": "6"
         },
         {
+          "lastUpdate": "",
+          "status": "",
+          "latestChanges": "",
           "gameId": "Mace_Common_Skill_6",
           "gearName": "",
           "skillName": "Frenzied Smash",
@@ -418,6 +526,9 @@
           "unlock": "1"
         },
         {
+          "lastUpdate": "",
+          "status": "",
+          "latestChanges": "",
           "gameId": "Mace_Common_Skill_3",
           "gearName": "",
           "skillName": "Binding Smash",
@@ -429,6 +540,9 @@
           "unlock": "3"
         },
         {
+          "lastUpdate": "",
+          "status": "",
+          "latestChanges": "",
           "gameId": "Mace_Common_Skill_1",
           "gearName": "",
           "skillName": "Guardian Field",
@@ -440,6 +554,9 @@
           "unlock": "5"
         },
         {
+          "lastUpdate": "",
+          "status": "",
+          "latestChanges": "",
           "gameId": "Mace_Common_Skill_2",
           "gearName": "",
           "skillName": "Field of Silence",
@@ -451,6 +568,9 @@
           "unlock": "7"
         },
         {
+          "lastUpdate": "",
+          "status": "",
+          "latestChanges": "",
           "gameId": "Mace_Common_Skill_4",
           "gearName": "",
           "skillName": "Vengeful Thunder",
@@ -462,6 +582,9 @@
           "unlock": "8"
         },
         {
+          "lastUpdate": "",
+          "status": "",
+          "latestChanges": "",
           "gameId": "Mace_1HandMace",
           "gearName": "Breaker's Resolve",
           "skillName": "Unyielding Smash",
@@ -474,6 +597,9 @@
           "rarity": "1"
         },
         {
+          "lastUpdate": "",
+          "status": "",
+          "latestChanges": "",
           "gameId": "Mace_Passive",
           "gearName": "",
           "skillName": "Guardian",
@@ -486,6 +612,9 @@
           "rarity": "2"
         },
         {
+          "lastUpdate": "",
+          "status": "",
+          "latestChanges": "",
           "gameId": "Mace_Common_Skill_5",
           "gearName": "Gravity Hammer",
           "skillName": "Pulverizing Slam",
@@ -498,6 +627,9 @@
           "rarity": "2"
         },
         {
+          "lastUpdate": "June 6, 2025 02:46:00 AM",
+          "status": "balance",
+          "latestChanges": "■ Dispel Effect: 2 Stacks → All\n■ Damage Output Reduction Duration: 9s → 8s\n■ Maximum Affected Targets: 15",
           "gameId": "Mace_DualMace",
           "gearName": "Voidbreaker",
           "skillName": "Void Slam",
@@ -505,11 +637,14 @@
           "cooldown": "24",
           "castingRange": "6",
           "type": "Skill",
-          "description": "Slams the ground to deal [Damage Rate: 300%] Magic Damage to nearby enemies, dispel 2 buffs, reduce their damage dealt by 50% for 9s, and inflict Silence for 3s.",
+          "description": "Slams the ground to deal [Damage Rate: 300%] Magic Damage to nearby enemies, dispel all buffs, reduce their damage dealt by 50% for 8s, and inflict Silence for 3s.\n Max targets affected: 15.",
           "unlock": "2",
           "rarity": "2"
         },
         {
+          "lastUpdate": "June 6, 2025 02:46:00 AM",
+          "status": "buff",
+          "latestChanges": "■ Damage Rate: 300% → 450%",
           "gameId": "Mace_Hook",
           "gearName": "Ripper's Grasp",
           "skillName": "Grappling Strike",
@@ -517,11 +652,14 @@
           "cooldown": "17",
           "castingRange": "18",
           "type": "Skill",
-          "description": "Launches a mechanical hook forward. The first enemy hit is Stunned (ignores Control Resistance) for 1.5s, takes [Damage Rate: 300%] Physical Damage, and is Pulled to the caster.",
+          "description": "Launches a mechanical hook forward. The first enemy hit is Stunned (ignores Control Resistance) for 1.5s, takes [Damage Rate: 450%] Physical Damage, and is Pulled to the caster.",
           "unlock": "2",
           "rarity": "2"
         },
         {
+          "lastUpdate": "",
+          "status": "",
+          "latestChanges": "",
           "gameId": "Mace_ShieldMace_2",
           "gearName": "Bulwark Core",
           "skillName": "Shield Slam",
@@ -534,6 +672,9 @@
           "rarity": "2"
         },
         {
+          "lastUpdate": "",
+          "status": "",
+          "latestChanges": "",
           "gameId": "Mace_CamlannMace",
           "gearName": "Abyssal Conduit",
           "skillName": "Void Devour",
@@ -546,6 +687,9 @@
           "rarity": "3"
         },
         {
+          "lastUpdate": "",
+          "status": "",
+          "latestChanges": "",
           "gameId": "Mace_ThunderMace",
           "gearName": "Thunderlord's Wrath",
           "skillName": "Thunderclap Impact",
@@ -560,6 +704,9 @@
       ],
       "gun": [
         {
+          "lastUpdate": "",
+          "status": "",
+          "latestChanges": "",
           "gameId": "GunAttack_1",
           "gearName": "",
           "skillName": "Headshot",
@@ -571,6 +718,9 @@
           "unlock": "2"
         },
         {
+          "lastUpdate": "",
+          "status": "",
+          "latestChanges": "",
           "gameId": "GunAttack_2",
           "gearName": "",
           "skillName": "Ricochet",
@@ -582,6 +732,9 @@
           "unlock": "4"
         },
         {
+          "lastUpdate": "",
+          "status": "",
+          "latestChanges": "",
           "gameId": "GunAttack_3",
           "gearName": "",
           "skillName": "Armor Break",
@@ -593,6 +746,9 @@
           "unlock": "6"
         },
         {
+          "lastUpdate": "",
+          "status": "",
+          "latestChanges": "",
           "gameId": "Gun_Common_Skill_1",
           "gearName": "",
           "skillName": "Trap",
@@ -604,6 +760,9 @@
           "unlock": "1"
         },
         {
+          "lastUpdate": "",
+          "status": "",
+          "latestChanges": "",
           "gameId": "Gun_Common_Skill_6",
           "gearName": "",
           "skillName": "Quick Load",
@@ -615,6 +774,9 @@
           "unlock": "3"
         },
         {
+          "lastUpdate": "",
+          "status": "",
+          "latestChanges": "",
           "gameId": "Gun_Common_Skill_4",
           "gearName": "",
           "skillName": "Concussion Grenade",
@@ -626,6 +788,9 @@
           "unlock": "5"
         },
         {
+          "lastUpdate": "",
+          "status": "",
+          "latestChanges": "",
           "gameId": "Gun_Flashbang",
           "gearName": "",
           "skillName": "Blinding Flash",
@@ -637,6 +802,9 @@
           "unlock": "7"
         },
         {
+          "lastUpdate": "",
+          "status": "",
+          "latestChanges": "",
           "gameId": "Gun_Common_Skill_3",
           "gearName": "",
           "skillName": "Aim",
@@ -648,6 +816,9 @@
           "unlock": "8"
         },
         {
+          "lastUpdate": "",
+          "status": "",
+          "latestChanges": "",
           "gameId": "Gun_ShotGun",
           "gearName": "Shattercoil",
           "skillName": "Scatterblast",
@@ -660,6 +831,9 @@
           "rarity": "1"
         },
         {
+          "lastUpdate": "",
+          "status": "",
+          "latestChanges": "",
           "gameId": "Gun_BulletCharge",
           "gearName": "",
           "skillName": "Reload",
@@ -671,6 +845,9 @@
           "unlock": "0"
         },
         {
+          "lastUpdate": "",
+          "status": "",
+          "latestChanges": "",
           "gameId": "Gun_GatlinGun",
           "gearName": "Sentinel Barrage",
           "skillName": "Sentinel Barrage",
@@ -683,6 +860,9 @@
           "rarity": "2"
         },
         {
+          "lastUpdate": "",
+          "status": "",
+          "latestChanges": "",
           "gameId": "Gun_ThreeGun",
           "gearName": "Spectral Assault",
           "skillName": "Rapid Fire",
@@ -695,6 +875,9 @@
           "rarity": "2"
         },
         {
+          "lastUpdate": "",
+          "status": "",
+          "latestChanges": "",
           "gameId": "Gun_Grenade",
           "gearName": "Blightspitter",
           "skillName": "Toxic Shroud",
@@ -707,6 +890,9 @@
           "rarity": "2"
         },
         {
+          "lastUpdate": "",
+          "status": "",
+          "latestChanges": "",
           "gameId": "Gun_Common_Skill_5",
           "gearName": "Luminet Cannon",
           "skillName": "Snipe",
@@ -719,6 +905,9 @@
           "rarity": "2"
         },
         {
+          "lastUpdate": "",
+          "status": "",
+          "latestChanges": "",
           "gameId": "Gun_RifleGun",
           "gearName": "Voideye",
           "skillName": "Deadshot",
@@ -731,6 +920,9 @@
           "rarity": "3"
         },
         {
+          "lastUpdate": "",
+          "status": "",
+          "latestChanges": "",
           "gameId": "Gun_PrismGun",
           "gearName": "Prism Cloak",
           "skillName": "Photon Activation",
@@ -745,6 +937,9 @@
       ],
       "bow": [
         {
+          "lastUpdate": "",
+          "status": "",
+          "latestChanges": "",
           "gameId": "BowAttack_1",
           "gearName": "",
           "skillName": "Split Arrow",
@@ -756,6 +951,9 @@
           "unlock": "4"
         },
         {
+          "lastUpdate": "",
+          "status": "",
+          "latestChanges": "",
           "gameId": "BowAttack_2",
           "gearName": "",
           "skillName": "Piercing Arrow",
@@ -767,6 +965,9 @@
           "unlock": "6"
         },
         {
+          "lastUpdate": "",
+          "status": "",
+          "latestChanges": "",
           "gameId": "BowAttack_3",
           "gearName": "",
           "skillName": "Venom Arrow",
@@ -778,6 +979,9 @@
           "unlock": "2"
         },
         {
+          "lastUpdate": "",
+          "status": "",
+          "latestChanges": "",
           "gameId": "Bow_Passive",
           "gearName": "",
           "skillName": "Target Mark",
@@ -789,6 +993,9 @@
           "unlock": "0"
         },
         {
+          "lastUpdate": "",
+          "status": "",
+          "latestChanges": "",
           "gameId": "Bow_Common_Skill_1",
           "gearName": "",
           "skillName": "Blast Arrow",
@@ -800,6 +1007,9 @@
           "unlock": "5"
         },
         {
+          "lastUpdate": "",
+          "status": "",
+          "latestChanges": "",
           "gameId": "Bow_Common_Skill_2",
           "gearName": "",
           "skillName": "Frost Arrow",
@@ -811,6 +1021,9 @@
           "unlock": "8"
         },
         {
+          "lastUpdate": "",
+          "status": "",
+          "latestChanges": "",
           "gameId": "Bow_Common_Skill_3",
           "gearName": "",
           "skillName": "Backflip Shot",
@@ -822,6 +1035,9 @@
           "unlock": "4"
         },
         {
+          "lastUpdate": "",
+          "status": "",
+          "latestChanges": "",
           "gameId": "Bow_Common_Skill_4",
           "gearName": "",
           "skillName": "Silencing Arrow",
@@ -833,6 +1049,9 @@
           "unlock": "7"
         },
         {
+          "lastUpdate": "",
+          "status": "",
+          "latestChanges": "",
           "gameId": "Bow_Common_Skill_5",
           "gearName": "",
           "skillName": "Binding Arrow",
@@ -844,6 +1063,9 @@
           "unlock": "2"
         },
         {
+          "lastUpdate": "",
+          "status": "",
+          "latestChanges": "",
           "gameId": "Bow_ArrowRain",
           "gearName": "Hailfire",
           "skillName": "Barrage",
@@ -856,6 +1078,9 @@
           "rarity": "1"
         },
         {
+          "lastUpdate": "",
+          "status": "",
+          "latestChanges": "",
           "gameId": "Bow_Eighteen",
           "gearName": "Predator's Splitbow",
           "skillName": "Splintershot",
@@ -868,6 +1093,9 @@
           "rarity": "2"
         },
         {
+          "lastUpdate": "",
+          "status": "",
+          "latestChanges": "",
           "gameId": "Bow_War",
           "gearName": "Kinetic Arc",
           "skillName": "PowerShot",
@@ -880,6 +1108,9 @@
           "rarity": "2"
         },
         {
+          "lastUpdate": "",
+          "status": "",
+          "latestChanges": "",
           "gameId": "Bow_Thunder",
           "gearName": "Thunderstrike",
           "skillName": "Arcbolt",
@@ -892,6 +1123,9 @@
           "rarity": "2"
         },
         {
+          "lastUpdate": "",
+          "status": "",
+          "latestChanges": "",
           "gameId": "Bow_WindArrow",
           "gearName": "Windbreaker",
           "skillName": "Windrend Splitters",
@@ -904,6 +1138,9 @@
           "rarity": "2"
         },
         {
+          "lastUpdate": "",
+          "status": "",
+          "latestChanges": "",
           "gameId": "Bow_Light",
           "gearName": "Mender's Ruin",
           "skillName": "Severance Shot",
@@ -916,6 +1153,9 @@
           "rarity": "3"
         },
         {
+          "lastUpdate": "",
+          "status": "",
+          "latestChanges": "",
           "gameId": "Bow_GravityArrow",
           "gearName": "Eclypse Bow",
           "skillName": "Shadow Vortex",
@@ -930,6 +1170,9 @@
       ],
       "spear": [
         {
+          "lastUpdate": "",
+          "status": "",
+          "latestChanges": "",
           "gameId": "SpearAttack_3",
           "gearName": "",
           "skillName": "Leap Strike",
@@ -941,6 +1184,9 @@
           "unlock": "2"
         },
         {
+          "lastUpdate": "",
+          "status": "",
+          "latestChanges": "",
           "gameId": "SpearAttack_2",
           "gearName": "",
           "skillName": "Javelin Throw",
@@ -952,6 +1198,9 @@
           "unlock": "4"
         },
         {
+          "lastUpdate": "",
+          "status": "",
+          "latestChanges": "",
           "gameId": "SpearAttack_4",
           "gearName": "",
           "skillName": "Sweeping Strike",
@@ -963,6 +1212,9 @@
           "unlock": "6"
         },
         {
+          "lastUpdate": "",
+          "status": "",
+          "latestChanges": "",
           "gameId": "Spear_Common_Skill_1",
           "gearName": "",
           "skillName": "Lance Thrust",
@@ -974,6 +1226,9 @@
           "unlock": "1"
         },
         {
+          "lastUpdate": "",
+          "status": "",
+          "latestChanges": "",
           "gameId": "Spear_Common_Skill_4",
           "gearName": "",
           "skillName": "Lance Impale",
@@ -985,6 +1240,9 @@
           "unlock": "3"
         },
         {
+          "lastUpdate": "",
+          "status": "",
+          "latestChanges": "",
           "gameId": "Spear_Common_Skill_3",
           "gearName": "",
           "skillName": "Warding Flourish",
@@ -996,6 +1254,9 @@
           "unlock": "5"
         },
         {
+          "lastUpdate": "",
+          "status": "",
+          "latestChanges": "",
           "gameId": "Spear_Common_Skill_2",
           "gearName": "",
           "skillName": "Skyward Lance",
@@ -1007,6 +1268,9 @@
           "unlock": "7"
         },
         {
+          "lastUpdate": "",
+          "status": "",
+          "latestChanges": "",
           "gameId": "Spear_Common_Skill_5",
           "gearName": "",
           "skillName": "Lance Recall",
@@ -1018,6 +1282,9 @@
           "unlock": "8"
         },
         {
+          "lastUpdate": "",
+          "status": "",
+          "latestChanges": "",
           "gameId": "Spear_Passive",
           "gearName": "",
           "skillName": "Spear Scar",
@@ -1029,6 +1296,9 @@
           "unlock": "0"
         },
         {
+          "lastUpdate": "",
+          "status": "",
+          "latestChanges": "",
           "gameId": "Spear_SpearDance",
           "gearName": "Sharspike",
           "skillName": "Bloodeye Burst",
@@ -1041,6 +1311,9 @@
           "rarity": "1"
         },
         {
+          "lastUpdate": "",
+          "status": "",
+          "latestChanges": "",
           "gameId": "Spear_Trinity",
           "gearName": "Sentinel's Lance",
           "skillName": "Banner of Justice",
@@ -1053,6 +1326,9 @@
           "rarity": "2"
         },
         {
+          "lastUpdate": "",
+          "status": "",
+          "latestChanges": "",
           "gameId": "Spear_Fling",
           "gearName": "Stormfang Lance",
           "skillName": "Surging Throw",
@@ -1065,6 +1341,9 @@
           "rarity": "2"
         },
         {
+          "lastUpdate": "",
+          "status": "",
+          "latestChanges": "",
           "gameId": "Spear_Sweep",
           "gearName": "Storm Spear",
           "skillName": "Sweeping Tempest",
@@ -1077,6 +1356,9 @@
           "rarity": "2"
         },
         {
+          "lastUpdate": "",
+          "status": "",
+          "latestChanges": "",
           "gameId": "Spear_DragonBack",
           "gearName": "Drakespike",
           "skillName": "Rapid Thrust",
@@ -1089,6 +1371,9 @@
           "rarity": "2"
         },
         {
+          "lastUpdate": "",
+          "status": "",
+          "latestChanges": "",
           "gameId": "Spear_SpiritHunter",
           "gearName": "Corrosive Piercer",
           "skillName": "Blightfall",
@@ -1101,6 +1386,9 @@
           "rarity": "3"
         },
         {
+          "lastUpdate": "",
+          "status": "",
+          "latestChanges": "",
           "gameId": "Spear_Bright",
           "gearName": "Phantom Spear",
           "skillName": "Shadow Dash",
@@ -1115,6 +1403,9 @@
       ],
       "dagger": [
         {
+          "lastUpdate": "",
+          "status": "",
+          "latestChanges": "",
           "gameId": "DaggerAttack_2",
           "gearName": "",
           "skillName": "Bleeding Thrust",
@@ -1126,6 +1417,9 @@
           "unlock": "2"
         },
         {
+          "lastUpdate": "",
+          "status": "",
+          "latestChanges": "",
           "gameId": "DaggerAttack_4",
           "gearName": "",
           "skillName": "Ricocheting Blades",
@@ -1137,6 +1431,9 @@
           "unlock": "4"
         },
         {
+          "lastUpdate": "",
+          "status": "",
+          "latestChanges": "",
           "gameId": "DaggerAttack_3",
           "gearName": "",
           "skillName": "Armor Breaker",
@@ -1148,6 +1445,9 @@
           "unlock": "6"
         },
         {
+          "lastUpdate": "",
+          "status": "",
+          "latestChanges": "",
           "gameId": "Dagger_Common_Skill_1",
           "gearName": "",
           "skillName": "Whirling Blades",
@@ -1159,6 +1459,9 @@
           "unlock": "1"
         },
         {
+          "lastUpdate": "",
+          "status": "",
+          "latestChanges": "",
           "gameId": "Dagger_Common_Skill_2",
           "gearName": "",
           "skillName": "Phase Blade",
@@ -1170,6 +1473,9 @@
           "unlock": "3"
         },
         {
+          "lastUpdate": "",
+          "status": "",
+          "latestChanges": "",
           "gameId": "Dagger_Common_Skill_3",
           "gearName": "",
           "skillName": "Crippling Strike",
@@ -1181,6 +1487,9 @@
           "unlock": "5"
         },
         {
+          "lastUpdate": "",
+          "status": "",
+          "latestChanges": "",
           "gameId": "Dagger_Common_Skill_4",
           "gearName": "",
           "skillName": "Smoke Grenade",
@@ -1192,6 +1501,9 @@
           "unlock": "7"
         },
         {
+          "lastUpdate": "",
+          "status": "",
+          "latestChanges": "",
           "gameId": "Dagger_Common_Skill_5",
           "gearName": "",
           "skillName": "Shadow Move",
@@ -1203,6 +1515,9 @@
           "unlock": "8"
         },
         {
+          "lastUpdate": "",
+          "status": "",
+          "latestChanges": "",
           "gameId": "Dagger_Passive",
           "gearName": "",
           "skillName": "Bleed",
@@ -1214,6 +1529,9 @@
           "unlock": "0"
         },
         {
+          "lastUpdate": "",
+          "status": "",
+          "latestChanges": "",
           "gameId": "Dagger_LongDagger",
           "gearName": "Hemoblades",
           "skillName": "Rend and Reap",
@@ -1226,6 +1544,9 @@
           "rarity": "1"
         },
         {
+          "lastUpdate": "",
+          "status": "",
+          "latestChanges": "",
           "gameId": "Dagger_BloodDagger",
           "gearName": "Twilight Blades",
           "skillName": "Blade Dance",
@@ -1238,6 +1559,9 @@
           "rarity": "2"
         },
         {
+          "lastUpdate": "",
+          "status": "",
+          "latestChanges": "",
           "gameId": "Dagger_DeathDagger",
           "gearName": "Soulfangs",
           "skillName": "Soul Snare",
@@ -1250,6 +1574,9 @@
           "rarity": "2"
         },
         {
+          "lastUpdate": "",
+          "status": "",
+          "latestChanges": "",
           "gameId": "Dagger_Dagger",
           "gearName": "Bloodpiercers",
           "skillName": "Rupture Thrust",
@@ -1262,6 +1589,9 @@
           "rarity": "2"
         },
         {
+          "lastUpdate": "",
+          "status": "",
+          "latestChanges": "",
           "gameId": "TwinDagger_BladeWind",
           "gearName": "Bloodfury Blades",
           "skillName": "Crimson Frenzy",
@@ -1274,6 +1604,9 @@
           "rarity": "2"
         },
         {
+          "lastUpdate": "",
+          "status": "",
+          "latestChanges": "",
           "gameId": "TwinDagger_HungerBlood",
           "gearName": "Bloodthirst",
           "skillName": "Sanguine Pounce",
@@ -1286,6 +1619,9 @@
           "rarity": "3"
         },
         {
+          "lastUpdate": "",
+          "status": "",
+          "latestChanges": "",
           "gameId": "Dagger_FastDagger",
           "gearName": "Scarlet Hunger",
           "skillName": "Bloodeye Burst",
@@ -1300,6 +1636,9 @@
       ],
       "nature": [
         {
+          "lastUpdate": "",
+          "status": "",
+          "latestChanges": "",
           "gameId": "NatureAttack_1",
           "gearName": "",
           "skillName": "Evil Seed",
@@ -1311,6 +1650,9 @@
           "unlock": "2"
         },
         {
+          "lastUpdate": "",
+          "status": "",
+          "latestChanges": "",
           "gameId": "Nature_Common_Attack2",
           "gearName": "",
           "skillName": "Soothing Mist",
@@ -1322,6 +1664,9 @@
           "unlock": "4"
         },
         {
+          "lastUpdate": "",
+          "status": "",
+          "latestChanges": "",
           "gameId": "NatureAttack_3",
           "gearName": "",
           "skillName": "Healing Seed",
@@ -1333,6 +1678,9 @@
           "unlock": "6"
         },
         {
+          "lastUpdate": "",
+          "status": "",
+          "latestChanges": "",
           "gameId": "Nature_Common_Skill_1",
           "gearName": "",
           "skillName": "Winding Vines",
@@ -1344,6 +1692,9 @@
           "unlock": "1"
         },
         {
+          "lastUpdate": "",
+          "status": "",
+          "latestChanges": "",
           "gameId": "Nature_Common_Skill_2",
           "gearName": "",
           "skillName": "Energize",
@@ -1355,6 +1706,9 @@
           "unlock": "3"
         },
         {
+          "lastUpdate": "",
+          "status": "",
+          "latestChanges": "",
           "gameId": "Nature_Common_Skill_3",
           "gearName": "",
           "skillName": "Vitality Seed",
@@ -1366,6 +1720,9 @@
           "unlock": "5"
         },
         {
+          "lastUpdate": "",
+          "status": "",
+          "latestChanges": "",
           "gameId": "Nature_Common_Skill_5",
           "gearName": "",
           "skillName": "Freshness",
@@ -1377,6 +1734,9 @@
           "unlock": "7"
         },
         {
+          "lastUpdate": "",
+          "status": "",
+          "latestChanges": "",
           "gameId": "Nature_Common_Skill_4",
           "gearName": "",
           "skillName": "Regenerate",
@@ -1388,6 +1748,9 @@
           "unlock": "8"
         },
         {
+          "lastUpdate": "",
+          "status": "",
+          "latestChanges": "",
           "gameId": "Nature_Passive",
           "gearName": "",
           "skillName": "Natural Armor",
@@ -1399,6 +1762,9 @@
           "unlock": "0"
         },
         {
+          "lastUpdate": "",
+          "status": "",
+          "latestChanges": "",
           "gameId": "Nature_MoonFire",
           "gearName": "Eclipse Conduit",
           "skillName": "Crater Surge",
@@ -1411,6 +1777,9 @@
           "rarity": "1"
         },
         {
+          "lastUpdate": "",
+          "status": "",
+          "latestChanges": "",
           "gameId": "Nature_TreeSkin",
           "gearName": "Thornward Staff",
           "skillName": "Thorn Barrier",
@@ -1423,6 +1792,9 @@
           "rarity": "2"
         },
         {
+          "lastUpdate": "",
+          "status": "",
+          "latestChanges": "",
           "gameId": "Nature_HealRain",
           "gearName": "Harmony's Staff",
           "skillName": "Rain of Serenity",
@@ -1435,6 +1807,9 @@
           "rarity": "2"
         },
         {
+          "lastUpdate": "",
+          "status": "",
+          "latestChanges": "",
           "gameId": "Nature_Tranquility",
           "gearName": "Verdant Embrace",
           "skillName": "Healing Bloom",
@@ -1447,6 +1822,9 @@
           "rarity": "2"
         },
         {
+          "lastUpdate": "",
+          "status": "",
+          "latestChanges": "",
           "gameId": "Nature_TwineSeed",
           "gearName": "Tendril's Grasp",
           "skillName": "Entangling Growth",
@@ -1459,6 +1837,9 @@
           "rarity": "2"
         },
         {
+          "lastUpdate": "",
+          "status": "",
+          "latestChanges": "",
           "gameId": "Nature_HolyDeer",
           "gearName": "Spirit's Call",
           "skillName": "Breeze of Resurgence",
@@ -1471,6 +1852,9 @@
           "rarity": "3"
         },
         {
+          "lastUpdate": "",
+          "status": "",
+          "latestChanges": "",
           "gameId": "Nature_GodTree",
           "gearName": "Sanctuary of Growth",
           "skillName": "Divine Rootfall",
@@ -1485,6 +1869,9 @@
       ],
       "fire": [
         {
+          "lastUpdate": "",
+          "status": "",
+          "latestChanges": "",
           "gameId": "FireStaffAttack_1",
           "gearName": "",
           "skillName": "Magma Burst",
@@ -1496,6 +1883,9 @@
           "unlock": "2"
         },
         {
+          "lastUpdate": "",
+          "status": "",
+          "latestChanges": "",
           "gameId": "FireStaffAttack_2",
           "gearName": "",
           "skillName": "Scorching Shard",
@@ -1507,6 +1897,9 @@
           "unlock": "4"
         },
         {
+          "lastUpdate": "",
+          "status": "",
+          "latestChanges": "",
           "gameId": "FireStaffAttack_3",
           "gearName": "",
           "skillName": "Wildfire Shard",
@@ -1518,6 +1911,9 @@
           "unlock": "6"
         },
         {
+          "lastUpdate": "",
+          "status": "",
+          "latestChanges": "",
           "gameId": "FireStaff_Common_Skill_1",
           "gearName": "",
           "skillName": "Inferno Blast",
@@ -1529,6 +1925,9 @@
           "unlock": "1"
         },
         {
+          "lastUpdate": "",
+          "status": "",
+          "latestChanges": "",
           "gameId": "FireStaff_Passive",
           "gearName": "",
           "skillName": "Burst",
@@ -1540,6 +1939,9 @@
           "unlock": "0"
         },
         {
+          "lastUpdate": "",
+          "status": "",
+          "latestChanges": "",
           "gameId": "FireStaff_Common_Skill_2",
           "gearName": "",
           "skillName": "Molten Orb",
@@ -1551,6 +1953,9 @@
           "unlock": "3"
         },
         {
+          "lastUpdate": "",
+          "status": "",
+          "latestChanges": "",
           "gameId": "FireStaff_Common_Skill_3",
           "gearName": "",
           "skillName": "Blast Jump",
@@ -1562,6 +1967,9 @@
           "unlock": "5"
         },
         {
+          "lastUpdate": "",
+          "status": "",
+          "latestChanges": "",
           "gameId": "FireStaff_Common_Skill_4",
           "gearName": "",
           "skillName": "Oil Blast",
@@ -1573,6 +1981,9 @@
           "unlock": "7"
         },
         {
+          "lastUpdate": "",
+          "status": "",
+          "latestChanges": "",
           "gameId": "FireStaff_Common_Skill_5",
           "gearName": "",
           "skillName": "Overdrive Mode",
@@ -1584,6 +1995,9 @@
           "unlock": "8"
         },
         {
+          "lastUpdate": "",
+          "status": "",
+          "latestChanges": "",
           "gameId": "FireStaff_Blazing",
           "gearName": "Blazing Catalyst",
           "skillName": "Hellfire",
@@ -1596,6 +2010,9 @@
           "rarity": "1"
         },
         {
+          "lastUpdate": "",
+          "status": "",
+          "latestChanges": "",
           "gameId": "FireStaff_1HandStaff",
           "gearName": "Flame Maw",
           "skillName": "Molten Blast",
@@ -1608,6 +2025,9 @@
           "rarity": "2"
         },
         {
+          "lastUpdate": "",
+          "status": "",
+          "latestChanges": "",
           "gameId": "FireStaff_Brimstone",
           "gearName": "Doomfire",
           "skillName": "Scorching Surge",
@@ -1620,6 +2040,9 @@
           "rarity": "2"
         },
         {
+          "lastUpdate": "",
+          "status": "",
+          "latestChanges": "",
           "gameId": "FireStaff_Flare",
           "gearName": "Inferno Core",
           "skillName": "Core Flare",
@@ -1632,6 +2055,9 @@
           "rarity": "2"
         },
         {
+          "lastUpdate": "",
+          "status": "",
+          "latestChanges": "",
           "gameId": "FireStaff_Fanning",
           "gearName": "Blazruptor",
           "skillName": "Hell Salvo",
@@ -1644,6 +2070,9 @@
           "rarity": "2"
         },
         {
+          "lastUpdate": "",
+          "status": "",
+          "latestChanges": "",
           "gameId": "FireStaff_Dawnsong",
           "gearName": "Solarflare",
           "skillName": "Starforge Beam",
@@ -1656,6 +2085,9 @@
           "rarity": "3"
         },
         {
+          "lastUpdate": "",
+          "status": "",
+          "latestChanges": "",
           "gameId": "FireStaff_LavaCannonade",
           "gearName": "Molten Mortar",
           "skillName": "Molten Volley",
@@ -1670,6 +2102,9 @@
       ],
       "frost": [
         {
+          "lastUpdate": "",
+          "status": "",
+          "latestChanges": "",
           "gameId": "IceStaffAttack_1",
           "gearName": "",
           "skillName": "Ice Burst",
@@ -1681,6 +2116,9 @@
           "unlock": "2"
         },
         {
+          "lastUpdate": "",
+          "status": "",
+          "latestChanges": "",
           "gameId": "IceStaffAttack_3",
           "gearName": "",
           "skillName": "Frostbite Zone",
@@ -1692,6 +2130,9 @@
           "unlock": "4"
         },
         {
+          "lastUpdate": "",
+          "status": "",
+          "latestChanges": "",
           "gameId": "IceStaffAttack_2",
           "gearName": "",
           "skillName": "Frost Burst",
@@ -1703,6 +2144,9 @@
           "unlock": "6"
         },
         {
+          "lastUpdate": "",
+          "status": "",
+          "latestChanges": "",
           "gameId": "IceStaff_Passive",
           "gearName": "",
           "skillName": "",
@@ -1714,6 +2158,9 @@
           "unlock": "0"
         },
         {
+          "lastUpdate": "",
+          "status": "",
+          "latestChanges": "",
           "gameId": "IceStaff_Common_Skill_3",
           "gearName": "",
           "skillName": "Frost Beam",
@@ -1725,6 +2172,9 @@
           "unlock": "1"
         },
         {
+          "lastUpdate": "",
+          "status": "",
+          "latestChanges": "",
           "gameId": "IceStaff_Common_Skill_4",
           "gearName": "",
           "skillName": "Crystal Frost",
@@ -1736,6 +2186,9 @@
           "unlock": "3"
         },
         {
+          "lastUpdate": "",
+          "status": "",
+          "latestChanges": "",
           "gameId": "IceStaff_Common_Skill_2",
           "gearName": "",
           "skillName": "Deals [Damage Rate: 200%] Magic Damage to nearby\nenemies and Freezes them for 0.5s, then blinks in the\ntarget direction.",
@@ -1747,6 +2200,9 @@
           "unlock": "5"
         },
         {
+          "lastUpdate": "",
+          "status": "",
+          "latestChanges": "",
           "gameId": "IceStaff_Common_Skill_5",
           "gearName": "",
           "skillName": "Frost Wall",
@@ -1758,6 +2214,9 @@
           "unlock": "7"
         },
         {
+          "lastUpdate": "",
+          "status": "",
+          "latestChanges": "",
           "gameId": "IceStaff_Common_Skill_6",
           "gearName": "",
           "skillName": "Frost Roar",
@@ -1769,6 +2228,9 @@
           "unlock": "8"
         },
         {
+          "lastUpdate": "",
+          "status": "",
+          "latestChanges": "",
           "gameId": "IceStaff_Frost",
           "gearName": "Glacier Prism",
           "skillName": "Frost Torrent",
@@ -1781,6 +2243,9 @@
           "rarity": "1"
         },
         {
+          "lastUpdate": "",
+          "status": "",
+          "latestChanges": "",
           "gameId": "IceStaff_Icicle",
           "gearName": "Frost Matrix",
           "skillName": "Frostbite",
@@ -1793,6 +2258,9 @@
           "rarity": "2"
         },
         {
+          "lastUpdate": "",
+          "status": "",
+          "latestChanges": "",
           "gameId": "IceStaff_Chillhowl",
           "gearName": "Cryoshard Mask",
           "skillName": "Frostbound Echo",
@@ -1805,6 +2273,9 @@
           "rarity": "2"
         },
         {
+          "lastUpdate": "",
+          "status": "",
+          "latestChanges": "",
           "gameId": "IceStaff_GreatFrost",
           "gearName": "Iceshard Comet",
           "skillName": "Frost Nova",
@@ -1817,6 +2288,9 @@
           "rarity": "2"
         },
         {
+          "lastUpdate": "",
+          "status": "",
+          "latestChanges": "",
           "gameId": "IceStaff_IcePhase",
           "gearName": "Frozen Conduit",
           "skillName": "Frozen Phase",
@@ -1829,6 +2303,9 @@
           "rarity": "2"
         },
         {
+          "lastUpdate": "",
+          "status": "",
+          "latestChanges": "",
           "gameId": "IceStaff_Permafrost",
           "gearName": "Glacier Spark",
           "skillName": "Ice Blast",
@@ -1841,6 +2318,9 @@
           "rarity": "3"
         },
         {
+          "lastUpdate": "",
+          "status": "",
+          "latestChanges": "",
           "gameId": "IceStaff_IceAvatar",
           "gearName": "Frost's Caller",
           "skillName": "Frost's Caller",
@@ -1855,6 +2335,9 @@
       ],
       "holy": [
         {
+          "lastUpdate": "",
+          "status": "",
+          "latestChanges": "",
           "gameId": "HolyStaffAttack_1",
           "gearName": "",
           "skillName": "Holy Feather",
@@ -1866,6 +2349,9 @@
           "unlock": "2"
         },
         {
+          "lastUpdate": "",
+          "status": "",
+          "latestChanges": "",
           "gameId": "HolyStaffAttack_2",
           "gearName": "",
           "skillName": "Holy Smite",
@@ -1877,6 +2363,9 @@
           "unlock": "4"
         },
         {
+          "lastUpdate": "",
+          "status": "",
+          "latestChanges": "",
           "gameId": "HolyStaffAttack_3",
           "gearName": "",
           "skillName": "Holy Heal",
@@ -1888,6 +2377,9 @@
           "unlock": "6"
         },
         {
+          "lastUpdate": "",
+          "status": "",
+          "latestChanges": "",
           "gameId": "HolyStaff_Passive",
           "gearName": "",
           "skillName": "Divine Ward",
@@ -1899,6 +2391,9 @@
           "unlock": "0"
         },
         {
+          "lastUpdate": "",
+          "status": "",
+          "latestChanges": "",
           "gameId": "HolyStaff_Common_Skill_1",
           "gearName": "",
           "skillName": "Holy Wave",
@@ -1910,6 +2405,9 @@
           "unlock": "1"
         },
         {
+          "lastUpdate": "",
+          "status": "",
+          "latestChanges": "",
           "gameId": "HolyStaff_Common_Skill_2",
           "gearName": "",
           "skillName": "Divine Link",
@@ -1921,6 +2419,9 @@
           "unlock": "3"
         },
         {
+          "lastUpdate": "",
+          "status": "",
+          "latestChanges": "",
           "gameId": "HolyStaff_Common_Skill_4",
           "gearName": "",
           "skillName": "Holy Energy",
@@ -1932,6 +2433,9 @@
           "unlock": "5"
         },
         {
+          "lastUpdate": "",
+          "status": "",
+          "latestChanges": "",
           "gameId": "HolyStaff_Common_Skill_3",
           "gearName": "",
           "skillName": "Holy Wall",
@@ -1943,6 +2447,9 @@
           "unlock": "7"
         },
         {
+          "lastUpdate": "",
+          "status": "",
+          "latestChanges": "",
           "gameId": "HolyStaff_Common_Skill_5",
           "gearName": "",
           "skillName": "Holy Baptism",
@@ -1954,6 +2461,9 @@
           "unlock": "8"
         },
         {
+          "lastUpdate": "",
+          "status": "",
+          "latestChanges": "",
           "gameId": "HolyStaff_Shield",
           "gearName": "Judgement's Staff",
           "skillName": "Aegisflare",
@@ -1966,6 +2476,9 @@
           "rarity": "1"
         },
         {
+          "lastUpdate": "",
+          "status": "",
+          "latestChanges": "",
           "gameId": "HolyStaff_LeapFaith",
           "gearName": "Guardian's Embrace",
           "skillName": "Divine Vault",
@@ -1978,6 +2491,9 @@
           "rarity": "2"
         },
         {
+          "lastUpdate": "",
+          "status": "",
+          "latestChanges": "",
           "gameId": "HolyStaff_Redemption",
           "gearName": "Luminous Ward",
           "skillName": "Sanctum Arc",
@@ -1990,6 +2506,9 @@
           "rarity": "2"
         },
         {
+          "lastUpdate": "",
+          "status": "",
+          "latestChanges": "",
           "gameId": "HolyStaff_SingleHoly",
           "gearName": "Divine Resonator",
           "skillName": "Sanctified Domain",
@@ -2002,6 +2521,9 @@
           "rarity": "2"
         },
         {
+          "lastUpdate": "",
+          "status": "",
+          "latestChanges": "",
           "gameId": "HolyStaff_HolyShine",
           "gearName": "Radiant Nova",
           "skillName": "Sacred Flare",
@@ -2014,6 +2536,9 @@
           "rarity": "2"
         },
         {
+          "lastUpdate": "",
+          "status": "",
+          "latestChanges": "",
           "gameId": "HolyStaff_Fallen",
           "gearName": "Celestial Redeemer",
           "skillName": "Blessed Halo",
@@ -2026,6 +2551,9 @@
           "rarity": "3"
         },
         {
+          "lastUpdate": "",
+          "status": "",
+          "latestChanges": "",
           "gameId": "HolyStaff_HolyGuardian",
           "gearName": "Sol Protector",
           "skillName": "Sanctuary",
@@ -2040,6 +2568,9 @@
       ],
       "curse": [
         {
+          "lastUpdate": "",
+          "status": "",
+          "latestChanges": "",
           "gameId": "CurseAttack_1",
           "gearName": "",
           "skillName": "Touch of Plague",
@@ -2051,6 +2582,9 @@
           "unlock": "2"
         },
         {
+          "lastUpdate": "",
+          "status": "",
+          "latestChanges": "",
           "gameId": "CurseAttack_2",
           "gearName": "",
           "skillName": "Plague Strike",
@@ -2062,6 +2596,9 @@
           "unlock": "4"
         },
         {
+          "lastUpdate": "",
+          "status": "",
+          "latestChanges": "",
           "gameId": "CurseAttack_3",
           "gearName": "",
           "skillName": "Venom Pool",
@@ -2073,6 +2610,9 @@
           "unlock": "6"
         },
         {
+          "lastUpdate": "",
+          "status": "",
+          "latestChanges": "",
           "gameId": "Curse_Passive",
           "gearName": "",
           "skillName": "Plague Outbreak",
@@ -2084,6 +2624,9 @@
           "unlock": "0"
         },
         {
+          "lastUpdate": "",
+          "status": "",
+          "latestChanges": "",
           "gameId": "Curse_Common_Skill_1",
           "gearName": "",
           "skillName": "Scourge",
@@ -2095,6 +2638,9 @@
           "unlock": "1"
         },
         {
+          "lastUpdate": "",
+          "status": "",
+          "latestChanges": "",
           "gameId": "Curse_Common_Skill_3",
           "gearName": "",
           "skillName": "Plague Surge",
@@ -2106,6 +2652,9 @@
           "unlock": "3"
         },
         {
+          "lastUpdate": "",
+          "status": "",
+          "latestChanges": "",
           "gameId": "Curse_Common_Skill_4",
           "gearName": "",
           "skillName": "Spread Plague",
@@ -2117,6 +2666,9 @@
           "unlock": "5"
         },
         {
+          "lastUpdate": "",
+          "status": "",
+          "latestChanges": "",
           "gameId": "Curse_Common_Skill_5",
           "gearName": "",
           "skillName": "Exhaustion",
@@ -2128,6 +2680,9 @@
           "unlock": "7"
         },
         {
+          "lastUpdate": "",
+          "status": "",
+          "latestChanges": "",
           "gameId": "Curse_Common_Skill_2",
           "gearName": "",
           "skillName": "Toxic Matter",
@@ -2139,6 +2694,9 @@
           "unlock": "8"
         },
         {
+          "lastUpdate": "",
+          "status": "",
+          "latestChanges": "",
           "gameId": "Curse_DeathDisease",
           "gearName": "Rotten Breath",
           "skillName": "Rot Manifest",
@@ -2151,6 +2709,9 @@
           "rarity": "1"
         },
         {
+          "lastUpdate": "",
+          "status": "",
+          "latestChanges": "",
           "gameId": "Curse_AntiMagic",
           "gearName": "Hexlock",
           "skillName": "Hexbound Malice",
@@ -2163,6 +2724,9 @@
           "rarity": "2"
         },
         {
+          "lastUpdate": "",
+          "status": "",
+          "latestChanges": "",
           "gameId": "Curse_Infect",
           "gearName": "Plaguespread",
           "skillName": "Pestilence",
@@ -2175,6 +2739,9 @@
           "rarity": "2"
         },
         {
+          "lastUpdate": "",
+          "status": "",
+          "latestChanges": "",
           "gameId": "Curse_Worm",
           "gearName": "Infestor's Staff",
           "skillName": "Parasitic Swarm",
@@ -2187,6 +2754,9 @@
           "rarity": "2"
         },
         {
+          "lastUpdate": "",
+          "status": "",
+          "latestChanges": "",
           "gameId": "Curse_Clipple",
           "gearName": "Nihilstaff",
           "skillName": "Crippling Curse",
@@ -2199,6 +2769,9 @@
           "rarity": "2"
         },
         {
+          "lastUpdate": "",
+          "status": "",
+          "latestChanges": "",
           "gameId": "Curse_Cloud",
           "gearName": "Necromist",
           "skillName": "Necrotic Eruption",
@@ -2211,6 +2784,9 @@
           "rarity": "3"
         },
         {
+          "lastUpdate": "",
+          "status": "",
+          "latestChanges": "",
           "gameId": "Curse_Flower",
           "gearName": "Withermaul",
           "skillName": "Bloom of Malice",
@@ -2227,6 +2803,9 @@
     "armor": {
       "head_strength": [
         {
+          "lastUpdate": "",
+          "status": "",
+          "latestChanges": "",
           "gameId": "Helm_Str_5",
           "gearName": "Furor's Helm",
           "skillName": "Enrage",
@@ -2239,6 +2818,9 @@
           "rarity": "1"
         },
         {
+          "lastUpdate": "",
+          "status": "",
+          "latestChanges": "",
           "gameId": "Helm_Str_4",
           "gearName": "Reptilian Helm",
           "skillName": "Iron Wall",
@@ -2251,6 +2833,9 @@
           "rarity": "2"
         },
         {
+          "lastUpdate": "",
+          "status": "",
+          "latestChanges": "",
           "gameId": "Helm_Str_3",
           "gearName": "Hellfire Visor",
           "skillName": "Flame Star",
@@ -2263,6 +2848,9 @@
           "rarity": "2"
         },
         {
+          "lastUpdate": "",
+          "status": "",
+          "latestChanges": "",
           "gameId": "Helm_Str_1",
           "gearName": "Ironclad Helm",
           "skillName": "Scale Armor",
@@ -2275,6 +2863,9 @@
           "rarity": "2"
         },
         {
+          "lastUpdate": "",
+          "status": "",
+          "latestChanges": "",
           "gameId": "Helm_Str_6",
           "gearName": "Savage Helm",
           "skillName": "EMP Blast",
@@ -2287,6 +2878,9 @@
           "rarity": "2"
         },
         {
+          "lastUpdate": "",
+          "status": "",
+          "latestChanges": "",
           "gameId": "Helm_Str_7",
           "gearName": "Stormveil Mask",
           "skillName": "Sandstorm",
@@ -2299,6 +2893,9 @@
           "rarity": "3"
         },
         {
+          "lastUpdate": "",
+          "status": "",
+          "latestChanges": "",
           "gameId": "Helm_Str_8",
           "gearName": "Warden's Gaze",
           "skillName": "Forward Guard",
@@ -2313,6 +2910,9 @@
       ],
       "chest_strength": [
         {
+          "lastUpdate": "",
+          "status": "",
+          "latestChanges": "",
           "gameId": "Cloth_Str_4",
           "gearName": "Guardian's Blessing",
           "skillName": "Block",
@@ -2325,6 +2925,9 @@
           "rarity": "1"
         },
         {
+          "lastUpdate": "",
+          "status": "",
+          "latestChanges": "",
           "gameId": "Cloth_Str_1",
           "gearName": "Aegis Plate",
           "skillName": "Shield",
@@ -2337,6 +2940,9 @@
           "rarity": "2"
         },
         {
+          "lastUpdate": "",
+          "status": "",
+          "latestChanges": "",
           "gameId": "Cloth_Str_2",
           "gearName": "Dazzling Guard",
           "skillName": "Stun",
@@ -2349,6 +2955,9 @@
           "rarity": "2"
         },
         {
+          "lastUpdate": "",
+          "status": "",
+          "latestChanges": "",
           "gameId": "Cloth_Str_6",
           "gearName": "Tempest Charge",
           "skillName": "Charge",
@@ -2361,6 +2970,9 @@
           "rarity": "2"
         },
         {
+          "lastUpdate": "",
+          "status": "",
+          "latestChanges": "",
           "gameId": "Cloth_Str_8",
           "gearName": "Tangle Guard",
           "skillName": "Root Grip",
@@ -2373,6 +2985,9 @@
           "rarity": "2"
         },
         {
+          "lastUpdate": "",
+          "status": "",
+          "latestChanges": "",
           "gameId": "Cloth_Str_3",
           "gearName": "Warden's Shell",
           "skillName": "Vulnerability",
@@ -2385,6 +3000,9 @@
           "rarity": "3"
         },
         {
+          "lastUpdate": "",
+          "status": "",
+          "latestChanges": "",
           "gameId": "Cloth_Str_5",
           "gearName": "Magsurge Armor",
           "skillName": "Converge",
@@ -2399,6 +3017,9 @@
       ],
       "boots_strength": [
         {
+          "lastUpdate": "",
+          "status": "",
+          "latestChanges": "",
           "gameId": "Shoes_Str_4",
           "gearName": "Energizer Boots",
           "skillName": "Vitality",
@@ -2411,6 +3032,9 @@
           "rarity": "1"
         },
         {
+          "lastUpdate": "",
+          "status": "",
+          "latestChanges": "",
           "gameId": "Shoes_Str_5",
           "gearName": "Wrathstep",
           "skillName": "Vengeance",
@@ -2423,6 +3047,9 @@
           "rarity": "2"
         },
         {
+          "lastUpdate": "",
+          "status": "",
+          "latestChanges": "",
           "gameId": "Shoes_Str_2",
           "gearName": "Bulwark Striders",
           "skillName": "Guardian",
@@ -2435,6 +3062,9 @@
           "rarity": "2"
         },
         {
+          "lastUpdate": "",
+          "status": "",
+          "latestChanges": "",
           "gameId": "Shoes_Str_1",
           "gearName": "Titan Walkers",
           "skillName": "Titanic Growth",
@@ -2447,6 +3077,9 @@
           "rarity": "2"
         },
         {
+          "lastUpdate": "",
+          "status": "",
+          "latestChanges": "",
           "gameId": "Shoes_Str_6",
           "gearName": "Vanguard's March",
           "skillName": "Vanguard",
@@ -2459,6 +3092,9 @@
           "rarity": "2"
         },
         {
+          "lastUpdate": "",
+          "status": "",
+          "latestChanges": "",
           "gameId": "Shoes_Str_3",
           "gearName": "Impact Heavy Boots",
           "skillName": "Lunge",
@@ -2471,6 +3107,9 @@
           "rarity": "3"
         },
         {
+          "lastUpdate": "",
+          "status": "",
+          "latestChanges": "",
           "gameId": "Shoes_Str_7",
           "gearName": "Avalanche Boots",
           "skillName": "Mountain Crash",
@@ -2485,6 +3124,9 @@
       ],
       "head_dexterity": [
         {
+          "lastUpdate": "",
+          "status": "",
+          "latestChanges": "",
           "gameId": "Helm_Dex_2",
           "gearName": "Vital Mantle",
           "skillName": "Life Flash",
@@ -2497,6 +3139,9 @@
           "rarity": "1"
         },
         {
+          "lastUpdate": "",
+          "status": "",
+          "latestChanges": "",
           "gameId": "Helm_Dex_3",
           "gearName": "Stormcaller's Hood",
           "skillName": "Electrified Strike",
@@ -2509,6 +3154,9 @@
           "rarity": "2"
         },
         {
+          "lastUpdate": "",
+          "status": "",
+          "latestChanges": "",
           "gameId": "Helm_Dex_5",
           "gearName": "Shadeveil Mask",
           "skillName": "Fade Out",
@@ -2521,6 +3169,9 @@
           "rarity": "2"
         },
         {
+          "lastUpdate": "",
+          "status": "",
+          "latestChanges": "",
           "gameId": "Helm_Dex_8",
           "gearName": "Purifier's Shroud",
           "skillName": "Dodge",
@@ -2533,6 +3184,9 @@
           "rarity": "2"
         },
         {
+          "lastUpdate": "",
+          "status": "",
+          "latestChanges": "",
           "gameId": "Helm_Dex_7",
           "gearName": "Wrathveil Shade",
           "skillName": "Rage",
@@ -2545,6 +3199,9 @@
           "rarity": "2"
         },
         {
+          "lastUpdate": "",
+          "status": "",
+          "latestChanges": "",
           "gameId": "Helm_Dex_1",
           "gearName": "Ironwill veil",
           "skillName": "Defiance",
@@ -2557,6 +3214,9 @@
           "rarity": "3"
         },
         {
+          "lastUpdate": "",
+          "status": "",
+          "latestChanges": "",
           "gameId": "Helm_Dex_4",
           "gearName": "Folly Helm",
           "skillName": "Break Free",
@@ -2571,6 +3231,9 @@
       ],
       "chest_dexterity": [
         {
+          "lastUpdate": "",
+          "status": "",
+          "latestChanges": "",
           "gameId": "Cloth_Dex_6",
           "gearName": "Recovery Vest",
           "skillName": "Bandage",
@@ -2583,6 +3246,9 @@
           "rarity": "1"
         },
         {
+          "lastUpdate": "",
+          "status": "",
+          "latestChanges": "",
           "gameId": "Cloth_Dex_3",
           "gearName": "Deathmantle",
           "skillName": "Finisher",
@@ -2595,6 +3261,9 @@
           "rarity": "2"
         },
         {
+          "lastUpdate": "",
+          "status": "",
+          "latestChanges": "",
           "gameId": "Cloth_Dex_4",
           "gearName": "Retaliation Coat",
           "skillName": "Reflect",
@@ -2607,6 +3276,9 @@
           "rarity": "2"
         },
         {
+          "lastUpdate": "",
+          "status": "",
+          "latestChanges": "",
           "gameId": "Cloth_Dex_5",
           "gearName": "Mistshroud",
           "skillName": "Smoke Screen",
@@ -2619,6 +3291,9 @@
           "rarity": "2"
         },
         {
+          "lastUpdate": "",
+          "status": "",
+          "latestChanges": "",
           "gameId": "Cloth_Dex_7",
           "gearName": "Beastcaller's Coat",
           "skillName": "Snarl",
@@ -2631,6 +3306,9 @@
           "rarity": "2"
         },
         {
+          "lastUpdate": "",
+          "status": "",
+          "latestChanges": "",
           "gameId": "Cloth_Dex_1",
           "gearName": "Ranger's Hide",
           "skillName": "Armor Breaker",
@@ -2643,6 +3321,9 @@
           "rarity": "3"
         },
         {
+          "lastUpdate": "",
+          "status": "",
+          "latestChanges": "",
           "gameId": "Cloth_Dex_2",
           "gearName": "Hero's Embrace",
           "skillName": "Rally",
@@ -2657,6 +3338,9 @@
       ],
       "boots_dexterity": [
         {
+          "lastUpdate": "",
+          "status": "",
+          "latestChanges": "",
           "gameId": "Shoes_Dex_3",
           "gearName": "Rallystep Boots",
           "skillName": "Sidestep",
@@ -2669,6 +3353,9 @@
           "rarity": "1"
         },
         {
+          "lastUpdate": "",
+          "status": "",
+          "latestChanges": "",
           "gameId": "Shoes_Dex_1",
           "gearName": "Swiftstride Boots",
           "skillName": "Attack Speed",
@@ -2681,6 +3368,9 @@
           "rarity": "2"
         },
         {
+          "lastUpdate": "",
+          "status": "",
+          "latestChanges": "",
           "gameId": "Shoes_Dex_2",
           "gearName": "Fleeting Steps",
           "skillName": "Grace",
@@ -2693,6 +3383,9 @@
           "rarity": "2"
         },
         {
+          "lastUpdate": "",
+          "status": "",
+          "latestChanges": "",
           "gameId": "Shoes_Dex_4",
           "gearName": "Deathwalker Boots",
           "skillName": "Assassinate",
@@ -2705,6 +3398,9 @@
           "rarity": "2"
         },
         {
+          "lastUpdate": "",
+          "status": "",
+          "latestChanges": "",
           "gameId": "Shoes_Dex_7",
           "gearName": "Shadeveil Slippers",
           "skillName": "Vanish",
@@ -2717,6 +3413,9 @@
           "rarity": "2"
         },
         {
+          "lastUpdate": "",
+          "status": "",
+          "latestChanges": "",
           "gameId": "Shoes_Dex_5",
           "gearName": "Evasion Striders",
           "skillName": "Escape",
@@ -2729,6 +3428,9 @@
           "rarity": "3"
         },
         {
+          "lastUpdate": "",
+          "status": "",
+          "latestChanges": "",
           "gameId": "Shoes_Dex_8",
           "gearName": "Exodrift Slippers",
           "skillName": "Phase Shift",
@@ -2743,6 +3445,9 @@
       ],
       "head_intelligence": [
         {
+          "lastUpdate": "",
+          "status": "",
+          "latestChanges": "",
           "gameId": "Helm_Int_7",
           "gearName": "Breezeweaver",
           "skillName": "Amplify",
@@ -2755,6 +3460,9 @@
           "rarity": "1"
         },
         {
+          "lastUpdate": "",
+          "status": "",
+          "latestChanges": "",
           "gameId": "Helm_Int_1",
           "gearName": "Healer's Hood",
           "skillName": "Swift Aid",
@@ -2767,6 +3475,9 @@
           "rarity": "2"
         },
         {
+          "lastUpdate": "",
+          "status": "",
+          "latestChanges": "",
           "gameId": "Helm_Int_2",
           "gearName": "Crimson Breeze",
           "skillName": "Grievous Wounds",
@@ -2779,6 +3490,9 @@
           "rarity": "2"
         },
         {
+          "lastUpdate": "",
+          "status": "",
+          "latestChanges": "",
           "gameId": "Helm_Int_3",
           "gearName": "Earth Vein Hood",
           "skillName": "Venom",
@@ -2791,6 +3505,9 @@
           "rarity": "2"
         },
         {
+          "lastUpdate": "",
+          "status": "",
+          "latestChanges": "",
           "gameId": "Helm_Int_4",
           "gearName": "Mystic Surge",
           "skillName": "Overflow",
@@ -2803,6 +3520,9 @@
           "rarity": "2"
         },
         {
+          "lastUpdate": "",
+          "status": "",
+          "latestChanges": "",
           "gameId": "Helm_Int_5",
           "gearName": "Sanctum Shroud",
           "skillName": "Repulsion",
@@ -2815,6 +3535,9 @@
           "rarity": "3"
         },
         {
+          "lastUpdate": "",
+          "status": "",
+          "latestChanges": "",
           "gameId": "Helm_Int_8",
           "gearName": "Twilight Mantle",
           "skillName": "Last Stand",
@@ -2829,6 +3552,9 @@
       ],
       "chest_intelligence": [
         {
+          "lastUpdate": "",
+          "status": "",
+          "latestChanges": "",
           "gameId": "Cloth_Int_3",
           "gearName": "Vigorcloak",
           "skillName": "Heal",
@@ -2841,6 +3567,9 @@
           "rarity": "1"
         },
         {
+          "lastUpdate": "",
+          "status": "",
+          "latestChanges": "",
           "gameId": "Cloth_Int_1",
           "gearName": "Cleansing Robe",
           "skillName": "Purify",
@@ -2853,6 +3582,9 @@
           "rarity": "2"
         },
         {
+          "lastUpdate": "",
+          "status": "",
+          "latestChanges": "",
           "gameId": "Cloth_Int_4",
           "gearName": "Archaneweaver",
           "skillName": "Mana Font",
@@ -2865,6 +3597,9 @@
           "rarity": "2"
         },
         {
+          "lastUpdate": "",
+          "status": "",
+          "latestChanges": "",
           "gameId": "Cloth_Int_5",
           "gearName": "Exorcist's Robe",
           "skillName": "Dispel",
@@ -2877,6 +3612,9 @@
           "rarity": "2"
         },
         {
+          "lastUpdate": "",
+          "status": "",
+          "latestChanges": "",
           "gameId": "Cloth_Int_7",
           "gearName": "Repulsor Mantle",
           "skillName": "Repulse",
@@ -2889,6 +3627,9 @@
           "rarity": "2"
         },
         {
+          "lastUpdate": "",
+          "status": "",
+          "latestChanges": "",
           "gameId": "Cloth_Int_8",
           "gearName": "Warding Shroud",
           "skillName": "Barrier",
@@ -2901,6 +3642,9 @@
           "rarity": "3"
         },
         {
+          "lastUpdate": "",
+          "status": "",
+          "latestChanges": "",
           "gameId": "Cloth_Int_2",
           "gearName": "Dreadcloak",
           "skillName": "Panic",
@@ -2915,6 +3659,9 @@
       ],
       "boots_intelligence": [
         {
+          "lastUpdate": "",
+          "status": "",
+          "latestChanges": "",
           "gameId": "Shoes_Int_4",
           "gearName": "Arcaneflow Boots",
           "skillName": "Abundance",
@@ -2927,6 +3674,9 @@
           "rarity": "1"
         },
         {
+          "lastUpdate": "",
+          "status": "",
+          "latestChanges": "",
           "gameId": "Shoes_Int_1",
           "gearName": "Blinkstep Boots",
           "skillName": "Flash Step",
@@ -2939,6 +3689,9 @@
           "rarity": "2"
         },
         {
+          "lastUpdate": "",
+          "status": "",
+          "latestChanges": "",
           "gameId": "Shoes_Int_3",
           "gearName": "Frostwalker Boots",
           "skillName": "Frost",
@@ -2951,6 +3704,9 @@
           "rarity": "2"
         },
         {
+          "lastUpdate": "",
+          "status": "",
+          "latestChanges": "",
           "gameId": "Shoes_Int_5",
           "gearName": "Miasma Stompers",
           "skillName": "Decay",
@@ -2963,6 +3719,9 @@
           "rarity": "2"
         },
         {
+          "lastUpdate": "",
+          "status": "",
+          "latestChanges": "",
           "gameId": "Shoes_Int_6",
           "gearName": "Shifter's Strides",
           "skillName": "Displacement",
@@ -2975,6 +3734,9 @@
           "rarity": "2"
         },
         {
+          "lastUpdate": "",
+          "status": "",
+          "latestChanges": "",
           "gameId": "Shoes_Int_7",
           "gearName": "Phantomstep Boots",
           "skillName": "Ghost",
@@ -2987,6 +3749,9 @@
           "rarity": "3"
         },
         {
+          "lastUpdate": "",
+          "status": "",
+          "latestChanges": "",
           "gameId": "Shoes_Int_2",
           "gearName": "Savagefoot Boots",
           "skillName": "Berserk",
@@ -3002,6 +3767,9 @@
     },
     "drifters": {
       "paragon_str_1": {
+        "lastUpdate": "",
+        "status": "",
+        "latestChanges": "",
         "gameId": "paragon_str_1",
         "name": "Sirokos",
         "strBonus": "2.5",
@@ -3013,6 +3781,9 @@
         "supportMalusValue": "-1.07%",
         "spells": [
           {
+            "lastUpdate": "June 6, 2025 02:46:00 AM",
+            "status": "buff",
+            "latestChanges": "■ New: Dispels all buffs on targets upon contact\n■ Removed: Silence effect after contact\n■ Removed: Slow effect within the wind field",
             "gameId": "Paragon_Skill_Str_1",
             "gearName": "Sirokos",
             "skillName": "Sandstorm Dominion",
@@ -3020,10 +3791,13 @@
             "cooldown": "28",
             "castingRange": "8",
             "type": "Skill",
-            "description": "Creates a Sandstorm around the caster, pushing all\nenemies outside. Channels for 6s with +45% Damage\nResistance and control immunity. Enemies touching the\nfield take [Damage Rate: 300%] Physical Damage, and are\nSilenced and Slowed by 60% for 4s. Also knocks them\nback 11m from center. The Sandstorm applies 60% Slow.",
+            "description": "Creates a Sandstorm around the caster, pushing all\nenemies outside. Channels for 6s with +45% Damage\nResistance and control immunity. Enemies touching the\nfield take [Damage Rate: 300%] Physical Damage,\nSlowed by 60% for 4s and dispelled from all buffs. Also knocks them\nback 11m from center. The Sandstorm applies 60% Slow.",
             "unlock": "1"
           },
           {
+            "lastUpdate": "June 6, 2025 02:46:00 AM",
+            "status": "buff",
+            "latestChanges": "■ New: Silence effect added\n■ Removed: Slow effect",
             "gameId": "Paragon_Skill_Str_1_Passive",
             "gearName": "Sirokos",
             "skillName": "Sand Veil",
@@ -3031,12 +3805,15 @@
             "cooldown": "20",
             "castingRange": "",
             "type": "Passive",
-            "description": "Creates a circular storm field around the caster for 4s\nwhen causing Forced Movement (Pull, Knockback). Deals\n[Damage Rate: 100%] Physical Damage to enemies in\nfield, inflicting 40% Slow and a 40% chance to miss Basic\nAttacks for 3s. (Cooldown: 20s)",
+            "description": "Creates a circular storm field around the caster for 4s\nwhen causing Forced Movement (Pull, Knockback). Deals\n[Damage Rate: 100%] Physical Damage to enemies in\nfield, inflicting Silence and a 40% chance to miss Basic\nAttacks for 3s. (Cooldown: 20s)",
             "unlock": "4"
           }
         ]
       },
       "paragon_str_2": {
+        "lastUpdate": "",
+        "status": "",
+        "latestChanges": "",
         "gameId": "paragon_str_2",
         "name": "Kyra",
         "strBonus": "2",
@@ -3048,6 +3825,9 @@
         "supportMalusValue": " -3.60%",
         "spells": [
           {
+            "lastUpdate": "",
+            "status": "",
+            "latestChanges": "",
             "gameId": "Paragon_Skill_Str_2",
             "gearName": "Kyra",
             "skillName": "Frozen Maelstrom",
@@ -3059,6 +3839,9 @@
             "unlock": "1"
           },
           {
+            "lastUpdate": "",
+            "status": "",
+            "latestChanges": "",
             "gameId": "Paragon_Skill_Str_2_Passive",
             "gearName": "Kyra",
             "skillName": "Fractured Ice",
@@ -3072,6 +3855,9 @@
         ]
       },
       "paragon_str_3": {
+        "lastUpdate": "",
+        "status": "",
+        "latestChanges": "",
         "gameId": "paragon_str_3",
         "name": "Izzy",
         "strBonus": "3.1",
@@ -3083,6 +3869,9 @@
         "supportMalusValue": " -1.07%",
         "spells": [
           {
+            "lastUpdate": "",
+            "status": "",
+            "latestChanges": "",
             "gameId": "Paragon_Skill_Str_3",
             "gearName": "Izzy",
             "skillName": "Acid Blast",
@@ -3094,6 +3883,9 @@
             "unlock": "1"
           },
           {
+            "lastUpdate": "",
+            "status": "",
+            "latestChanges": "",
             "gameId": "Paragon_Skill_Str_3_Passive",
             "gearName": "Izzy",
             "skillName": "Corrosion Barrier",
@@ -3107,6 +3899,9 @@
         ]
       },
       "paragon_str_4": {
+        "lastUpdate": "",
+        "status": "",
+        "latestChanges": "",
         "gameId": "paragon_str_4",
         "name": "Varnax",
         "strBonus": "2.4",
@@ -3118,6 +3913,9 @@
         "supportMalusValue": " -3.01%",
         "spells": [
           {
+            "lastUpdate": "",
+            "status": "",
+            "latestChanges": "",
             "gameId": "Paragon_Skill_Str_4",
             "gearName": "Varnax",
             "skillName": "Magma Slam",
@@ -3129,6 +3927,9 @@
             "unlock": "1"
           },
           {
+            "lastUpdate": "",
+            "status": "",
+            "latestChanges": "",
             "gameId": "Paragon_Skill_Str_4_Passive",
             "gearName": "Varnax",
             "skillName": "Seismic Impact",
@@ -3142,6 +3943,9 @@
         ]
       },
       "paragon_str_5": {
+        "lastUpdate": "",
+        "status": "",
+        "latestChanges": "",
         "gameId": "paragon_str_5",
         "name": "Aegis",
         "strBonus": "2.2",
@@ -3153,6 +3957,9 @@
         "supportMalusValue": "-2.15%",
         "spells": [
           {
+            "lastUpdate": "",
+            "status": "",
+            "latestChanges": "",
             "gameId": "Paragon_Skill_Str_5",
             "gearName": "Aegis",
             "skillName": "Shield of Conviction",
@@ -3164,6 +3971,9 @@
             "unlock": "1"
           },
           {
+            "lastUpdate": "",
+            "status": "",
+            "latestChanges": "",
             "gameId": "Paragon_Skill_Str_5_Passive",
             "gearName": "Aegis",
             "skillName": "Defiant Resolve",
@@ -3177,6 +3987,9 @@
         ]
       },
       "paragon_str_6": {
+        "lastUpdate": "",
+        "status": "",
+        "latestChanges": "",
         "gameId": "paragon_str_6",
         "name": "Durion",
         "strBonus": "2.4",
@@ -3188,6 +4001,9 @@
         "supportMalusValue": " -3.23%",
         "spells": [
           {
+            "lastUpdate": "",
+            "status": "",
+            "latestChanges": "",
             "gameId": "Paragon_Skill_Str_6",
             "gearName": "Durion",
             "skillName": "Protector's Radiance",
@@ -3199,6 +4015,9 @@
             "unlock": "1"
           },
           {
+            "lastUpdate": "",
+            "status": "",
+            "latestChanges": "",
             "gameId": "Paragon_Skill_Str_6_Passive",
             "gearName": "Durion",
             "skillName": "Reflective Shield",
@@ -3212,6 +4031,9 @@
         ]
       },
       "paragon_str_7": {
+        "lastUpdate": "",
+        "status": "",
+        "latestChanges": "",
         "gameId": "paragon_str_7",
         "name": "Draknor",
         "strBonus": "2.4",
@@ -3223,6 +4045,9 @@
         "supportMalusValue": "",
         "spells": [
           {
+            "lastUpdate": "",
+            "status": "",
+            "latestChanges": "",
             "gameId": "Paragon_Skill_Str_7",
             "gearName": "Draknor",
             "skillName": "Shackled Grip",
@@ -3234,6 +4059,9 @@
             "unlock": "1"
           },
           {
+            "lastUpdate": "",
+            "status": "",
+            "latestChanges": "",
             "gameId": "Paragon_Skill_Str_7_Passive",
             "gearName": "Draknor",
             "skillName": "Imprisonment",
@@ -3247,6 +4075,9 @@
         ]
       },
       "paragon_str_8": {
+        "lastUpdate": "",
+        "status": "",
+        "latestChanges": "",
         "gameId": "paragon_str_8",
         "name": "Auri",
         "strBonus": "2.1",
@@ -3258,6 +4089,9 @@
         "supportMalusValue": " -2.15%",
         "spells": [
           {
+            "lastUpdate": "June 6, 2025 02:46:00 AM",
+            "status": "balance",
+            "latestChanges": "■ Defined as a movement skill",
             "gameId": "Paragon_Skill_Str_8",
             "gearName": "Auri",
             "skillName": "Skyward Leap",
@@ -3269,6 +4103,9 @@
             "unlock": "1"
           },
           {
+            "lastUpdate": "",
+            "status": "",
+            "latestChanges": "",
             "gameId": "Paragon_Skill_Str_8_Passive",
             "gearName": "Auri",
             "skillName": "Healing Guardian",
@@ -3282,6 +4119,9 @@
         ]
       },
       "paragon_str_9": {
+        "lastUpdate": "",
+        "status": "",
+        "latestChanges": "",
         "gameId": "paragon_str_9",
         "name": "Firestorm",
         "strBonus": "1.8",
@@ -3293,6 +4133,9 @@
         "supportMalusValue": " -1.07%",
         "spells": [
           {
+            "lastUpdate": "June 6, 2025 02:46:00 AM",
+            "status": "buff",
+            "latestChanges": "■ Removed: Damage reduction against monsters\n■ Added: Magic Resistance increase during cannon form",
             "gameId": "Paragon_Skill_Str_9",
             "gearName": "Firestorm",
             "skillName": "Cannonade",
@@ -3300,10 +4143,13 @@
             "cooldown": "9.3",
             "castingRange": "30",
             "type": "Skill",
-            "description": "Transform into a turret for 25s. Basic Attacks become\nartillery strikes, firing projectiles at targets beyond 8m,\ndealing [Damage Rate: 250%] Physical Damage to players\n([Damage Rate: 150%] Physical Damage to mobs).\nArtillery Critical Damage is 150%.",
+            "description": "Transform into a turret for 25s. Basic Attacks become\nartillery strikes, firing projectiles at targets beyond 8m,\ndealing [Damage Rate: 250%] Physical Damage.\nArtillery Critical Damage is 150%.\n While in turret form gain increased Magic Resistance",
             "unlock": "1"
           },
           {
+            "lastUpdate": "",
+            "status": "",
+            "latestChanges": "",
             "gameId": "Paragon_Skill_Str_9_Passive",
             "gearName": "Firestorm",
             "skillName": "Resolve",
@@ -3317,6 +4163,9 @@
         ]
       },
       "paragon_int_1": {
+        "lastUpdate": "",
+        "status": "",
+        "latestChanges": "",
         "gameId": "paragon_int_1",
         "name": "ShadowSeer",
         "strBonus": "0.5",
@@ -3328,6 +4177,9 @@
         "supportMalusValue": "-3.23%",
         "spells": [
           {
+            "lastUpdate": "June 6, 2025 02:46:00 AM",
+            "status": "buff",
+            "latestChanges": "■ Each Dark Energy Ball Damage Rate 30% → 35%",
             "gameId": "Paragon_Skill_Int_1",
             "gearName": "ShadowSeer",
             "skillName": "Shadow Cascade",
@@ -3335,10 +4187,13 @@
             "cooldown": "46",
             "castingRange": "20",
             "type": "Skill",
-            "description": "Channel void energy for 5s and send forth 37 Void Orbs,\neach dealing [Damage Rate: 30%] Magic Damage and\ninflicting [Void Toxin]\nSkill cannot be interrupted.\n[Void Toxin]: Deals [Damage Rate: 10%] Magic Damage\nevery second (increases based on stacks) for 12s,\nstacking up to 5 times. [Void Toxin] from different sources\nshare stacks.",
+            "description": "Channel void energy for 5s and send forth 37 Void Orbs,\neach dealing [Damage Rate: 35%] Magic Damage and\ninflicting [Void Toxin]\nSkill cannot be interrupted.\n[Void Toxin]: Deals [Damage Rate: 10%] Magic Damage\nevery second (increases based on stacks) for 12s,\nstacking up to 5 times. [Void Toxin] from different sources\nshare stacks.",
             "unlock": "1"
           },
           {
+            "lastUpdate": "",
+            "status": "",
+            "latestChanges": "",
             "gameId": "Paragon_Skill_Int_1_Passive",
             "gearName": "ShadowSeer",
             "skillName": "",
@@ -3352,6 +4207,9 @@
         ]
       },
       "paragon_int_2": {
+        "lastUpdate": "",
+        "status": "",
+        "latestChanges": "",
         "gameId": "paragon_int_2",
         "name": "Solenne",
         "strBonus": "1",
@@ -3363,6 +4221,9 @@
         "supportMalusValue": " -2.15%",
         "spells": [
           {
+            "lastUpdate": "",
+            "status": "",
+            "latestChanges": "",
             "gameId": "Paragon_Skill_Int_2",
             "gearName": "Solenne",
             "skillName": "Bond of Light",
@@ -3374,6 +4235,9 @@
             "unlock": "1"
           },
           {
+            "lastUpdate": "",
+            "status": "",
+            "latestChanges": "",
             "gameId": "Paragon_Skill_Int_2_Passive",
             "gearName": "Solenne",
             "skillName": "",
@@ -3387,6 +4251,9 @@
         ]
       },
       "paragon_int_3": {
+        "lastUpdate": "",
+        "status": "",
+        "latestChanges": "",
         "gameId": "paragon_int_3",
         "name": "Hive Queen",
         "strBonus": "1.1",
@@ -3398,6 +4265,9 @@
         "supportMalusValue": " -3.70%",
         "spells": [
           {
+            "lastUpdate": "",
+            "status": "",
+            "latestChanges": "",
             "gameId": "Paragon_Skill_Int_3",
             "gearName": "Hive Queen",
             "skillName": "Abyssal Sovereignty",
@@ -3409,6 +4279,9 @@
             "unlock": "1"
           },
           {
+            "lastUpdate": "",
+            "status": "",
+            "latestChanges": "",
             "gameId": "Paragon_Skill_Int_3_Passive",
             "gearName": "Hive Queen",
             "skillName": "Hive Exaltation",
@@ -3422,6 +4295,9 @@
         ]
       },
       "paragon_int_4": {
+        "lastUpdate": "",
+        "status": "",
+        "latestChanges": "",
         "gameId": "paragon_int_4",
         "name": "Veska",
         "strBonus": "1",
@@ -3433,6 +4309,9 @@
         "supportMalusValue": " -1.07%",
         "spells": [
           {
+            "lastUpdate": "June 6, 2025 02:46:00 AM",
+            "status": "buff",
+            "latestChanges": "■ Petrify Wave Range: 7m → 10m",
             "gameId": "Paragon_Skill_Int_4",
             "gearName": "Veska",
             "skillName": "Serpent's Whisper",
@@ -3444,6 +4323,9 @@
             "unlock": "1"
           },
           {
+            "lastUpdate": "",
+            "status": "",
+            "latestChanges": "",
             "gameId": "Paragon_Skill_Int_4_Passive",
             "gearName": "Veska",
             "skillName": "Shedskin",
@@ -3457,6 +4339,9 @@
         ]
       },
       "paragon_int_10": {
+        "lastUpdate": "",
+        "status": "",
+        "latestChanges": "",
         "gameId": "paragon_int_10",
         "name": "Helix",
         "strBonus": "1",
@@ -3468,6 +4353,9 @@
         "supportMalusValue": "-1.07%",
         "spells": [
           {
+            "lastUpdate": "",
+            "status": "",
+            "latestChanges": "",
             "gameId": "Paragon_Skill_Int_10",
             "gearName": "Helix",
             "skillName": "Genetic Cascade",
@@ -3479,6 +4367,9 @@
             "unlock": "1"
           },
           {
+            "lastUpdate": "",
+            "status": "",
+            "latestChanges": "",
             "gameId": "Paragon_Skill_Int_10_Passive",
             "gearName": "Helix",
             "skillName": "Helical Convergence",
@@ -3492,6 +4383,9 @@
         ]
       },
       "paragon_int_6": {
+        "lastUpdate": "",
+        "status": "",
+        "latestChanges": "",
         "gameId": "paragon_int_6",
         "name": "Raven",
         "strBonus": "1.2",
@@ -3503,6 +4397,9 @@
         "supportMalusValue": "-2.15%",
         "spells": [
           {
+            "lastUpdate": "June 6, 2025 02:46:00 AM",
+            "status": "buff",
+            "latestChanges": "■ Maximum Number of Affected Targets: 5 → 10",
             "gameId": "Paragon_Skill_Int_6",
             "gearName": "Raven",
             "skillName": "Raven's Gaze",
@@ -3510,10 +4407,13 @@
             "cooldown": "28",
             "castingRange": "14",
             "type": "Skill",
-            "description": "Select an enemy target to summon ravens. After 2\nseconds, ravens dive to attack, dealing [Damage Rate:\n210%] Magic Damage to up to 5 enemies in range,\ndispelling all buffs, shields, and HoT effects. Applies 50%\nSlow and reduces damage dealt by 50% for 6s. Targets\ncannot gain buffs, shields, or HoT effects during this time.",
+            "description": "Select an enemy target to summon ravens. After 2\nseconds, ravens dive to attack, dealing [Damage Rate:\n210%] Magic Damage to up to 10 enemies in range,\ndispelling all buffs, shields, and HoT effects. Applies 50%\nSlow and reduces damage dealt by 50% for 6s. Targets\ncannot gain buffs, shields, or HoT effects during this time.",
             "unlock": "1"
           },
           {
+            "lastUpdate": "",
+            "status": "",
+            "latestChanges": "",
             "gameId": "Paragon_Skill_Int_6_Passive",
             "gearName": "Raven",
             "skillName": "Summon Raven",
@@ -3527,6 +4427,9 @@
         ]
       },
       "paragon_int_7": {
+        "lastUpdate": "",
+        "status": "",
+        "latestChanges": "",
         "gameId": "paragon_int_7",
         "name": "Moonveil",
         "strBonus": "1",
@@ -3538,6 +4441,9 @@
         "supportMalusValue": " -1.07%",
         "spells": [
           {
+            "lastUpdate": "",
+            "status": "",
+            "latestChanges": "",
             "gameId": "Paragon_Skill_Int_7",
             "gearName": "Moonveil",
             "skillName": "Twinlance Infusion",
@@ -3549,6 +4455,9 @@
             "unlock": "1"
           },
           {
+            "lastUpdate": "",
+            "status": "",
+            "latestChanges": "",
             "gameId": "Paragon_Skill_Int_7_Passive",
             "gearName": "Moonveil",
             "skillName": "Lunar Rebirth",
@@ -3562,6 +4471,9 @@
         ]
       },
       "paragon_int_11": {
+        "lastUpdate": "",
+        "status": "",
+        "latestChanges": "",
         "gameId": "paragon_int_11",
         "name": "Revelation",
         "strBonus": "0.8",
@@ -3573,6 +4485,9 @@
         "supportMalusValue": "",
         "spells": [
           {
+            "lastUpdate": "June 6, 2025 02:46:00 AM",
+            "status": "buff",
+            "latestChanges": "■ Purifies Debuffs: 2 stacks → All Dispel\n■ Removes DOT Purification Effect",
             "gameId": "Paragon_Skill_Int_11",
             "gearName": "Revelation",
             "skillName": "Sanctification",
@@ -3580,10 +4495,13 @@
             "cooldown": "42",
             "castingRange": "16",
             "type": "Skill",
-            "description": "Creates an expanding Sanctification Field at the target\nlocation and channels for 5s.\nCannot be interrupted while channeling.\nCleanses control effects every 0.5s, 2 debuffs, and 2 DoT\neffects, from up to 20 allies in the field and restores\n[Healing Rate: 25%] HP.",
+            "description": "Creates an expanding Sanctification Field at the target\nlocation and channels for 5s.\nCannot be interrupted while channeling.\nCleanses control effects every 0.5s, all debuffs, and 2 DoT\neffects, from up to 20 allies in the field and restores\n[Healing Rate: 25%] HP.",
             "unlock": "1"
           },
           {
+            "lastUpdate": "",
+            "status": "",
+            "latestChanges": "",
             "gameId": "Paragon_Skill_Int_11_Passive",
             "gearName": "Revelation",
             "skillName": "Holy Covenant",
@@ -3597,6 +4515,9 @@
         ]
       },
       "paragon_int_9": {
+        "lastUpdate": "",
+        "status": "",
+        "latestChanges": "",
         "gameId": "paragon_int_9",
         "name": "Astral Magus",
         "strBonus": "1",
@@ -3608,6 +4529,9 @@
         "supportMalusValue": "",
         "spells": [
           {
+            "lastUpdate": "June 6, 2025 02:46:00 AM",
+            "status": "nerf",
+            "latestChanges": "■ Removed: Slow and Immobilize immunity effects\n■ Defined as a movement skill\n■ Added: Target cannot be teleported by Astral Gate for 10 seconds after teleportation",
             "gameId": "Paragon_Skill_Int_9",
             "gearName": "Astral Magus",
             "skillName": "Astral Gate",
@@ -3615,10 +4539,13 @@
             "cooldown": "93",
             "castingRange": "40",
             "type": "Skill",
-            "description": "Creates an astral field beneath the caster. After 3s,\nteleports up to 15 teammates in range to the target\nlocation. Upon arrival, deals [Damage Rate: 200%] Magic\nDamage to surrounding enemies and Stuns them for 1s.\nAllies gain [Target-based Max HP 20%] Shield, +30%\nMovement Speed, immunity to Slow and Immobilize\neffects for 4s.\nIf there's unpassable terrain in the teleportation path,\nteleport to that position instead ..",
+            "description": "Creates an astral field beneath the caster. After 3s,\nteleports up to 15 teammates in range to the target\nlocation. Upon arrival, deals [Damage Rate: 200%] Magic\nDamage to surrounding enemies and Stuns them for 1s.\nAllies gain [Target-based Max HP 20%] Shield, +30%\nMovement Speed effects for 4s.\nIf there's unpassable terrain in the teleportation path,\nteleport to that position instead ..\n Target cannot be teleported by Astral Gate for 10 seconds after teleportation.",
             "unlock": "1"
           },
           {
+            "lastUpdate": "",
+            "status": "",
+            "latestChanges": "",
             "gameId": "Paragon_Skill_Int_9_Passive",
             "gearName": "Astral Magus",
             "skillName": "Celestial Rotation",
@@ -3632,6 +4559,9 @@
         ]
       },
       "paragon_dex_1": {
+        "lastUpdate": "",
+        "status": "",
+        "latestChanges": "",
         "gameId": "paragon_dex_1",
         "name": "Elektrix",
         "strBonus": "1",
@@ -3643,6 +4573,9 @@
         "supportMalusValue": " -2.69%",
         "spells": [
           {
+            "lastUpdate": "",
+            "status": "",
+            "latestChanges": "",
             "gameId": "Paragon_Skill_Dex_1",
             "gearName": "Elektrix",
             "skillName": "Storm Pulse",
@@ -3654,6 +4587,9 @@
             "unlock": "1"
           },
           {
+            "lastUpdate": "",
+            "status": "",
+            "latestChanges": "",
             "gameId": "Paragon_Skill_Dex_1_Passive",
             "gearName": "Elektrix",
             "skillName": "Static Overdrive",
@@ -3667,6 +4603,9 @@
         ]
       },
       "paragon_dex_2": {
+        "lastUpdate": "",
+        "status": "",
+        "latestChanges": "",
         "gameId": "paragon_dex_2",
         "name": "Nyxa",
         "strBonus": "1",
@@ -3678,6 +4617,9 @@
         "supportMalusValue": "-4.81%",
         "spells": [
           {
+            "lastUpdate": "",
+            "status": "",
+            "latestChanges": "",
             "gameId": "Paragon_Skill_Dex_2",
             "gearName": "Nyxa",
             "skillName": "Soul Feast",
@@ -3689,19 +4631,25 @@
             "unlock": "1"
           },
           {
+            "lastUpdate": "June 6, 2025 02:46:00 AM",
+            "status": "changes",
+            "latestChanges": "■ Original \"Umbra Guard\" removed, replaced with \"Void Construct\"",
             "gameId": "Paragon_Skill_Dex_2_Passive",
             "gearName": "Nyxa",
-            "skillName": "Umbra Guardian",
+            "skillName": "Void Construct",
             "manaCost": "",
             "cooldown": "30",
             "castingRange": "",
             "type": "Passive",
-            "description": "30% chance to gain an effect granting immunity to\nPhysical immunity, 30% reduced Magic Resistance, and\n20% increased Healing Received that last 4s when taking\nPhysical Damage. (Cooldown: 30s)",
+            "description": " Converts Physical Damage from Basic Attacks into Magic Damage. Each\ntime an attack deals damage, it reduces the target's Magic Resistance by 4%, for 4s, stacking up\nto 10.",
             "unlock": "4"
           }
         ]
       },
       "paragon_dex_3": {
+        "lastUpdate": "",
+        "status": "",
+        "latestChanges": "",
         "gameId": "paragon_dex_3",
         "name": "Overdrive",
         "strBonus": "1.5",
@@ -3713,6 +4661,9 @@
         "supportMalusValue": " -6.72%",
         "spells": [
           {
+            "lastUpdate": "June 6, 2025 02:46:00 AM",
+            "status": "balance",
+            "latestChanges": "■ Attack Speed Increase: 70% → 55%\n■ This state cannot be dispelled",
             "gameId": "Paragon_Skill_Dex_3",
             "gearName": "Overdrive",
             "skillName": "Flamecore Rampage",
@@ -3720,10 +4671,13 @@
             "cooldown": "28",
             "castingRange": "7",
             "type": "Skill",
-            "description": "Removes all current shield values, dealing \n[Damage Rate: 250%] Physical Damage to nearby enemies, while\nalso gaining 70% Attack Speed, 30% Movement Speed,\nand 30% Critical Rate, and becoming Immune to Control\nEffects for 6s.",
+            "description": "Removes all current shield values, dealing \n[Damage Rate: 250%] Physical Damage to nearby enemies, while\nalso gaining 55% Attack Speed, 30% Movement Speed,\nand 30% Critical Rate, and becoming Immune to Control\nEffects for 6s.\n Can't be dispelled.",
             "unlock": "1"
           },
           {
+            "lastUpdate": "",
+            "status": "",
+            "latestChanges": "",
             "gameId": "Paragon_Skill_Dex_3_Passive",
             "gearName": "Overdrive",
             "skillName": "Hell Salvo's Embrace",
@@ -3737,6 +4691,9 @@
         ]
       },
       "paragon_dex_4": {
+        "lastUpdate": "",
+        "status": "",
+        "latestChanges": "",
         "gameId": "paragon_dex_4",
         "name": "Zero",
         "strBonus": "1.2",
@@ -3748,6 +4705,9 @@
         "supportMalusValue": " -2.48%",
         "spells": [
           {
+            "lastUpdate": "",
+            "status": "",
+            "latestChanges": "",
             "gameId": "Paragon_Skill_Dex_4",
             "gearName": "Zero",
             "skillName": "Null Pulse",
@@ -3759,6 +4719,9 @@
             "unlock": "1"
           },
           {
+            "lastUpdate": "",
+            "status": "",
+            "latestChanges": "",
             "gameId": "Paragon_Skill_Dex_4_Passive",
             "gearName": "Zero",
             "skillName": "Overclocking Reflex",
@@ -3772,6 +4735,9 @@
         ]
       },
       "paragon_dex_5": {
+        "lastUpdate": "",
+        "status": "",
+        "latestChanges": "",
         "gameId": "paragon_dex_5",
         "name": "Vryssia",
         "strBonus": "0.6",
@@ -3783,6 +4749,9 @@
         "supportMalusValue": " -4.06%",
         "spells": [
           {
+            "lastUpdate": "",
+            "status": "",
+            "latestChanges": "",
             "gameId": "Paragon_Skill_Dex_5",
             "gearName": "Vryssia",
             "skillName": "Shadow Dive",
@@ -3794,6 +4763,9 @@
             "unlock": "1"
           },
           {
+            "lastUpdate": "",
+            "status": "",
+            "latestChanges": "",
             "gameId": "Paragon_Skill_Dex_5_Passive",
             "gearName": "Vryssia",
             "skillName": "Healing Bloom Hunter",
@@ -3807,6 +4779,9 @@
         ]
       },
       "paragon_dex_6": {
+        "lastUpdate": "",
+        "status": "",
+        "latestChanges": "",
         "gameId": "paragon_dex_6",
         "name": "Umbra",
         "strBonus": "0.8",
@@ -3818,6 +4793,9 @@
         "supportMalusValue": "-1.07%",
         "spells": [
           {
+            "lastUpdate": "",
+            "status": "",
+            "latestChanges": "",
             "gameId": "Paragon_Skill_Dex_6",
             "gearName": "Umbra",
             "skillName": "Shadow Rift",
@@ -3829,6 +4807,9 @@
             "unlock": "1"
           },
           {
+            "lastUpdate": "",
+            "status": "",
+            "latestChanges": "",
             "gameId": "Paragon_Skill_Dex_6_Passive",
             "gearName": "Umbra",
             "skillName": "Umbra Kinetics",
@@ -3842,6 +4823,9 @@
         ]
       },
       "paragon_dex_7": {
+        "lastUpdate": "",
+        "status": "",
+        "latestChanges": "",
         "gameId": "paragon_dex_7",
         "name": "Sanguor",
         "strBonus": "1.2",
@@ -3853,6 +4837,9 @@
         "supportMalusValue": "",
         "spells": [
           {
+            "lastUpdate": "June 6, 2025 02:46:00 AM",
+            "status": "nerf",
+            "latestChanges": "■ Damage Type: Physical Damage → Magic Damage\n■ Lifesteal Ratio Against Monsters: 60% → 30%",
             "gameId": "Paragon_Skill_Dex_7",
             "gearName": "Sanguor",
             "skillName": "Hemophage",
@@ -3860,10 +4847,13 @@
             "cooldown": "42",
             "castingRange": "7",
             "type": "Skill",
-            "description": "Activates Crimson Vortex for 6s.\nCrimson Vortex deals [Damage Rate: 75%] Physical Damage to up to 5 enemies every second, healing the caster for 60% of damage dealt.\nDamage increases up to [Damage Rate: 150%] as HP drops.",
+            "description": "Activates Crimson Vortex for 6s.\nCrimson Vortex deals [Damage Rate: 75%] Magical Damage to up to 5 enemies every second, healing the caster for 60% of damage dealt against players,\n 30% versus monsters.\nDamage increases up to [Damage Rate: 150%] as HP drops.",
             "unlock": "1"
           },
           {
+            "lastUpdate": "",
+            "status": "",
+            "latestChanges": "",
             "gameId": "Paragon_Skill_Dex_7_Passive",
             "gearName": "Sanguor",
             "skillName": "Blood Contract",
@@ -3877,6 +4867,9 @@
         ]
       },
       "paragon_dex_8": {
+        "lastUpdate": "",
+        "status": "",
+        "latestChanges": "",
         "gameId": "paragon_dex_8",
         "name": "Stormblade",
         "strBonus": "1",
@@ -3888,6 +4881,9 @@
         "supportMalusValue": "",
         "spells": [
           {
+            "lastUpdate": "",
+            "status": "",
+            "latestChanges": "",
             "gameId": "Paragon_Skill_Dex_8",
             "gearName": "Stormblade",
             "skillName": "Tempest Slash",
@@ -3899,6 +4895,9 @@
             "unlock": "1"
           },
           {
+            "lastUpdate": "",
+            "status": "",
+            "latestChanges": "",
             "gameId": "Paragon_Skill_Dex_8_Passive",
             "gearName": "Stormblade",
             "skillName": "Cyclone Reap",
@@ -3912,6 +4911,9 @@
         ]
       },
       "paragon_dex_9": {
+        "lastUpdate": "",
+        "status": "",
+        "latestChanges": "",
         "gameId": "paragon_dex_9",
         "name": "Illusarch",
         "strBonus": "1",
@@ -3923,6 +4925,9 @@
         "supportMalusValue": "",
         "spells": [
           {
+            "lastUpdate": "",
+            "status": "",
+            "latestChanges": "",
             "gameId": "Paragon_Skill_Dex_9",
             "gearName": "Illusarch",
             "skillName": "Spectral Disguise",
@@ -3934,6 +4939,9 @@
             "unlock": "1"
           },
           {
+            "lastUpdate": "",
+            "status": "",
+            "latestChanges": "",
             "gameId": "Paragon_Skill_Dex_9_Passive",
             "gearName": "Illusarch",
             "skillName": "Echo Reflection",
@@ -3949,6 +4957,9 @@
     },
     "links": [
       {
+        "lastUpdate": "",
+        "status": "",
+        "latestChanges": "",
         "linkName": "Warden",
         "linkBonus": "Increases Healing Effect by 4%",
         "driftersNeeded": "2",
@@ -3968,6 +4979,9 @@
         ]
       },
       {
+        "lastUpdate": "",
+        "status": "",
+        "latestChanges": "",
         "linkName": "Skillful",
         "linkBonus": "Enhancement to Skill Damage and Healing by 2.5%",
         "driftersNeeded": "3",
@@ -3984,6 +4998,9 @@
         ]
       },
       {
+        "lastUpdate": "",
+        "status": "",
+        "latestChanges": "",
         "linkName": "Resilient Mind",
         "linkBonus": "Increases Crowd Control Resistance by 5",
         "driftersNeeded": "2",
@@ -4003,6 +5020,9 @@
         ]
       },
       {
+        "lastUpdate": "",
+        "status": "",
+        "latestChanges": "",
         "linkName": "Powerhouse",
         "linkBonus": "Boosts Agility by 10",
         "driftersNeeded": "3",
@@ -4019,6 +5039,9 @@
         ]
       },
       {
+        "lastUpdate": "",
+        "status": "",
+        "latestChanges": "",
         "linkName": "Stalwart",
         "linkBonus": "Damage Resistance Enhanced by 2%",
         "driftersNeeded": "2",
@@ -4038,6 +5061,9 @@
         ]
       },
       {
+        "lastUpdate": "",
+        "status": "",
+        "latestChanges": "",
         "linkName": "Task Force",
         "linkBonus": "Increases Melee Damage by 4%",
         "driftersNeeded": "2",
@@ -4057,6 +5083,9 @@
         ]
       },
       {
+        "lastUpdate": "",
+        "status": "",
+        "latestChanges": "",
         "linkName": "Premonition",
         "linkBonus": "Increases Skill Cooldown by 2.5%",
         "driftersNeeded": "3",
@@ -4073,6 +5102,9 @@
         ]
       },
       {
+        "lastUpdate": "",
+        "status": "",
+        "latestChanges": "",
         "linkName": "Strategic Mind",
         "linkBonus": "Increases Ranged Damage by 4%",
         "driftersNeeded": "2",
@@ -4092,6 +5124,9 @@
         ]
       },
       {
+        "lastUpdate": "",
+        "status": "",
+        "latestChanges": "",
         "linkName": "Vibrant Bloodline",
         "linkBonus": "HP increased by 4%",
         "driftersNeeded": "3",
@@ -4108,6 +5143,9 @@
         ]
       },
       {
+        "lastUpdate": "",
+        "status": "",
+        "latestChanges": "",
         "linkName": "Ancestral Heritage",
         "linkBonus": "Increases Intelligence by 10",
         "driftersNeeded": "3",
@@ -4124,6 +5162,9 @@
         ]
       },
       {
+        "lastUpdate": "",
+        "status": "",
+        "latestChanges": "",
         "linkName": "Force of Nature",
         "linkBonus": "Increases Critical Damage of Basic Attack by 8%",
         "driftersNeeded": "2",
@@ -4143,6 +5184,9 @@
         ]
       },
       {
+        "lastUpdate": "",
+        "status": "",
+        "latestChanges": "",
         "linkName": "Exotic Brawn",
         "linkBonus": "Increases Strength by 10",
         "driftersNeeded": "3",
@@ -4165,6 +5209,9 @@
         "mods": [
           {
             "name": "Vitality",
+            "lastUpdate": "",
+            "status": "",
+            "latestChanges": "",
             "iconName": "ArmorRare1",
             "rarity": "2",
             "slot": "all",
@@ -4178,6 +5225,9 @@
           },
           {
             "name": "Armor",
+            "lastUpdate": "",
+            "status": "",
+            "latestChanges": "",
             "iconName": "ArmorRare2",
             "rarity": "2",
             "slot": "all",
@@ -4191,6 +5241,9 @@
           },
           {
             "name": "Magic Armor",
+            "lastUpdate": "",
+            "status": "",
+            "latestChanges": "",
             "iconName": "ArmorRare3",
             "rarity": "2",
             "slot": "all",
@@ -4204,6 +5257,9 @@
           },
           {
             "name": "Psyche",
+            "lastUpdate": "",
+            "status": "",
+            "latestChanges": "",
             "iconName": "ArmorRare4",
             "rarity": "2",
             "slot": "all",
@@ -4217,6 +5273,9 @@
           },
           {
             "name": "Punish",
+            "lastUpdate": "",
+            "status": "",
+            "latestChanges": "",
             "iconName": "ArmorEpic1",
             "rarity": "2",
             "slot": "all",
@@ -4238,6 +5297,9 @@
           },
           {
             "name": "Physical Resistance",
+            "lastUpdate": "",
+            "status": "",
+            "latestChanges": "",
             "iconName": "ArmorEpic2",
             "rarity": "2",
             "slot": "all",
@@ -4255,6 +5317,9 @@
           },
           {
             "name": "Valor Force",
+            "lastUpdate": "",
+            "status": "",
+            "latestChanges": "",
             "iconName": "ArmorEpic3",
             "rarity": "2",
             "slot": "all",
@@ -4272,6 +5337,9 @@
           },
           {
             "name": "Rebound",
+            "lastUpdate": "",
+            "status": "",
+            "latestChanges": "",
             "iconName": "ArmorEpic4",
             "rarity": "2",
             "slot": "all",
@@ -4293,6 +5361,9 @@
           },
           {
             "name": "Frenzy",
+            "lastUpdate": "",
+            "status": "",
+            "latestChanges": "",
             "iconName": "ArmorEpic5",
             "rarity": "2",
             "slot": "all",
@@ -4310,6 +5381,9 @@
           },
           {
             "name": "Emulate",
+            "lastUpdate": "",
+            "status": "",
+            "latestChanges": "",
             "iconName": "ArmorEpic6",
             "rarity": "2",
             "slot": "all",
@@ -4327,6 +5401,9 @@
           },
           {
             "name": "Magic Resistance",
+            "lastUpdate": "",
+            "status": "",
+            "latestChanges": "",
             "iconName": "ArmorEpic7",
             "rarity": "2",
             "slot": "all",
@@ -4344,6 +5421,9 @@
           },
           {
             "name": "Barrier",
+            "lastUpdate": "",
+            "status": "",
+            "latestChanges": "",
             "iconName": "ArmorEpic8",
             "rarity": "2",
             "slot": "all",
@@ -4361,6 +5441,9 @@
           },
           {
             "name": "Absorb",
+            "lastUpdate": "",
+            "status": "",
+            "latestChanges": "",
             "iconName": "ArmorEpic9",
             "rarity": "2",
             "slot": "all",
@@ -4382,6 +5465,9 @@
           },
           {
             "name": "Intimidate",
+            "lastUpdate": "",
+            "status": "",
+            "latestChanges": "",
             "iconName": "ArmorExclusiveLgdr1",
             "rarity": "3",
             "slot": "Chest",
@@ -4403,6 +5489,9 @@
           },
           {
             "name": "Charge Up",
+            "lastUpdate": "",
+            "status": "",
+            "latestChanges": "",
             "iconName": "ArmorExclusiveLgdr2",
             "rarity": "3",
             "slot": "Chest",
@@ -4420,6 +5509,9 @@
           },
           {
             "name": "Pain Relief",
+            "lastUpdate": "",
+            "status": "",
+            "latestChanges": "",
             "iconName": "ArmorExclusiveLgdr3",
             "rarity": "3",
             "slot": "Chest",
@@ -4437,6 +5529,9 @@
           },
           {
             "name": "Protection",
+            "lastUpdate": "",
+            "status": "",
+            "latestChanges": "",
             "iconName": "ArmorExclusiveLgdr4",
             "rarity": "3",
             "slot": "Boots",
@@ -4450,6 +5545,9 @@
           },
           {
             "name": "Deception",
+            "lastUpdate": "",
+            "status": "",
+            "latestChanges": "",
             "iconName": "ArmorExclusiveLgdr5",
             "rarity": "3",
             "slot": "Boots",
@@ -4467,6 +5565,9 @@
           },
           {
             "name": "Divine Blessing",
+            "lastUpdate": "",
+            "status": "",
+            "latestChanges": "",
             "iconName": "ArmorExclusiveLgdr6",
             "rarity": "3",
             "slot": "Boots",
@@ -4480,6 +5581,9 @@
           },
           {
             "name": "Roar",
+            "lastUpdate": "",
+            "status": "",
+            "latestChanges": "",
             "iconName": "ArmorLgdr1",
             "rarity": "3",
             "slot": "all",
@@ -4497,6 +5601,9 @@
           },
           {
             "name": "Counter",
+            "lastUpdate": "",
+            "status": "",
+            "latestChanges": "",
             "iconName": "ArmorLgdr2",
             "rarity": "3",
             "slot": "all",
@@ -4518,6 +5625,9 @@
           },
           {
             "name": "Muzzle",
+            "lastUpdate": "",
+            "status": "",
+            "latestChanges": "",
             "iconName": "ArmorLgdr3",
             "rarity": "3",
             "slot": "all",
@@ -4548,6 +5658,9 @@
         "mods": [
           {
             "name": "Advance",
+            "lastUpdate": "",
+            "status": "",
+            "latestChanges": "",
             "iconName": "WeaponRare1",
             "rarity": "2",
             "slot": "all",
@@ -4561,6 +5674,9 @@
           },
           {
             "name": "Tactics",
+            "lastUpdate": "",
+            "status": "",
+            "latestChanges": "",
             "iconName": "WeaponRare2",
             "rarity": "2",
             "slot": "all",
@@ -4574,6 +5690,9 @@
           },
           {
             "name": "Armor Breaker",
+            "lastUpdate": "",
+            "status": "",
+            "latestChanges": "",
             "iconName": "WeaponEpic1",
             "rarity": "2",
             "slot": "all",
@@ -4591,6 +5710,9 @@
           },
           {
             "name": "Fortify",
+            "lastUpdate": "",
+            "status": "",
+            "latestChanges": "",
             "iconName": "WeaponEpic2",
             "rarity": "2",
             "slot": "all",
@@ -4612,6 +5734,9 @@
           },
           {
             "name": "Dominate",
+            "lastUpdate": "",
+            "status": "",
+            "latestChanges": "",
             "iconName": "WeaponEpic3",
             "rarity": "2",
             "slot": "all",
@@ -4629,6 +5754,9 @@
           },
           {
             "name": "Upperhand",
+            "lastUpdate": "",
+            "status": "",
+            "latestChanges": "",
             "iconName": "WeaponEpic4",
             "rarity": "2",
             "slot": "all",
@@ -4646,6 +5774,9 @@
           },
           {
             "name": "Pursuit",
+            "lastUpdate": "",
+            "status": "",
+            "latestChanges": "",
             "iconName": "WeaponEpic5",
             "rarity": "2",
             "slot": "all",
@@ -4667,6 +5798,9 @@
           },
           {
             "name": "Ravage",
+            "lastUpdate": "",
+            "status": "",
+            "latestChanges": "",
             "iconName": "WeaponEpic6",
             "rarity": "2",
             "slot": "all",
@@ -4684,6 +5818,9 @@
           },
           {
             "name": "Magic Break",
+            "lastUpdate": "",
+            "status": "",
+            "latestChanges": "",
             "iconName": "WeaponEpic7",
             "rarity": "2",
             "slot": "all",
@@ -4701,6 +5838,9 @@
           },
           {
             "name": "Charge",
+            "lastUpdate": "",
+            "status": "",
+            "latestChanges": "",
             "iconName": "WeaponEpic8",
             "rarity": "2",
             "slot": "all",
@@ -4718,6 +5858,9 @@
           },
           {
             "name": "Fortify",
+            "lastUpdate": "",
+            "status": "",
+            "latestChanges": "",
             "iconName": "WeaponEpic9",
             "rarity": "2",
             "slot": "all",
@@ -4735,6 +5878,9 @@
           },
           {
             "name": "Valor",
+            "lastUpdate": "",
+            "status": "",
+            "latestChanges": "",
             "iconName": "WeaponExclusiveLgdr1",
             "rarity": "3",
             "slot": "sword",
@@ -4752,6 +5898,9 @@
           },
           {
             "name": "Disrupt",
+            "lastUpdate": "",
+            "status": "",
+            "latestChanges": "",
             "iconName": "WeaponExclusiveLgdr2",
             "rarity": "3",
             "slot": "mace",
@@ -4769,6 +5918,9 @@
           },
           {
             "name": "Seize Chance",
+            "lastUpdate": "",
+            "status": "",
+            "latestChanges": "",
             "iconName": "WeaponExclusiveLgdr3",
             "rarity": "3",
             "slot": "axe",
@@ -4786,6 +5938,9 @@
           },
           {
             "name": "Detonate",
+            "lastUpdate": "",
+            "status": "",
+            "latestChanges": "",
             "iconName": "WeaponExclusiveLgdr4",
             "rarity": "3",
             "slot": "bow",
@@ -4803,6 +5958,9 @@
           },
           {
             "name": "Synergy",
+            "lastUpdate": "",
+            "status": "",
+            "latestChanges": "",
             "iconName": "WeaponExclusiveLgdr5",
             "rarity": "3",
             "slot": "spear",
@@ -4820,6 +5978,9 @@
           },
           {
             "name": "Annihilate",
+            "lastUpdate": "",
+            "status": "",
+            "latestChanges": "",
             "iconName": "WeaponExclusiveLgdr6",
             "rarity": "3",
             "slot": "dagger",
@@ -4837,6 +5998,9 @@
           },
           {
             "name": "Wild Growth",
+            "lastUpdate": "",
+            "status": "",
+            "latestChanges": "",
             "iconName": "WeaponExclusiveLgdr7",
             "rarity": "3",
             "slot": "nature",
@@ -4854,6 +6018,9 @@
           },
           {
             "name": "Ice Blast",
+            "lastUpdate": "",
+            "status": "",
+            "latestChanges": "",
             "iconName": "WeaponExclusiveLgdr8",
             "rarity": "3",
             "slot": "ice",
@@ -4871,6 +6038,9 @@
           },
           {
             "name": "Flame Blast",
+            "lastUpdate": "",
+            "status": "",
+            "latestChanges": "",
             "iconName": "WeaponExclusiveLgdr9",
             "rarity": "3",
             "slot": "fire",
@@ -4888,6 +6058,9 @@
           },
           {
             "name": "Blessing",
+            "lastUpdate": "",
+            "status": "",
+            "latestChanges": "",
             "iconName": "WeaponExclusiveLgdr10",
             "rarity": "3",
             "slot": "holy",
@@ -4905,6 +6078,9 @@
           },
           {
             "name": "Curse",
+            "lastUpdate": "",
+            "status": "",
+            "latestChanges": "",
             "iconName": "WeaponExclusiveLgdr11",
             "rarity": "3",
             "slot": "curse",
@@ -4922,6 +6098,9 @@
           },
           {
             "name": "Renovate",
+            "lastUpdate": "",
+            "status": "",
+            "latestChanges": "",
             "iconName": "WeaponExclusiveLgdr12",
             "rarity": "3",
             "slot": "gun",
@@ -4939,6 +6118,9 @@
           },
           {
             "name": "EarthQuake",
+            "lastUpdate": "",
+            "status": "",
+            "latestChanges": "",
             "iconName": "WeaponLgdr1",
             "rarity": "3",
             "slot": "all",
@@ -4960,6 +6142,9 @@
           },
           {
             "name": "Rend",
+            "lastUpdate": "",
+            "status": "",
+            "latestChanges": "",
             "iconName": "WeaponLgdr2",
             "rarity": "3",
             "slot": "all",
@@ -4981,6 +6166,9 @@
           },
           {
             "name": "Retribution",
+            "lastUpdate": "",
+            "status": "",
+            "latestChanges": "",
             "iconName": "WeaponLgdr3",
             "rarity": "3",
             "slot": "all",
