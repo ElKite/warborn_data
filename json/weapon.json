@@ -189,7 +189,7 @@
         "rarity": "2"
       },
       {
-        "lastUpdate": "June 8, 2025 02:46:00 AM",
+        "lastUpdate": "June 6, 2025 02:46:00 AM",
         "status": "balance",
         "changes": "- Knockback Count: Max 1 → Max 3\n- Damage Output Reduction: 15% → 20%",
         "gameId": "Axe_GiantSwing",
@@ -717,7 +717,7 @@
         "unlock": "2"
       },
       {
-        "lastUpdate": "June 8, 2025 02:46:00 AM",
+        "lastUpdate": "June 6, 2025 02:46:00 AM",
         "status": "buff",
         "changes": "- Damage Rate: 130% → 180%",
         "gameId": "GunAttack_2",
@@ -731,7 +731,7 @@
         "unlock": "4"
       },
       {
-        "lastUpdate": "June 8, 2025 02:46:00 AM",
+        "lastUpdate": "June 6, 2025 02:46:00 AM",
         "status": "buff",
         "changes": "- Armor Reduction: 10% → 25%",
         "gameId": "GunAttack_3",
@@ -745,7 +745,7 @@
         "unlock": "6"
       },
       {
-        "lastUpdate": "June 8, 2025 02:46:00 AM",
+        "lastUpdate": "June 6, 2025 02:46:00 AM",
         "status": "balance",
         "changes": "- Duration: 150s → 30s\n- Charge Count: 2 → 3",
         "gameId": "Gun_Common_Skill_1",
@@ -844,7 +844,7 @@
         "unlock": "0"
       },
       {
-        "lastUpdate": "June 8, 2025 02:46:00 AM",
+        "lastUpdate": "June 6, 2025 02:46:00 AM",
         "status": "buff",
         "changes": "- Added Magic Resistance Increase During Channeling\n- Increased Turning Speed During Channeling\n- Shield Ratio: 20% → 40%",
         "gameId": "Gun_GatlinGun",
@@ -859,7 +859,7 @@
         "rarity": "2"
       },
       {
-        "lastUpdate": "June 8, 2025 02:46:00 AM",
+        "lastUpdate": "June 6, 2025 02:46:00 AM",
         "status": "buff",
         "changes": "- Damage Rate: 120% → 150%",
         "gameId": "Gun_ThreeGun",
@@ -874,7 +874,7 @@
         "rarity": "2"
       },
       {
-        "lastUpdate": "June 8, 2025 02:46:00 AM",
+        "lastUpdate": "June 6, 2025 02:46:00 AM",
         "status": "buff",
         "changes": "- Cast Range: 16m → 20m",
         "gameId": "Gun_Grenade",
@@ -889,7 +889,7 @@
         "rarity": "2"
       },
       {
-        "lastUpdate": "June 8, 2025 02:46:00 AM",
+        "lastUpdate": "June 6, 2025 02:46:00 AM",
         "status": "buff",
         "changes": "- Charged Shot Damage Rate at 3s: 130% → 200%",
         "gameId": "Gun_Common_Skill_5",
@@ -904,7 +904,7 @@
         "rarity": "2"
       },
       {
-        "lastUpdate": "June 8, 2025 02:46:00 AM",
+        "lastUpdate": "June 6, 2025 02:46:00 AM",
         "status": "buff",
         "changes": "- Additional Damage Rate per Extra Target Hit: 6% → 12%\n- Maximum Damage Rate Increase: 60% → 120%\n- Post-Skill Hardcast Duration: 1.9s → 1s",
         "gameId": "Gun_RifleGun",
@@ -919,7 +919,7 @@
         "rarity": "3"
       },
       {
-        "lastUpdate": "June 8, 2025 02:46:00 AM",
+        "lastUpdate": "June 6, 2025 02:46:00 AM",
         "status": "balance",
         "changes": "- Removed Self-Movement Speed Increase Effect\n- Added Requirement to Consume 1 Bullet When Used\\n- Movement Speed Increase: 20% → 25%\n- Movement Speed Duration: 1s → 3s",
         "gameId": "Gun_PrismGun",
@@ -950,7 +950,7 @@
         "unlock": "4"
       },
       {
-        "lastUpdate": "June 8, 2025 02:46:00 AM",
+        "lastUpdate": "June 6, 2025 02:46:00 AM",
         "status": "nerf",
         "changes": "- Cooldown: 1s → 1.5s",
         "gameId": "BowAttack_2",
@@ -978,7 +978,7 @@
         "unlock": "2"
       },
       {
-        "lastUpdate": "June 8, 2025 02:46:00 AM",
+        "lastUpdate": "June 6, 2025 02:46:00 AM",
         "status": "buff",
         "changes": "- Basic Attack Enhancement Count: 2 → 3\n- Enhanced Effect Adds +2m Basic Attack Range\n- Self Acceleration: 20% → 25%\n- Enemy Slow: 20% → 25%",
         "gameId": "Bow_Passive",
@@ -1020,7 +1020,7 @@
         "unlock": "8"
       },
       {
-        "lastUpdate": "June 8, 2025 02:46:00 AM",
+        "lastUpdate": "June 6, 2025 02:46:00 AM",
         "status": "balance",
         "changes": "- Original Backflip Shot Removed, Replaced with Sleep Arrow",
         "gameId": "Bow_Common_Skill_3",
@@ -1092,7 +1092,7 @@
         "rarity": "2"
       },
       {
-        "lastUpdate": "June 8, 2025 02:46:00 AM",
+        "lastUpdate": "June 6, 2025 02:46:00 AM",
         "status": "balance",
         "changes": "- Flight Distance: 26m → 22m\n- Flight Speed: 14m/s → 17.5m/s\n- Added Immediate Target Mark Activation on Explosion Hits",
         "gameId": "Bow_War",
@@ -1107,7 +1107,7 @@
         "rarity": "2"
       },
       {
-        "lastUpdate": "June 8, 2025 02:46:00 AM",
+        "lastUpdate": "June 6, 2025 02:46:00 AM",
         "status": "balance",
         "changes": "- First Hit Damage: 150% → 100%\n- Lightning Interference Field Duration: 5s → 8s\n- Armor Reduction Duration: 6s → 4s",
         "gameId": "Bow_Thunder",
@@ -1152,7 +1152,7 @@
         "rarity": "3"
       },
       {
-        "lastUpdate": "June 8, 2025 02:46:00 AM",
+        "lastUpdate": "June 6, 2025 02:46:00 AM",
         "status": "nerf",
         "changes": "- First Hit Damage: 200% → 100%\n- Added Immediate Target Mark Activation on Explosion Hits",
         "gameId": "Bow_GravityArrow",
@@ -1340,7 +1340,7 @@
         "rarity": "2"
       },
       {
-        "lastUpdate": "June 8, 2025 02:46:00 AM",
+        "lastUpdate": "June 6, 2025 02:46:00 AM",
         "status": "buff",
         "changes": "- Damage Resistance Increase 25% → 50%",
         "gameId": "Spear_Sweep",
@@ -1355,7 +1355,7 @@
         "rarity": "2"
       },
       {
-        "lastUpdate": "June 8, 2025 02:46:00 AM",
+        "lastUpdate": "June 6, 2025 02:46:00 AM",
         "status": "buff",
         "changes": "- Healing Rate 36% → 50%",
         "gameId": "Spear_DragonBack",
@@ -1385,7 +1385,7 @@
         "rarity": "3"
       },
       {
-        "lastUpdate": "June 8, 2025 02:46:00 AM",
+        "lastUpdate": "June 6, 2025 02:46:00 AM",
         "status": "nerf",
         "changes": "- Charge Time: 15s → 18s",
         "gameId": "Spear_Bright",
@@ -1472,7 +1472,7 @@
         "unlock": "3"
       },
       {
-        "lastUpdate": "June 8, 2025 02:46:00 AM",
+        "lastUpdate": "June 6, 2025 02:46:00 AM",
         "status": "nerf",
         "changes": "- Per Hit Damage Rate 200% → 180%",
         "gameId": "Dagger_Common_Skill_3",
@@ -1486,7 +1486,7 @@
         "unlock": "5"
       },
       {
-        "lastUpdate": "June 8, 2025 02:46:00 AM",
+        "lastUpdate": "June 6, 2025 02:46:00 AM",
         "status": "nerf",
         "changes": "- Damage Rate 50% → 25%",
         "gameId": "Dagger_Common_Skill_4",
@@ -1500,7 +1500,7 @@
         "unlock": "7"
       },
       {
-        "lastUpdate": "June 8, 2025 02:46:00 AM",
+        "lastUpdate": "June 6, 2025 02:46:00 AM",
         "status": "nerf",
         "changes": "- Damage Increase 10% → 7%",
         "gameId": "Dagger_Common_Skill_5",
@@ -1543,7 +1543,7 @@
         "rarity": "1"
       },
       {
-        "lastUpdate": "June 8, 2025 02:46:00 AM",
+        "lastUpdate": "June 6, 2025 02:46:00 AM",
         "status": "buff",
         "changes": "- Cooldown 20s → 15s",
         "gameId": "Dagger_BloodDagger",
@@ -1573,7 +1573,7 @@
         "rarity": "2"
       },
       {
-        "lastUpdate": "June 8, 2025 02:46:00 AM",
+        "lastUpdate": "June 6, 2025 02:46:00 AM",
         "status": "nerf",
         "changes": "- Movement Distance 10m → 9m",
         "gameId": "Dagger_Dagger",
@@ -1618,7 +1618,7 @@
         "rarity": "3"
       },
       {
-        "lastUpdate": "June 8, 2025 02:46:00 AM",
+        "lastUpdate": "June 6, 2025 02:46:00 AM",
         "status": "nerf",
         "changes": "- First Segment Cast Range 13m → 10m\n- Second Segment Cast Range 8m → 6m",
         "gameId": "Dagger_FastDagger",
@@ -1691,7 +1691,7 @@
         "unlock": "1"
       },
       {
-        "lastUpdate": "June 8, 2025 02:46:00 AM",
+        "lastUpdate": "June 6, 2025 02:46:00 AM",
         "status": "buff",
         "changes": "- Healing Rate 30% → 39%",
         "gameId": "Nature_Common_Skill_2",
@@ -1705,7 +1705,7 @@
         "unlock": "3"
       },
       {
-        "lastUpdate": "June 8, 2025 02:46:00 AM",
+        "lastUpdate": "June 6, 2025 02:46:00 AM",
         "status": "balance",
         "changes": "- Movement Speed Increase Effect Removed\n- New Addition: Casting Speed Increase 40%",
         "gameId": "Nature_Common_Skill_3",
@@ -1776,7 +1776,7 @@
         "rarity": "1"
       },
       {
-        "lastUpdate": "June 8, 2025 02:46:00 AM",
+        "lastUpdate": "June 6, 2025 02:46:00 AM",
         "status": "buff",
         "changes": "- New Addition: Casting Speed Increase 40%",
         "gameId": "Nature_TreeSkin",
@@ -1791,7 +1791,7 @@
         "rarity": "2"
       },
       {
-        "lastUpdate": "June 8, 2025 02:46:00 AM",
+        "lastUpdate": "June 6, 2025 02:46:00 AM",
         "status": "balance",
         "changes": "- Duration of Spell Field: 10s → 8s\n- Added: Deals [Damage Rate: 50%] Magic Damage to enemies in the field every 1 second",
         "gameId": "Nature_HealRain",
@@ -1868,7 +1868,7 @@
     ],
     "fire": [
       {
-        "lastUpdate": "June 8, 2025 02:46:00 AM",
+        "lastUpdate": "June 6, 2025 02:46:00 AM",
         "status": "buff",
         "changes": "- Damage Rate 90% → 120%",
         "gameId": "FireStaffAttack_1",
@@ -1882,7 +1882,7 @@
         "unlock": "2"
       },
       {
-        "lastUpdate": "June 8, 2025 02:46:00 AM",
+        "lastUpdate": "June 6, 2025 02:46:00 AM",
         "status": "balance",
         "changes": "- Cooldown 3s → 0.5s\n- Casting Time 0.5s → 1.2s",
         "gameId": "FireStaffAttack_2",
@@ -1896,7 +1896,7 @@
         "unlock": "4"
       },
       {
-        "lastUpdate": "June 8, 2025 02:46:00 AM",
+        "lastUpdate": "June 6, 2025 02:46:00 AM",
         "status": "buff",
         "changes": "- Damage Rate 100% → 120%\n- Cooldown 3s → 0.5s",
         "gameId": "FireStaffAttack_3",
@@ -1910,7 +1910,7 @@
         "unlock": "6"
       },
       {
-        "lastUpdate": "June 8, 2025 02:46:00 AM",
+        "lastUpdate": "June 6, 2025 02:46:00 AM",
         "status": "buff",
         "changes": "- Cooldown 9s → 6s\n- Added: 75% Increased Damage against Monsters",
         "gameId": "FireStaff_Common_Skill_1",
@@ -1938,7 +1938,7 @@
         "unlock": "0"
       },
       {
-        "lastUpdate": "June 8, 2025 02:46:00 AM",
+        "lastUpdate": "June 6, 2025 02:46:00 AM",
         "status": "buff",
         "changes": "- Damage Rate 90% → 110%",
         "gameId": "FireStaff_Common_Skill_2",
@@ -1952,7 +1952,7 @@
         "unlock": "3"
       },
       {
-        "lastUpdate": "June 8, 2025 02:46:00 AM",
+        "lastUpdate": "June 6, 2025 02:46:00 AM",
         "status": "buff",
         "changes": "- Damage Rate 200% → 250%",
         "gameId": "FireStaff_Common_Skill_3",
@@ -1980,7 +1980,7 @@
         "unlock": "7"
       },
       {
-        "lastUpdate": "June 8, 2025 02:46:00 AM",
+        "lastUpdate": "June 6, 2025 02:46:00 AM",
         "status": "nerf",
         "changes": "- Attack Speed Increase Effect Removed",
         "gameId": "FireStaff_Common_Skill_5",
@@ -2009,7 +2009,7 @@
         "rarity": "1"
       },
       {
-        "lastUpdate": "June 8, 2025 02:46:00 AM",
+        "lastUpdate": "June 6, 2025 02:46:00 AM",
         "status": "balance",
         "changes": "- Max Charge Time 3s → 2s\n- Knockback Distance 3m → 8m",
         "gameId": "FireStaff_1HandStaff",
@@ -2024,7 +2024,7 @@
         "rarity": "2"
       },
       {
-        "lastUpdate": "June 8, 2025 02:46:00 AM",
+        "lastUpdate": "June 6, 2025 02:46:00 AM",
         "status": "balance",
         "changes": "- Cast Range 14m → 17m\n- Subsequent Damages Reduced from 25% → 50%",
         "gameId": "FireStaff_Brimstone",
@@ -2054,7 +2054,7 @@
         "rarity": "2"
       },
       {
-        "lastUpdate": "June 8, 2025 02:46:00 AM",
+        "lastUpdate": "June 6, 2025 02:46:00 AM",
         "status": "buff",
         "changes": "- Damage Rate 40% → 45%\n- Magic Resistance Reduction 5% → 8%",
         "gameId": "FireStaff_Fanning",
@@ -2069,7 +2069,7 @@
         "rarity": "2"
       },
       {
-        "lastUpdate": "June 8, 2025 02:46:00 AM",
+        "lastUpdate": "June 6, 2025 02:46:00 AM",
         "status": "buff",
         "changes": "- Damage Rate 75% → 85%\n- Shield Ratio 15% → 25%",
         "gameId": "FireStaff_Dawnsong",
@@ -2084,7 +2084,7 @@
         "rarity": "3"
       },
       {
-        "lastUpdate": "June 8, 2025 02:46:00 AM",
+        "lastUpdate": "June 6, 2025 02:46:00 AM",
         "status": "balance",
         "changes": "- Stiffness Time After Skill Ends 1.9s → 1.5s\n- Bombardment Cooldown 1.5s → 0.5s\n- Bullet Collision Range Slightly Increased\n- Bullet Rolling Speed Reduced, Each Bullet Can Hit Enemies Up to 1 Time → 2 Times\n- Damage Rate 110% → 90%",
         "gameId": "FireStaff_LavaCannonade",
@@ -2143,7 +2143,7 @@
         "unlock": "6"
       },
       {
-        "lastUpdate": "June 8, 2025 02:46:00 AM",
+        "lastUpdate": "June 6, 2025 02:46:00 AM",
         "status": "buff",
         "changes": "- Trigger Interval: 20s → 15s",
         "gameId": "IceStaff_Passive",
@@ -2257,7 +2257,7 @@
         "rarity": "2"
       },
       {
-        "lastUpdate": "June 8, 2025 02:46:00 AM",
+        "lastUpdate": "June 6, 2025 02:46:00 AM",
         "status": "buff",
         "changes": "- Damage Rate 60% → 70%\n- Maximum Number of Hits on Same Target 2 → 3",
         "gameId": "IceStaff_Chillhowl",
@@ -2302,7 +2302,7 @@
         "rarity": "2"
       },
       {
-        "lastUpdate": "June 8, 2025 02:46:00 AM",
+        "lastUpdate": "June 6, 2025 02:46:00 AM",
         "status": "balance",
         "changes": "- First Segment Damage Rate 150% → 75%\n- Second Segment Damage Rate 350% → 400%\n- Cooldown 18s → 22s",
         "gameId": "IceStaff_Permafrost",
@@ -2362,7 +2362,7 @@
         "unlock": "4"
       },
       {
-        "lastUpdate": "June 8, 2025 02:46:00 AM",
+        "lastUpdate": "June 6, 2025 02:46:00 AM",
         "status": "balance",
         "changes": "- Cooldown 2.5s → 0.5s\n- Casting Time 0.5s → 1.5s",
         "gameId": "HolyStaffAttack_3",
@@ -2567,7 +2567,7 @@
     ],
     "curse": [
       {
-        "lastUpdate": "June 8, 2025 02:46:00 AM",
+        "lastUpdate": "June 6, 2025 02:46:00 AM",
         "status": "buff",
         "changes": "- Damage Rate 60% → 90%\n- Casting Time 1.2s → 1s",
         "gameId": "CurseAttack_1",
@@ -2581,7 +2581,7 @@
         "unlock": "2"
       },
       {
-        "lastUpdate": "June 8, 2025 02:46:00 AM",
+        "lastUpdate": "June 6, 2025 02:46:00 AM",
         "status": "balance",
         "changes": "- Casting Time 0.5s → 1.2s\n- Cooldown 2s → 0.5s",
         "gameId": "CurseAttack_2",
@@ -2595,7 +2595,7 @@
         "unlock": "4"
       },
       {
-        "lastUpdate": "June 8, 2025 02:46:00 AM",
+        "lastUpdate": "June 6, 2025 02:46:00 AM",
         "status": "buff",
         "changes": "- Cooldown 3s → 2s",
         "gameId": "CurseAttack_3",
@@ -2651,7 +2651,7 @@
         "unlock": "3"
       },
       {
-        "lastUpdate": "June 8, 2025 02:46:00 AM",
+        "lastUpdate": "June 6, 2025 02:46:00 AM",
         "status": "balance",
         "changes": "- Basic Attack Miss Duration 5s → 9s\n- MP Cost 15 → 10",
         "gameId": "Curse_Common_Skill_4",
@@ -2679,7 +2679,7 @@
         "unlock": "7"
       },
       {
-        "lastUpdate": "June 8, 2025 02:46:00 AM",
+        "lastUpdate": "June 6, 2025 02:46:00 AM",
         "status": "nerf",
         "changes": "- Damage Rate 120% → 100%",
         "gameId": "Curse_Common_Skill_2",
@@ -2723,7 +2723,7 @@
         "rarity": "2"
       },
       {
-        "lastUpdate": "June 8, 2025 02:46:00 AM",
+        "lastUpdate": "June 6, 2025 02:46:00 AM",
         "status": "buff",
         "changes": "- Damage Rate 50% → 65%",
         "gameId": "Curse_Infect",
@@ -2738,7 +2738,7 @@
         "rarity": "2"
       },
       {
-        "lastUpdate": "June 8, 2025 02:46:00 AM",
+        "lastUpdate": "June 6, 2025 02:46:00 AM",
         "status": "buff",
         "changes": "- Damage Rate 45% → 50%",
         "gameId": "Curse_Worm",
@@ -2753,7 +2753,7 @@
         "rarity": "2"
       },
       {
-        "lastUpdate": "June 8, 2025 02:46:00 AM",
+        "lastUpdate": "June 6, 2025 02:46:00 AM",
         "status": "nerf",
         "changes": "- Cast Range 14m → 12m",
         "gameId": "Curse_Clipple",
@@ -2768,7 +2768,7 @@
         "rarity": "2"
       },
       {
-        "lastUpdate": "June 8, 2025 02:46:00 AM",
+        "lastUpdate": "June 6, 2025 02:46:00 AM",
         "status": "balance",
         "changes": "- Cast Range 14m → 16m\n- Duration of Heal Reduction Effect 4s → 12s\n- Heal Reduction Effect 6%/Stack → 5%/Stack",
         "gameId": "Curse_Cloud",
@@ -2783,7 +2783,7 @@
         "rarity": "3"
       },
       {
-        "lastUpdate": "June 8, 2025 02:46:00 AM",
+        "lastUpdate": "June 6, 2025 02:46:00 AM",
         "status": "buff",
         "changes": "- Cast Range 14m → 16m\n- Duration of Max HP Reduction Effect 4s → 12s",
         "gameId": "Curse_Flower",
