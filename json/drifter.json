@@ -414,7 +414,7 @@
         {
           "lastUpdate": "June 6, 2025 02:46:00 AM",
           "status": "buff",
-          "changes": "- Each Dark Energy Ball Damage Rate 30% → 35%",
+          "changes": "- Each Dark Energy Ball Damage Rate 30% -> 35%",
           "gameId": "Paragon_Skill_Int_1",
           "gearName": "ShadowSeer",
           "skillName": "Shadow Cascade",
@@ -546,7 +546,7 @@
         {
           "lastUpdate": "June 6, 2025 02:46:00 AM",
           "status": "buff",
-          "changes": "- Petrify Wave Range: 7m → 10m",
+          "changes": "- Petrify Wave Range: 7m -> 10m",
           "gameId": "Paragon_Skill_Int_4",
           "gearName": "Veska",
           "skillName": "Serpent's Whisper",
@@ -634,7 +634,7 @@
         {
           "lastUpdate": "June 6, 2025 02:46:00 AM",
           "status": "buff",
-          "changes": "- Maximum Number of Affected Targets: 5 → 10",
+          "changes": "- Maximum Number of Affected Targets: 5 -> 10",
           "gameId": "Paragon_Skill_Int_6",
           "gearName": "Raven",
           "skillName": "Raven's Gaze",
@@ -722,7 +722,7 @@
         {
           "lastUpdate": "June 6, 2025 02:46:00 AM",
           "status": "buff",
-          "changes": "- Purifies Debuffs: 2 stacks → All Dispel\n- Removes DOT Purification Effect",
+          "changes": "- Purifies Debuffs: 2 stacks -> All Dispel\n- Removes DOT Purification Effect",
           "gameId": "Paragon_Skill_Int_11",
           "gearName": "Revelation",
           "skillName": "Sanctification",
@@ -898,7 +898,7 @@
         {
           "lastUpdate": "June 6, 2025 02:46:00 AM",
           "status": "balance",
-          "changes": "- Attack Speed Increase: 70% → 55%\n- This state cannot be dispelled",
+          "changes": "- Attack Speed Increase: 70% -> 55%\n- This state cannot be dispelled",
           "gameId": "Paragon_Skill_Dex_3",
           "gearName": "Overdrive",
           "skillName": "Flamecore Rampage",
@@ -1074,7 +1074,7 @@
         {
           "lastUpdate": "June 6, 2025 02:46:00 AM",
           "status": "nerf",
-          "changes": "- Damage Type: Physical Damage → Magic Damage\n- Lifesteal Ratio Against Monsters: 60% → 30%",
+          "changes": "- Damage Type: Physical Damage -> Magic Damage\n- Lifesteal Ratio Against Monsters: 60% -> 30%",
           "gameId": "Paragon_Skill_Dex_7",
           "gearName": "Sanguor",
           "skillName": "Hemophage",
