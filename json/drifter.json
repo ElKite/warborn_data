@@ -18,7 +18,7 @@
         {
           "lastUpdate": "June 6, 2025 02:46:00 AM",
           "status": "buff",
-          "changes": "■ New: Dispels all buffs on targets upon contact\n■ Removed: Silence effect after contact\n■ Removed: Slow effect within the wind field",
+          "changes": "- New: Dispels all buffs on targets upon contact\n- Removed: Silence effect after contact\n- Removed: Slow effect within the wind field",
           "gameId": "Paragon_Skill_Str_1",
           "gearName": "Sirokos",
           "skillName": "Sandstorm Dominion",
@@ -32,7 +32,7 @@
         {
           "lastUpdate": "June 6, 2025 02:46:00 AM",
           "status": "buff",
-          "changes": "■ New: Silence effect added\n■ Removed: Slow effect",
+          "changes": "- New: Silence effect added\n- Removed: Slow effect",
           "gameId": "Paragon_Skill_Str_1_Passive",
           "gearName": "Sirokos",
           "skillName": "Sand Veil",
@@ -326,7 +326,7 @@
         {
           "lastUpdate": "June 6, 2025 02:46:00 AM",
           "status": "balance",
-          "changes": "■ Defined as a movement skill",
+          "changes": "- Defined as a movement skill",
           "gameId": "Paragon_Skill_Str_8",
           "gearName": "Auri",
           "skillName": "Skyward Leap",
@@ -370,7 +370,7 @@
         {
           "lastUpdate": "June 6, 2025 02:46:00 AM",
           "status": "buff",
-          "changes": "■ Removed: Damage reduction against monsters\n■ Added: Magic Resistance increase during cannon form",
+          "changes": "- Removed: Damage reduction against monsters\n- Added: Magic Resistance increase during cannon form",
           "gameId": "Paragon_Skill_Str_9",
           "gearName": "Firestorm",
           "skillName": "Cannonade",
@@ -414,7 +414,7 @@
         {
           "lastUpdate": "June 6, 2025 02:46:00 AM",
           "status": "buff",
-          "changes": "■ Each Dark Energy Ball Damage Rate 30% → 35%",
+          "changes": "- Each Dark Energy Ball Damage Rate 30% → 35%",
           "gameId": "Paragon_Skill_Int_1",
           "gearName": "ShadowSeer",
           "skillName": "Shadow Cascade",
@@ -546,7 +546,7 @@
         {
           "lastUpdate": "June 6, 2025 02:46:00 AM",
           "status": "buff",
-          "changes": "■ Petrify Wave Range: 7m → 10m",
+          "changes": "- Petrify Wave Range: 7m → 10m",
           "gameId": "Paragon_Skill_Int_4",
           "gearName": "Veska",
           "skillName": "Serpent's Whisper",
@@ -634,7 +634,7 @@
         {
           "lastUpdate": "June 6, 2025 02:46:00 AM",
           "status": "buff",
-          "changes": "■ Maximum Number of Affected Targets: 5 → 10",
+          "changes": "- Maximum Number of Affected Targets: 5 → 10",
           "gameId": "Paragon_Skill_Int_6",
           "gearName": "Raven",
           "skillName": "Raven's Gaze",
@@ -722,7 +722,7 @@
         {
           "lastUpdate": "June 6, 2025 02:46:00 AM",
           "status": "buff",
-          "changes": "■ Purifies Debuffs: 2 stacks → All Dispel\n■ Removes DOT Purification Effect",
+          "changes": "- Purifies Debuffs: 2 stacks → All Dispel\n- Removes DOT Purification Effect",
           "gameId": "Paragon_Skill_Int_11",
           "gearName": "Revelation",
           "skillName": "Sanctification",
@@ -766,7 +766,7 @@
         {
           "lastUpdate": "June 6, 2025 02:46:00 AM",
           "status": "nerf",
-          "changes": "■ Removed: Slow and Immobilize immunity effects\n■ Defined as a movement skill\n■ Added: Target cannot be teleported by Astral Gate for 10 seconds after teleportation",
+          "changes": "- Removed: Slow and Immobilize immunity effects\n- Defined as a movement skill\n- Added: Target cannot be teleported by Astral Gate for 10 seconds after teleportation",
           "gameId": "Paragon_Skill_Int_9",
           "gearName": "Astral Magus",
           "skillName": "Astral Gate",
@@ -868,7 +868,7 @@
         {
           "lastUpdate": "June 6, 2025 02:46:00 AM",
           "status": "changes",
-          "changes": "■ Original \"Umbra Guard\" removed, replaced with \"Void Construct\"",
+          "changes": "- Original \"Umbra Guard\" removed, replaced with \"Void Construct\"",
           "gameId": "Paragon_Skill_Dex_2_Passive",
           "gearName": "Nyxa",
           "skillName": "Void Construct",
@@ -898,7 +898,7 @@
         {
           "lastUpdate": "June 6, 2025 02:46:00 AM",
           "status": "balance",
-          "changes": "■ Attack Speed Increase: 70% → 55%\n■ This state cannot be dispelled",
+          "changes": "- Attack Speed Increase: 70% → 55%\n- This state cannot be dispelled",
           "gameId": "Paragon_Skill_Dex_3",
           "gearName": "Overdrive",
           "skillName": "Flamecore Rampage",
@@ -1074,7 +1074,7 @@
         {
           "lastUpdate": "June 6, 2025 02:46:00 AM",
           "status": "nerf",
-          "changes": "■ Damage Type: Physical Damage → Magic Damage\n■ Lifesteal Ratio Against Monsters: 60% → 30%",
+          "changes": "- Damage Type: Physical Damage → Magic Damage\n- Lifesteal Ratio Against Monsters: 60% → 30%",
           "gameId": "Paragon_Skill_Dex_7",
           "gearName": "Sanguor",
           "skillName": "Hemophage",

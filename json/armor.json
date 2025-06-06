@@ -5,7 +5,7 @@
       {
         "lastUpdate": "June 8, 2025 02:46:00 AM",
         "status": "nerf",
-        "changes": "■ Duration: 12s → 6s",
+        "changes": "- Duration: 12s → 6s",
         "gameId": "Helm_Str_5",
         "gearName": "Furor's Helm",
         "skillName": "Enrage",
@@ -187,7 +187,7 @@
       {
         "lastUpdate": "June 8, 2025 02:46:00 AM",
         "status": "nerf",
-        "changes": "■ Damage Output Reduction: 100% → 80%",
+        "changes": "- Damage Output Reduction: 100% → 80%",
         "gameId": "Cloth_Str_3",
         "gearName": "Warden's Shell",
         "skillName": "Vulnerability",
@@ -234,7 +234,7 @@
       {
         "lastUpdate": "June 8, 2025 02:46:00 AM",
         "status": "nerf",
-        "changes": "■ Movement Speed per Stack: 25% → 17.5%\n■ Damage Increase per Stack: 7% → 4.5%\n■ Duration: 6s → 5s\n■ Max Stacks: 5 → 7",
+        "changes": "- Movement Speed per Stack: 25% → 17.5%\n- Damage Increase per Stack: 7% → 4.5%\n- Duration: 6s → 5s\n- Max Stacks: 5 → 7",
         "gameId": "Shoes_Str_5",
         "gearName": "Wrathstep",
         "skillName": "Vengeance",
@@ -341,7 +341,7 @@
       {
         "lastUpdate": "June 8, 2025 02:46:00 AM",
         "status": "nerf",
-        "changes": "■ Damage Rate 90% → 60%",
+        "changes": "- Damage Rate 90% → 60%",
         "gameId": "Helm_Dex_3",
         "gearName": "Stormcaller's Hood",
         "skillName": "Electrified Strike",
@@ -371,7 +371,7 @@
       {
         "lastUpdate": "June 8, 2025 02:46:00 AM",
         "status": "nerf",
-        "changes": "■ Cooldown: 20s → 25s",
+        "changes": "- Cooldown: 20s → 25s",
         "gameId": "Helm_Dex_8",
         "gearName": "Purifier's Shroud",
         "skillName": "Dodge",
@@ -386,7 +386,7 @@
       {
         "lastUpdate": "June 8, 2025 02:46:00 AM",
         "status": "nerf",
-        "changes": "■ Critical Rate: 20% → 10%\n■ Duration: 9s → 6s\n■ Cooldown: 30s → 25s",
+        "changes": "- Critical Rate: 20% → 10%\n- Duration: 9s → 6s\n- Cooldown: 30s → 25s",
         "gameId": "Helm_Dex_7",
         "gearName": "Wrathveil Shade",
         "skillName": "Rage",
@@ -508,7 +508,7 @@
       {
         "lastUpdate": "June 8, 2025 02:46:00 AM",
         "status": "balance",
-        "changes": "■ Duration of Damage Resistance Reduction: 8s → 6s\n■ Duration of Damage Increase: 8s → 6s\n■ Damage Increase: 12% → 15%",
+        "changes": "- Duration of Damage Resistance Reduction: 8s → 6s\n- Duration of Damage Increase: 8s → 6s\n- Damage Increase: 12% → 15%",
         "gameId": "Cloth_Dex_1",
         "gearName": "Ranger's Hide",
         "skillName": "Armor Breaker",
@@ -570,7 +570,7 @@
       {
         "lastUpdate": "June 8, 2025 02:46:00 AM",
         "status": "balance",
-        "changes": "■ Critical Rate Increase: 20% → 15%\n■ Duration: 4s → 5s\n■ Cooldown 20s → 25s",
+        "changes": "- Critical Rate Increase: 20% → 15%\n- Duration: 4s → 5s\n- Cooldown 20s → 25s",
         "gameId": "Shoes_Dex_2",
         "gearName": "Fleeting Steps",
         "skillName": "Grace",
@@ -814,7 +814,7 @@
       {
         "lastUpdate": "June 8, 2025 02:46:00 AM",
         "status": "buff",
-        "changes": "■ Added Disarm Effect for 4 seconds\n■ Cooldown 40s → 30s",
+        "changes": "- Added Disarm Effect for 4 seconds\n- Cooldown 40s → 30s",
         "gameId": "Cloth_Int_7",
         "gearName": "Repulsor Mantle",
         "skillName": "Repulse",

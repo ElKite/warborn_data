@@ -75,7 +75,7 @@
       {
         "lastUpdate": "June 6, 2025 02:46:00 AM",
         "status": "buff",
-        "changes": "■ Skill Cast Time Reduced by 0.2s",
+        "changes": "- Skill Cast Time Reduced by 0.2s",
         "gameId": "Axe_Common_Skill_4",
         "gearName": "",
         "skillName": "Primal Rush",
@@ -103,7 +103,7 @@
       {
         "lastUpdate": "June 6, 2025 02:46:00 AM",
         "status": "nerf",
-        "changes": "■ Effect Duration: 8s → 6s\n■ Cooldown: 18s → 24s",
+        "changes": "- Effect Duration: 8s → 6s\n- Cooldown: 18s → 24s",
         "gameId": "Axe_Common_Skill_1",
         "gearName": "",
         "skillName": "Rage",
@@ -191,7 +191,7 @@
       {
         "lastUpdate": "June 8, 2025 02:46:00 AM",
         "status": "balance",
-        "changes": "■ Knockback Count: Max 1 → Max 3\n■ Damage Output Reduction: 15% → 20%",
+        "changes": "- Knockback Count: Max 1 → Max 3\n- Damage Output Reduction: 15% → 20%",
         "gameId": "Axe_GiantSwing",
         "gearName": "Cyclone Cleave",
         "skillName": "Vortex Toss",
@@ -221,7 +221,7 @@
       {
         "lastUpdate": "June 6, 2025 02:46:00 AM",
         "status": "nerf",
-        "changes": "■ Removed Damage Resistance Reduction from Path Slashes",
+        "changes": "- Removed Damage Resistance Reduction from Path Slashes",
         "gameId": "Axe_DoubleWhirl",
         "gearName": "Wingblade",
         "skillName": "Twinstorm",
@@ -252,7 +252,7 @@
       {
         "lastUpdate": "June 6, 2025 02:46:00 AM",
         "status": "nerf",
-        "changes": "■ Shield Effect: 4% → 3%",
+        "changes": "- Shield Effect: 4% → 3%",
         "gameId": "SwordAttack_2",
         "gearName": "",
         "skillName": "Sword Cleave",
@@ -367,7 +367,7 @@
         "status": "nerf",
         "changes": "",
         "gameId": "Sword_Passive",
-        "gearName": "■ Sword Momentum Duration: 10s → 8s",
+        "gearName": "- Sword Momentum Duration: 10s → 8s",
         "skillName": "Aura and Blade",
         "manaCost": "",
         "cooldown": "",
@@ -379,7 +379,7 @@
       {
         "lastUpdate": "June 6, 2025 02:46:00 AM",
         "status": "buff",
-        "changes": "■ Healing Reduction Duration: 3s → 4s\n■ Stun Duration: 1s → 1.5s\n■ Explosion Damage Rate: 150% → 200%",
+        "changes": "- Healing Reduction Duration: 3s → 4s\n- Stun Duration: 1s → 1.5s\n- Explosion Damage Rate: 150% → 200%",
         "gameId": "Sword_Claymore",
         "gearName": "Hellcore Cleaver",
         "skillName": "Overload Slash",
@@ -394,7 +394,7 @@
       {
         "lastUpdate": "June 6, 2025 02:46:00 AM",
         "status": "buff",
-        "changes": "■ Silence Duration at 2 Stacks: 1s → 2s\n■ Silence Duration at 3+ Stacks: 2s → 4s",
+        "changes": "- Silence Duration at 2 Stacks: 1s → 2s\n- Silence Duration at 3+ Stacks: 2s → 4s",
         "gameId": "Sword_Clarent",
         "gearName": "Voidblade",
         "skillName": "Force Pierce",
@@ -409,7 +409,7 @@
       {
         "lastUpdate": "June 6, 2025 02:46:00 AM",
         "status": "buff",
-        "changes": "■ Damage Output Reduction Duration: 4s → 6s\n■ Stun Duration: 1.5s → 2s",
+        "changes": "- Damage Output Reduction Duration: 4s → 6s\n- Stun Duration: 1.5s → 2s",
         "gameId": "Sword_KingSlash",
         "gearName": "Lordbreaker",
         "skillName": "Sovereign Strike",
@@ -439,7 +439,7 @@
       {
         "lastUpdate": "June 6, 2025 02:46:00 AM",
         "status": "nerf",
-        "changes": "■ Sword Energy Damage Rate: 300% → 250%\n■ Each Slash Damage Rate: 40% → 30%\n■ Damage Resistance Reduction Duration: 6s → 4s\n■ Cooldown: 25s → 30s\n■ Movement Method: Fixed 16m Displacement → Selectable 6-16m Displacement",
+        "changes": "- Sword Energy Damage Rate: 300% → 250%\n- Each Slash Damage Rate: 40% → 30%\n- Damage Resistance Reduction Duration: 6s → 4s\n- Cooldown: 25s → 30s\n- Movement Method: Fixed 16m Displacement → Selectable 6-16m Displacement",
         "gameId": "Sword_Carving",
         "gearName": "Judicator",
         "skillName": "Obliteration",
@@ -454,7 +454,7 @@
       {
         "lastUpdate": "June 6, 2025 02:46:00 AM",
         "status": "nerf",
-        "changes": "■ Blade Growth Damage Rate: 200% → 150%",
+        "changes": "- Blade Growth Damage Rate: 200% → 150%",
         "gameId": "Sword_ThousandBlade",
         "gearName": "Sovereign's Radiance",
         "skillName": "Thousandfold Strike",
@@ -628,7 +628,7 @@
       {
         "lastUpdate": "June 6, 2025 02:46:00 AM",
         "status": "balance",
-        "changes": "■ Dispel Effect: 2 Stacks → All\n■ Damage Output Reduction Duration: 9s → 8s\n■ Maximum Affected Targets: 15",
+        "changes": "- Dispel Effect: 2 Stacks → All\n- Damage Output Reduction Duration: 9s → 8s\n- Maximum Affected Targets: 15",
         "gameId": "Mace_DualMace",
         "gearName": "Voidbreaker",
         "skillName": "Void Slam",
@@ -643,7 +643,7 @@
       {
         "lastUpdate": "June 6, 2025 02:46:00 AM",
         "status": "buff",
-        "changes": "■ Damage Rate: 300% → 450%",
+        "changes": "- Damage Rate: 300% → 450%",
         "gameId": "Mace_Hook",
         "gearName": "Ripper's Grasp",
         "skillName": "Grappling Strike",
@@ -705,7 +705,7 @@
       {
         "lastUpdate": "",
         "status": "buff",
-        "changes": "■ Damage Rate: 120% → 150%",
+        "changes": "- Damage Rate: 120% → 150%",
         "gameId": "GunAttack_1",
         "gearName": "",
         "skillName": "Headshot",
@@ -719,7 +719,7 @@
       {
         "lastUpdate": "June 8, 2025 02:46:00 AM",
         "status": "buff",
-        "changes": "■ Damage Rate: 130% → 180%",
+        "changes": "- Damage Rate: 130% → 180%",
         "gameId": "GunAttack_2",
         "gearName": "",
         "skillName": "Ricochet",
@@ -733,7 +733,7 @@
       {
         "lastUpdate": "June 8, 2025 02:46:00 AM",
         "status": "buff",
-        "changes": "■ Armor Reduction: 10% → 25%",
+        "changes": "- Armor Reduction: 10% → 25%",
         "gameId": "GunAttack_3",
         "gearName": "",
         "skillName": "Armor Break",
@@ -747,7 +747,7 @@
       {
         "lastUpdate": "June 8, 2025 02:46:00 AM",
         "status": "balance",
-        "changes": "■ Duration: 150s → 30s\n■ Charge Count: 2 → 3",
+        "changes": "- Duration: 150s → 30s\n- Charge Count: 2 → 3",
         "gameId": "Gun_Common_Skill_1",
         "gearName": "",
         "skillName": "Trap",
@@ -846,7 +846,7 @@
       {
         "lastUpdate": "June 8, 2025 02:46:00 AM",
         "status": "buff",
-        "changes": "■ Added Magic Resistance Increase During Channeling\n■ Increased Turning Speed During Channeling\n■ Shield Ratio: 20% → 40%",
+        "changes": "- Added Magic Resistance Increase During Channeling\n- Increased Turning Speed During Channeling\n- Shield Ratio: 20% → 40%",
         "gameId": "Gun_GatlinGun",
         "gearName": "Sentinel Barrage",
         "skillName": "Sentinel Barrage",
@@ -861,7 +861,7 @@
       {
         "lastUpdate": "June 8, 2025 02:46:00 AM",
         "status": "buff",
-        "changes": "■ Damage Rate: 120% → 150%",
+        "changes": "- Damage Rate: 120% → 150%",
         "gameId": "Gun_ThreeGun",
         "gearName": "Spectral Assault",
         "skillName": "Rapid Fire",
@@ -876,7 +876,7 @@
       {
         "lastUpdate": "June 8, 2025 02:46:00 AM",
         "status": "buff",
-        "changes": "■ Cast Range: 16m → 20m",
+        "changes": "- Cast Range: 16m → 20m",
         "gameId": "Gun_Grenade",
         "gearName": "Blightspitter",
         "skillName": "Toxic Shroud",
@@ -891,7 +891,7 @@
       {
         "lastUpdate": "June 8, 2025 02:46:00 AM",
         "status": "buff",
-        "changes": "■ Charged Shot Damage Rate at 3s: 130% → 200%",
+        "changes": "- Charged Shot Damage Rate at 3s: 130% → 200%",
         "gameId": "Gun_Common_Skill_5",
         "gearName": "Luminet Cannon",
         "skillName": "Snipe",
@@ -906,7 +906,7 @@
       {
         "lastUpdate": "June 8, 2025 02:46:00 AM",
         "status": "buff",
-        "changes": "■ Additional Damage Rate per Extra Target Hit: 6% → 12%\n■ Maximum Damage Rate Increase: 60% → 120%\n■ Post-Skill Hardcast Duration: 1.9s → 1s",
+        "changes": "- Additional Damage Rate per Extra Target Hit: 6% → 12%\n- Maximum Damage Rate Increase: 60% → 120%\n- Post-Skill Hardcast Duration: 1.9s → 1s",
         "gameId": "Gun_RifleGun",
         "gearName": "Voideye",
         "skillName": "Deadshot",
@@ -921,7 +921,7 @@
       {
         "lastUpdate": "June 8, 2025 02:46:00 AM",
         "status": "balance",
-        "changes": "■ Removed Self-Movement Speed Increase Effect\n■ Added Requirement to Consume 1 Bullet When Used\\n■ Movement Speed Increase: 20% → 25%\n■ Movement Speed Duration: 1s → 3s",
+        "changes": "- Removed Self-Movement Speed Increase Effect\n- Added Requirement to Consume 1 Bullet When Used\\n- Movement Speed Increase: 20% → 25%\n- Movement Speed Duration: 1s → 3s",
         "gameId": "Gun_PrismGun",
         "gearName": "Prism Cloak",
         "skillName": "Photon Activation",
@@ -952,7 +952,7 @@
       {
         "lastUpdate": "June 8, 2025 02:46:00 AM",
         "status": "nerf",
-        "changes": "■ Cooldown: 1s → 1.5s",
+        "changes": "- Cooldown: 1s → 1.5s",
         "gameId": "BowAttack_2",
         "gearName": "",
         "skillName": "Piercing Arrow",
@@ -980,7 +980,7 @@
       {
         "lastUpdate": "June 8, 2025 02:46:00 AM",
         "status": "buff",
-        "changes": "■ Basic Attack Enhancement Count: 2 → 3\n■ Enhanced Effect Adds +2m Basic Attack Range\n■ Self Acceleration: 20% → 25%\n■ Enemy Slow: 20% → 25%",
+        "changes": "- Basic Attack Enhancement Count: 2 → 3\n- Enhanced Effect Adds +2m Basic Attack Range\n- Self Acceleration: 20% → 25%\n- Enemy Slow: 20% → 25%",
         "gameId": "Bow_Passive",
         "gearName": "",
         "skillName": "Target Mark",
@@ -1022,7 +1022,7 @@
       {
         "lastUpdate": "June 8, 2025 02:46:00 AM",
         "status": "balance",
-        "changes": "■ Original Backflip Shot Removed, Replaced with Sleep Arrow",
+        "changes": "- Original Backflip Shot Removed, Replaced with Sleep Arrow",
         "gameId": "Bow_Common_Skill_3",
         "gearName": "",
         "skillName": "Sleep Arrow",
@@ -1094,7 +1094,7 @@
       {
         "lastUpdate": "June 8, 2025 02:46:00 AM",
         "status": "balance",
-        "changes": "■ Flight Distance: 26m → 22m\n■ Flight Speed: 14m/s → 17.5m/s\n■ Added Immediate Target Mark Activation on Explosion Hits",
+        "changes": "- Flight Distance: 26m → 22m\n- Flight Speed: 14m/s → 17.5m/s\n- Added Immediate Target Mark Activation on Explosion Hits",
         "gameId": "Bow_War",
         "gearName": "Kinetic Arc",
         "skillName": "PowerShot",
@@ -1109,7 +1109,7 @@
       {
         "lastUpdate": "June 8, 2025 02:46:00 AM",
         "status": "balance",
-        "changes": "■ First Hit Damage: 150% → 100%\n■ Lightning Interference Field Duration: 5s → 8s\n■ Armor Reduction Duration: 6s → 4s",
+        "changes": "- First Hit Damage: 150% → 100%\n- Lightning Interference Field Duration: 5s → 8s\n- Armor Reduction Duration: 6s → 4s",
         "gameId": "Bow_Thunder",
         "gearName": "Thunderstrike",
         "skillName": "Arcbolt",
@@ -1154,7 +1154,7 @@
       {
         "lastUpdate": "June 8, 2025 02:46:00 AM",
         "status": "nerf",
-        "changes": "■ First Hit Damage: 200% → 100%\n■ Added Immediate Target Mark Activation on Explosion Hits",
+        "changes": "- First Hit Damage: 200% → 100%\n- Added Immediate Target Mark Activation on Explosion Hits",
         "gameId": "Bow_GravityArrow",
         "gearName": "Eclypse Bow",
         "skillName": "Shadow Vortex",
@@ -1342,7 +1342,7 @@
       {
         "lastUpdate": "June 8, 2025 02:46:00 AM",
         "status": "buff",
-        "changes": "■ Damage Resistance Increase 25% → 50%",
+        "changes": "- Damage Resistance Increase 25% → 50%",
         "gameId": "Spear_Sweep",
         "gearName": "Storm Spear",
         "skillName": "Sweeping Tempest",
@@ -1357,7 +1357,7 @@
       {
         "lastUpdate": "June 8, 2025 02:46:00 AM",
         "status": "buff",
-        "changes": "■ Healing Rate 36% → 50%",
+        "changes": "- Healing Rate 36% → 50%",
         "gameId": "Spear_DragonBack",
         "gearName": "Drakespike",
         "skillName": "Rapid Thrust",
@@ -1387,7 +1387,7 @@
       {
         "lastUpdate": "June 8, 2025 02:46:00 AM",
         "status": "nerf",
-        "changes": "■ Charge Time: 15s → 18s",
+        "changes": "- Charge Time: 15s → 18s",
         "gameId": "Spear_Bright",
         "gearName": "Phantom Spear",
         "skillName": "Shadow Dash",
@@ -1474,7 +1474,7 @@
       {
         "lastUpdate": "June 8, 2025 02:46:00 AM",
         "status": "nerf",
-        "changes": "■ Per Hit Damage Rate 200% → 180%",
+        "changes": "- Per Hit Damage Rate 200% → 180%",
         "gameId": "Dagger_Common_Skill_3",
         "gearName": "",
         "skillName": "Crippling Strike",
@@ -1488,7 +1488,7 @@
       {
         "lastUpdate": "June 8, 2025 02:46:00 AM",
         "status": "nerf",
-        "changes": "■ Damage Rate 50% → 25%",
+        "changes": "- Damage Rate 50% → 25%",
         "gameId": "Dagger_Common_Skill_4",
         "gearName": "",
         "skillName": "Smoke Grenade",
@@ -1502,7 +1502,7 @@
       {
         "lastUpdate": "June 8, 2025 02:46:00 AM",
         "status": "nerf",
-        "changes": "■ Damage Increase 10% → 7%",
+        "changes": "- Damage Increase 10% → 7%",
         "gameId": "Dagger_Common_Skill_5",
         "gearName": "",
         "skillName": "Shadow Move",
@@ -1545,7 +1545,7 @@
       {
         "lastUpdate": "June 8, 2025 02:46:00 AM",
         "status": "buff",
-        "changes": "■ Cooldown 20s → 15s",
+        "changes": "- Cooldown 20s → 15s",
         "gameId": "Dagger_BloodDagger",
         "gearName": "Twilight Blades",
         "skillName": "Blade Dance",
@@ -1575,7 +1575,7 @@
       {
         "lastUpdate": "June 8, 2025 02:46:00 AM",
         "status": "nerf",
-        "changes": "■ Movement Distance 10m → 9m",
+        "changes": "- Movement Distance 10m → 9m",
         "gameId": "Dagger_Dagger",
         "gearName": "Bloodpiercers",
         "skillName": "Rupture Thrust",
@@ -1620,7 +1620,7 @@
       {
         "lastUpdate": "June 8, 2025 02:46:00 AM",
         "status": "nerf",
-        "changes": "■ First Segment Cast Range 13m → 10m\n■ Second Segment Cast Range 8m → 6m",
+        "changes": "- First Segment Cast Range 13m → 10m\n- Second Segment Cast Range 8m → 6m",
         "gameId": "Dagger_FastDagger",
         "gearName": "Scarlet Hunger",
         "skillName": "Bloodeye Burst",
@@ -1693,7 +1693,7 @@
       {
         "lastUpdate": "June 8, 2025 02:46:00 AM",
         "status": "buff",
-        "changes": "■ Healing Rate 30% → 39%",
+        "changes": "- Healing Rate 30% → 39%",
         "gameId": "Nature_Common_Skill_2",
         "gearName": "",
         "skillName": "Energize",
@@ -1707,7 +1707,7 @@
       {
         "lastUpdate": "June 8, 2025 02:46:00 AM",
         "status": "balance",
-        "changes": "■ Movement Speed Increase Effect Removed\n■ New Addition: Casting Speed Increase 40%",
+        "changes": "- Movement Speed Increase Effect Removed\n- New Addition: Casting Speed Increase 40%",
         "gameId": "Nature_Common_Skill_3",
         "gearName": "",
         "skillName": "Vitality Seed",
@@ -1778,7 +1778,7 @@
       {
         "lastUpdate": "June 8, 2025 02:46:00 AM",
         "status": "buff",
-        "changes": "■ New Addition: Casting Speed Increase 40%",
+        "changes": "- New Addition: Casting Speed Increase 40%",
         "gameId": "Nature_TreeSkin",
         "gearName": "Thornward Staff",
         "skillName": "Thorn Barrier",
@@ -1793,7 +1793,7 @@
       {
         "lastUpdate": "June 8, 2025 02:46:00 AM",
         "status": "balance",
-        "changes": "■ Duration of Spell Field: 10s → 8s\n■ Added: Deals [Damage Rate: 50%] Magic Damage to enemies in the field every 1 second",
+        "changes": "- Duration of Spell Field: 10s → 8s\n- Added: Deals [Damage Rate: 50%] Magic Damage to enemies in the field every 1 second",
         "gameId": "Nature_HealRain",
         "gearName": "Harmony's Staff",
         "skillName": "Rain of Serenity",
@@ -1870,7 +1870,7 @@
       {
         "lastUpdate": "June 8, 2025 02:46:00 AM",
         "status": "buff",
-        "changes": "■ Damage Rate 90% → 120%",
+        "changes": "- Damage Rate 90% → 120%",
         "gameId": "FireStaffAttack_1",
         "gearName": "",
         "skillName": "Magma Burst",
@@ -1884,7 +1884,7 @@
       {
         "lastUpdate": "June 8, 2025 02:46:00 AM",
         "status": "balance",
-        "changes": "■ Cooldown 3s → 0.5s\n■ Casting Time 0.5s → 1.2s",
+        "changes": "- Cooldown 3s → 0.5s\n- Casting Time 0.5s → 1.2s",
         "gameId": "FireStaffAttack_2",
         "gearName": "",
         "skillName": "Scorching Shard",
@@ -1898,7 +1898,7 @@
       {
         "lastUpdate": "June 8, 2025 02:46:00 AM",
         "status": "buff",
-        "changes": "■ Damage Rate 100% → 120%\n■ Cooldown 3s → 0.5s",
+        "changes": "- Damage Rate 100% → 120%\n- Cooldown 3s → 0.5s",
         "gameId": "FireStaffAttack_3",
         "gearName": "",
         "skillName": "Wildfire Shard",
@@ -1912,7 +1912,7 @@
       {
         "lastUpdate": "June 8, 2025 02:46:00 AM",
         "status": "buff",
-        "changes": "■ Cooldown 9s → 6s\n■ Added: 75% Increased Damage against Monsters",
+        "changes": "- Cooldown 9s → 6s\n- Added: 75% Increased Damage against Monsters",
         "gameId": "FireStaff_Common_Skill_1",
         "gearName": "",
         "skillName": "Inferno Blast",
@@ -1940,7 +1940,7 @@
       {
         "lastUpdate": "June 8, 2025 02:46:00 AM",
         "status": "buff",
-        "changes": "■ Damage Rate 90% → 110%",
+        "changes": "- Damage Rate 90% → 110%",
         "gameId": "FireStaff_Common_Skill_2",
         "gearName": "",
         "skillName": "Molten Orb",
@@ -1954,7 +1954,7 @@
       {
         "lastUpdate": "June 8, 2025 02:46:00 AM",
         "status": "buff",
-        "changes": "■ Damage Rate 200% → 250%",
+        "changes": "- Damage Rate 200% → 250%",
         "gameId": "FireStaff_Common_Skill_3",
         "gearName": "",
         "skillName": "Blast Jump",
@@ -1982,7 +1982,7 @@
       {
         "lastUpdate": "June 8, 2025 02:46:00 AM",
         "status": "nerf",
-        "changes": "■ Attack Speed Increase Effect Removed",
+        "changes": "- Attack Speed Increase Effect Removed",
         "gameId": "FireStaff_Common_Skill_5",
         "gearName": "",
         "skillName": "Overdrive Mode",
@@ -2011,7 +2011,7 @@
       {
         "lastUpdate": "June 8, 2025 02:46:00 AM",
         "status": "balance",
-        "changes": "■ Max Charge Time 3s → 2s\n■ Knockback Distance 3m → 8m",
+        "changes": "- Max Charge Time 3s → 2s\n- Knockback Distance 3m → 8m",
         "gameId": "FireStaff_1HandStaff",
         "gearName": "Flame Maw",
         "skillName": "Molten Blast",
@@ -2026,7 +2026,7 @@
       {
         "lastUpdate": "June 8, 2025 02:46:00 AM",
         "status": "balance",
-        "changes": "■ Cast Range 14m → 17m\n■ Subsequent Damages Reduced from 25% → 50%",
+        "changes": "- Cast Range 14m → 17m\n- Subsequent Damages Reduced from 25% → 50%",
         "gameId": "FireStaff_Brimstone",
         "gearName": "Doomfire",
         "skillName": "Scorching Surge",
@@ -2056,7 +2056,7 @@
       {
         "lastUpdate": "June 8, 2025 02:46:00 AM",
         "status": "buff",
-        "changes": "■ Damage Rate 40% → 45%\n■ Magic Resistance Reduction 5% → 8%",
+        "changes": "- Damage Rate 40% → 45%\n- Magic Resistance Reduction 5% → 8%",
         "gameId": "FireStaff_Fanning",
         "gearName": "Blazruptor",
         "skillName": "Hell Salvo",
@@ -2071,7 +2071,7 @@
       {
         "lastUpdate": "June 8, 2025 02:46:00 AM",
         "status": "buff",
-        "changes": "■ Damage Rate 75% → 85%\n■ Shield Ratio 15% → 25%",
+        "changes": "- Damage Rate 75% → 85%\n- Shield Ratio 15% → 25%",
         "gameId": "FireStaff_Dawnsong",
         "gearName": "Solarflare",
         "skillName": "Starforge Beam",
@@ -2086,7 +2086,7 @@
       {
         "lastUpdate": "June 8, 2025 02:46:00 AM",
         "status": "balance",
-        "changes": "■ Stiffness Time After Skill Ends 1.9s → 1.5s\n■ Bombardment Cooldown 1.5s → 0.5s\n■ Bullet Collision Range Slightly Increased\n■ Bullet Rolling Speed Reduced, Each Bullet Can Hit Enemies Up to 1 Time → 2 Times\n■ Damage Rate 110% → 90%",
+        "changes": "- Stiffness Time After Skill Ends 1.9s → 1.5s\n- Bombardment Cooldown 1.5s → 0.5s\n- Bullet Collision Range Slightly Increased\n- Bullet Rolling Speed Reduced, Each Bullet Can Hit Enemies Up to 1 Time → 2 Times\n- Damage Rate 110% → 90%",
         "gameId": "FireStaff_LavaCannonade",
         "gearName": "Molten Mortar",
         "skillName": "Molten Volley",
@@ -2145,7 +2145,7 @@
       {
         "lastUpdate": "June 8, 2025 02:46:00 AM",
         "status": "buff",
-        "changes": "■ Trigger Interval: 20s → 15s",
+        "changes": "- Trigger Interval: 20s → 15s",
         "gameId": "IceStaff_Passive",
         "gearName": "",
         "skillName": "",
@@ -2259,7 +2259,7 @@
       {
         "lastUpdate": "June 8, 2025 02:46:00 AM",
         "status": "buff",
-        "changes": "■ Damage Rate 60% → 70%\n■ Maximum Number of Hits on Same Target 2 → 3",
+        "changes": "- Damage Rate 60% → 70%\n- Maximum Number of Hits on Same Target 2 → 3",
         "gameId": "IceStaff_Chillhowl",
         "gearName": "Cryoshard Mask",
         "skillName": "Frostbound Echo",
@@ -2304,7 +2304,7 @@
       {
         "lastUpdate": "June 8, 2025 02:46:00 AM",
         "status": "balance",
-        "changes": "■ First Segment Damage Rate 150% → 75%\n■ Second Segment Damage Rate 350% → 400%\n■ Cooldown 18s → 22s",
+        "changes": "- First Segment Damage Rate 150% → 75%\n- Second Segment Damage Rate 350% → 400%\n- Cooldown 18s → 22s",
         "gameId": "IceStaff_Permafrost",
         "gearName": "Glacier Spark",
         "skillName": "Ice Blast",
@@ -2364,7 +2364,7 @@
       {
         "lastUpdate": "June 8, 2025 02:46:00 AM",
         "status": "balance",
-        "changes": "■ Cooldown 2.5s → 0.5s\n■ Casting Time 0.5s → 1.5s",
+        "changes": "- Cooldown 2.5s → 0.5s\n- Casting Time 0.5s → 1.5s",
         "gameId": "HolyStaffAttack_3",
         "gearName": "",
         "skillName": "Holy Heal",
@@ -2569,7 +2569,7 @@
       {
         "lastUpdate": "June 8, 2025 02:46:00 AM",
         "status": "buff",
-        "changes": "■ Damage Rate 60% → 90%\n■ Casting Time 1.2s → 1s",
+        "changes": "- Damage Rate 60% → 90%\n- Casting Time 1.2s → 1s",
         "gameId": "CurseAttack_1",
         "gearName": "",
         "skillName": "Touch of Plague",
@@ -2583,7 +2583,7 @@
       {
         "lastUpdate": "June 8, 2025 02:46:00 AM",
         "status": "balance",
-        "changes": "■ Casting Time 0.5s → 1.2s\n■ Cooldown 2s → 0.5s",
+        "changes": "- Casting Time 0.5s → 1.2s\n- Cooldown 2s → 0.5s",
         "gameId": "CurseAttack_2",
         "gearName": "",
         "skillName": "Plague Strike",
@@ -2597,7 +2597,7 @@
       {
         "lastUpdate": "June 8, 2025 02:46:00 AM",
         "status": "buff",
-        "changes": "■ Cooldown 3s → 2s",
+        "changes": "- Cooldown 3s → 2s",
         "gameId": "CurseAttack_3",
         "gearName": "",
         "skillName": "Venom Pool",
@@ -2653,7 +2653,7 @@
       {
         "lastUpdate": "June 8, 2025 02:46:00 AM",
         "status": "balance",
-        "changes": "■ Basic Attack Miss Duration 5s → 9s\n■ MP Cost 15 → 10",
+        "changes": "- Basic Attack Miss Duration 5s → 9s\n- MP Cost 15 → 10",
         "gameId": "Curse_Common_Skill_4",
         "gearName": "",
         "skillName": "Spread Plague",
@@ -2681,7 +2681,7 @@
       {
         "lastUpdate": "June 8, 2025 02:46:00 AM",
         "status": "nerf",
-        "changes": "■ Damage Rate 120% → 100%",
+        "changes": "- Damage Rate 120% → 100%",
         "gameId": "Curse_Common_Skill_2",
         "gearName": "",
         "skillName": "Toxic Matter",
@@ -2725,7 +2725,7 @@
       {
         "lastUpdate": "June 8, 2025 02:46:00 AM",
         "status": "buff",
-        "changes": "■ Damage Rate 50% → 65%",
+        "changes": "- Damage Rate 50% → 65%",
         "gameId": "Curse_Infect",
         "gearName": "Plaguespread",
         "skillName": "Pestilence",
@@ -2740,7 +2740,7 @@
       {
         "lastUpdate": "June 8, 2025 02:46:00 AM",
         "status": "buff",
-        "changes": "■ Damage Rate 45% → 50%",
+        "changes": "- Damage Rate 45% → 50%",
         "gameId": "Curse_Worm",
         "gearName": "Infestor's Staff",
         "skillName": "Parasitic Swarm",
@@ -2755,7 +2755,7 @@
       {
         "lastUpdate": "June 8, 2025 02:46:00 AM",
         "status": "nerf",
-        "changes": "■ Cast Range 14m → 12m",
+        "changes": "- Cast Range 14m → 12m",
         "gameId": "Curse_Clipple",
         "gearName": "Nihilstaff",
         "skillName": "Crippling Curse",
@@ -2770,7 +2770,7 @@
       {
         "lastUpdate": "June 8, 2025 02:46:00 AM",
         "status": "balance",
-        "changes": "■ Cast Range 14m → 16m\n■ Duration of Heal Reduction Effect 4s → 12s\n■ Heal Reduction Effect 6%/Stack → 5%/Stack",
+        "changes": "- Cast Range 14m → 16m\n- Duration of Heal Reduction Effect 4s → 12s\n- Heal Reduction Effect 6%/Stack → 5%/Stack",
         "gameId": "Curse_Cloud",
         "gearName": "Necromist",
         "skillName": "Necrotic Eruption",
@@ -2785,7 +2785,7 @@
       {
         "lastUpdate": "June 8, 2025 02:46:00 AM",
         "status": "buff",
-        "changes": "■ Cast Range 14m → 16m\n■ Duration of Max HP Reduction Effect 4s → 12s",
+        "changes": "- Cast Range 14m → 16m\n- Duration of Max HP Reduction Effect 4s → 12s",
         "gameId": "Curse_Flower",
         "gearName": "Withermaul",
         "skillName": "Bloom of Malice",
