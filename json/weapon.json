@@ -2010,7 +2010,7 @@
       },
       {
         "lastUpdate": "June 6, 2025 02:46:00 AM",
-        "status": "balance",
+        "status": "buff",
         "changes": "- Max Charge Time 3s -> 2s\n- Knockback Distance 3m -> 8m",
         "gameId": "FireStaff_1HandStaff",
         "gearName": "Flame Maw",
@@ -2652,7 +2652,7 @@
       },
       {
         "lastUpdate": "June 6, 2025 02:46:00 AM",
-        "status": "balance",
+        "status": "buff",
         "changes": "- Basic Attack Miss Duration 5s -> 9s\n- MP Cost 15 -> 10",
         "gameId": "Curse_Common_Skill_4",
         "gearName": "",
@@ -2769,7 +2769,7 @@
       },
       {
         "lastUpdate": "June 6, 2025 02:46:00 AM",
-        "status": "balance",
+        "status": "buff",
         "changes": "- Cast Range 14m -> 16m\n- Duration of Heal Reduction Effect 4s -> 12s\n- Heal Reduction Effect 6%/Stack -> 5%/Stack",
         "gameId": "Curse_Cloud",
         "gearName": "Necromist",
