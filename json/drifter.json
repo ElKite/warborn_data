@@ -793,6 +793,50 @@
         }
       ]
     },
+    "paragon_int_13": {
+      "lastUpdate": "",
+      "status": "",
+      "changes": "",
+      "gameId": "paragon_int_13",
+      "name": "To Be Announced",
+      "strBonus": "N/A",
+      "dexBonus": "N/A",
+      "intBonus": "N/A",
+      "supportBonus": "N/A",
+      "supportMalus": "",
+      "supportBonusValue": "",
+      "supportMalusValue": "",
+      "spells": [
+        {
+          "lastUpdate": "",
+          "status": "",
+          "changes": "",
+          "gameId": "Paragon_Skill_Int_13",
+          "gearName": "N/A",
+          "skillName": "N/A",
+          "manaCost": "N/A",
+          "cooldown": "N/A",
+          "castingRange": "N/A",
+          "type": "Skill",
+          "description": "N/A",
+          "unlock": "1"
+        },
+        {
+          "lastUpdate": "",
+          "status": "",
+          "changes": "",
+          "gameId": "Paragon_Skill_Int_13_Passive",
+          "gearName": "N/A",
+          "skillName": "N/A",
+          "manaCost": "N/A",
+          "cooldown": "N/A",
+          "castingRange": "N/A",
+          "type": "Passive",
+          "description": "N/A",
+          "unlock": "4"
+        }
+      ]
+    },
     "paragon_dex_1": {
       "lastUpdate": "",
       "status": "",
