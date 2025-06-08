@@ -404,7 +404,7 @@
         "stats": {
           "hp": "714",
           "dmgBonus": "9.8%",
-          "mpRecovery": "5%"
+          "mpRecovery": "5"
         }
       },
       {
@@ -424,7 +424,7 @@
         "stats": {
           "hp": "714",
           "dmgBonus": "9.8%",
-          "mpRecovery": "5%"
+          "mpRecovery": "5"
         }
       },
       {
@@ -444,7 +444,7 @@
         "stats": {
           "hp": "714",
           "dmgBonus": "9.8%",
-          "mpRecovery": "5%"
+          "mpRecovery": "5"
         }
       },
       {
@@ -464,7 +464,7 @@
         "stats": {
           "hp": "714",
           "dmgBonus": "9.8%",
-          "mpRecovery": "5%"
+          "mpRecovery": "5"
         }
       },
       {
@@ -484,7 +484,7 @@
         "stats": {
           "hp": "714",
           "dmgBonus": "9.8%",
-          "mpRecovery": "5%"
+          "mpRecovery": "5"
         }
       },
       {
@@ -504,7 +504,7 @@
         "stats": {
           "hp": "755",
           "dmgBonus": "9.9%",
-          "mpRecovery": "5%"
+          "mpRecovery": "5"
         }
       },
       {
@@ -524,7 +524,7 @@
         "stats": {
           "hp": "755",
           "dmgBonus": "9.9%",
-          "mpRecovery": "5%"
+          "mpRecovery": "5"
         }
       }
     ],
@@ -663,7 +663,7 @@
         "stats": {
           "hp": "675",
           "dmgBonus": "9.6%",
-          "mpRecovery": "10%"
+          "mpRecovery": "10"
         }
       },
       {
@@ -743,7 +743,7 @@
         "stats": {
           "hp": "755",
           "dmgBonus": "9.9%",
-          "mpRecovery": "5%"
+          "mpRecovery": "5"
         }
       },
       {
@@ -763,7 +763,7 @@
         "stats": {
           "hp": "755",
           "dmgBonus": "9.9%",
-          "mpRecovery": "5%"
+          "mpRecovery": "5"
         }
       }
     ],
@@ -785,7 +785,7 @@
         "stats": {
           "hp": "675",
           "dmgBonus": "9.6%",
-          "mpRecovery": "10%"
+          "mpRecovery": "10"
         }
       },
       {
@@ -805,7 +805,7 @@
         "stats": {
           "hp": "714",
           "dmgBonus": "9.8%",
-          "mpRecovery": "10%"
+          "mpRecovery": "10"
         }
       },
       {
@@ -825,7 +825,7 @@
         "stats": {
           "hp": "714",
           "dmgBonus": "9.8%",
-          "mpRecovery": "10%"
+          "mpRecovery": "10"
         }
       },
       {
@@ -845,7 +845,7 @@
         "stats": {
           "hp": "714",
           "dmgBonus": "9.8%",
-          "mpRecovery": "10%"
+          "mpRecovery": "10"
         }
       },
       {
@@ -865,7 +865,7 @@
         "stats": {
           "hp": "714",
           "dmgBonus": "9.8%",
-          "mpRecovery": "10%"
+          "mpRecovery": "10"
         }
       },
       {
@@ -1046,7 +1046,7 @@
         "stats": {
           "hp": "675",
           "dmgBonus": "9.6%",
-          "mpRecovery": "10%"
+          "mpRecovery": "10"
         }
       },
       {
