@@ -15,7 +15,11 @@
         "type": "Passive",
         "description": "When dealing direct damage with Basic Attacks, increases Physical Damage by 20% for 6s. Trigger Interval: 30s",
         "unlock": "0",
-        "rarity": "1"
+        "rarity": "1",
+        "stats": {
+          "hp": "675",
+          "dmgBonus": "9.6%"
+        }
       },
       {
         "lastUpdate": "",
@@ -30,7 +34,11 @@
         "type": "Passive",
         "description": "When taking damage at below 30% HP, increases Damage Resistance by 50% for 6s. Trigger Interval: 60s",
         "unlock": "1",
-        "rarity": "2"
+        "rarity": "2",
+        "stats": {
+          "hp": "714",
+          "dmgBonus": "9.8%"
+        }
       },
       {
         "lastUpdate": "",
@@ -45,7 +53,11 @@
         "type": "Passive",
         "description": "When dealing direct Basic Attack Damage, creates a Flame Star around the caster, lasting 6s. Reduces enemies' Magic Resistance by 50% (Magic Resistance Reduction), and deals [Damage Rate: 50%] Magic Damage every 1s. Trigger Interval: 30s",
         "unlock": "1",
-        "rarity": "2"
+        "rarity": "2",
+        "stats": {
+          "hp": "714",
+          "dmgBonus": "9.8%"
+        }
       },
       {
         "lastUpdate": "",
@@ -60,7 +72,11 @@
         "type": "Passive",
         "description": "When affected by hard control effects (Stun, Fear, Deep Freeze, Knockup, Petrify): Gains a [Target-based Max HP 25%] shield for 6s. Trigger Interval: 30s Skill",
         "unlock": "1",
-        "rarity": "2"
+        "rarity": "2",
+        "stats": {
+          "hp": "714",
+          "dmgBonus": "9.8%"
+        }
       },
       {
         "lastUpdate": "",
@@ -75,7 +91,11 @@
         "type": "Passive",
         "description": "When dealing direct Basic Attack Damage, triggers an EMP blast at current position. After 1s, deals [Damage Rate: 250%] Physical Damage to enemies within 6m, Stuns them for 1s and reduces their damage dealt by 20% for 6s Trigger Interval: 30s",
         "unlock": "1",
-        "rarity": "2"
+        "rarity": "2",
+        "stats": {
+          "hp": "714",
+          "dmgBonus": "9.8%"
+        }
       },
       {
         "lastUpdate": "",
@@ -90,7 +110,11 @@
         "type": "Passive",
         "description": "When dealing direct Basic Attack Damage, creates a sandstorm around the caster, lasting 6s. Enemies within 6m are slowed by 40% and disarmed. Trigger Interval: 30s",
         "unlock": "1",
-        "rarity": "3"
+        "rarity": "3",
+        "stats": {
+          "hp": "755",
+          "dmgBonus": "9.9%"
+        }
       },
       {
         "lastUpdate": "",
@@ -105,7 +129,11 @@
         "type": "Passive",
         "description": "When affected by Immobilize or Forced Movement (Knockback, Pull): Immediately removes all Immobilize, Slow and Forced Movement effects, and increases Damage Resistance by 25%, grants immunity to Slow, Immobilize, and Forced Movement for 8s. Trigger Interval: 30s.",
         "unlock": "1",
-        "rarity": "3"
+        "rarity": "3",
+        "stats": {
+          "hp": "755",
+          "dmgBonus": "9.9%"
+        }
       }
     ],
     "chest_strength": [
@@ -197,7 +225,11 @@
         "type": "Skill",
         "description": "Increases Damage Resistance by 30% and creates a weakening field around the caster, lasting 6s. Enemies within 7m deal 80% less damage and cannot enter Stealth.",
         "unlock": "1",
-        "rarity": "3"
+        "rarity": "3",
+        "stats": {
+          "armor": "331",
+          "magicResi": "251"
+        }
       },
       {
         "lastUpdate": "",
@@ -212,7 +244,11 @@
         "type": "Skill",
         "description": "Creates a converging force field. After 1.5s, deals Damage Rate: 250%] Physical Damage to enemies within 7m, pulls them to the center, Stuns them for 0.5s, and Slows them by 30% for 4s.",
         "unlock": "1",
-        "rarity": "3"
+        "rarity": "3",
+        "stats": {
+          "armor": "331",
+          "magicResi": "251"
+        }
       }
     ],
     "boots_strength": [
@@ -229,7 +265,11 @@
         "type": "Skill",
         "description": "Increases Movement Speed by 50% and restores [Healing Rate: 20%] HP every second for 5s.",
         "unlock": "1",
-        "rarity": "1"
+        "rarity": "1",
+        "stats": {
+          "hp": "675",
+          "dmgBonus": "9.6%"
+        }
       },
       {
         "lastUpdate": "June 6, 2025 02:46:00 AM",
@@ -244,7 +284,11 @@
         "type": "Skill",
         "description": "For every 10% HP lost, gains 1 stack of Movement Speed Increase by 17.5% and damage by 4.5% for 5s. Stacks up to 7 times.",
         "unlock": "1",
-        "rarity": "2"
+        "rarity": "2",
+        "stats": {
+          "hp": "714",
+          "dmgBonus": "9.8%"
+        }
       },
       {
         "lastUpdate": "",
@@ -259,7 +303,11 @@
         "type": "Skill",
         "description": "Leap to the target location. Upon landing, grants [Target-based Max HP 22%] Shield to nearby allies for 6s.",
         "unlock": "1",
-        "rarity": "2"
+        "rarity": "2",
+        "stats": {
+          "hp": "714",
+          "dmgBonus": "9.8%"
+        }
       },
       {
         "lastUpdate": "",
@@ -274,7 +322,11 @@
         "type": "Skill",
         "description": "Enhances Movement Speed by 30%, Max HP and Current HP by 80%, and grants Immunity to Forced Movement (Pull, Knockback) for 6s.",
         "unlock": "1",
-        "rarity": "2"
+        "rarity": "2",
+        "stats": {
+          "hp": "714",
+          "dmgBonus": "9.8%"
+        }
       },
       {
         "lastUpdate": "",
@@ -289,7 +341,11 @@
         "type": "Skill",
         "description": "Remove Slow and immobilize effects. Increases Movement Speed by 80% and gains immunity to Slow and immobilize effects for 4s.",
         "unlock": "1",
-        "rarity": "2"
+        "rarity": "2",
+        "stats": {
+          "hp": "714",
+          "dmgBonus": "9.8%"
+        }
       },
       {
         "lastUpdate": "",
@@ -304,7 +360,11 @@
         "type": "Skill",
         "description": "Charges forward 5 times, dealing [Damage Rate: 50%]. Physical Damage to enemies in path and knocking them back 4m each time. If knocked into terrain, enemies are stunned for 2s. Immune to control effects and gains +80% Damage. Resistance while charging.",
         "unlock": "1",
-        "rarity": "3"
+        "rarity": "3",
+        "stats": {
+          "hp": "755",
+          "dmgBonus": "9.9%"
+        }
       },
       {
         "lastUpdate": "",
@@ -319,7 +379,11 @@
         "type": "Skill",
         "description": "Leaps to the target location, dealing [Damage Rate: 150%] Physical Damage and inflicting Knockup for 1s to enemies upon landing. Then adjusts direction and leaps again toward the target, dealing another [Damage Rate: 150%] Physical Damage and inflicting Knockup for 1s on enemies upon landing. During the skill's duration, immune to control effects and gains +80% Damage Resistance.",
         "unlock": "1",
-        "rarity": "3"
+        "rarity": "3",
+        "stats": {
+          "hp": "755",
+          "dmgBonus": "9.9%"
+        }
       }
     ],
     "head_dexterity": [
@@ -336,7 +400,12 @@
         "type": "Passive",
         "description": "When taking damage at below 30% HP, immediately\nrestores [Healing Rate: 40%] HP every second for 5s.\nTrigger Interval: 60s",
         "unlock": "1",
-        "rarity": "1"
+        "rarity": "1",
+        "stats": {
+          "hp": "714",
+          "dmgBonus": "9.8%",
+          "mpRecovery": "5%"
+        }
       },
       {
         "lastUpdate": "June 6, 2025 02:46:00 AM",
@@ -351,7 +420,12 @@
         "type": "Passive",
         "description": "When using Basic Attack, the next 5 Basic Attacks\n(including the triggering one) within 8s cast additional\nChain Lightning onto enemy targets. Upon hitting, it\nautomatically ricochets to the nearest target, up to 5\ntimes, dealing [Damage Rate: 60%] Physical Damage per\nhit. (Trigger Interval: 0.6 seconds)\nDamage is influenced by Basic Attack damage boost and\ncan crit based on Basic Attack critical rate.\nCooldown: 30s",
         "unlock": "1",
-        "rarity": "2"
+        "rarity": "2",
+        "stats": {
+          "hp": "714",
+          "dmgBonus": "9.8%",
+          "mpRecovery": "5%"
+        }
       },
       {
         "lastUpdate": "",
@@ -366,7 +440,12 @@
         "type": "Passive",
         "description": "When taking damage at below 30% HP, instantly enters\nStealth and increases Movement Speed by 30% for 5s.\nAfter 1.5 seconds in Stealth, using a skill, dealing\ndamage, or inflicting healing will break Stealth.\nTrigger Interval: 60s",
         "unlock": "1",
-        "rarity": "2"
+        "rarity": "2",
+        "stats": {
+          "hp": "714",
+          "dmgBonus": "9.8%",
+          "mpRecovery": "5%"
+        }
       },
       {
         "lastUpdate": "June 6, 2025 02:46:00 AM",
@@ -381,7 +460,12 @@
         "type": "Passive",
         "description": "When taking damage from Basic Attacks, immediately\ngains +70% Dodge Enhancement for 6s.\nTrigger Interval: 25",
         "unlock": "1",
-        "rarity": "2"
+        "rarity": "2",
+        "stats": {
+          "hp": "714",
+          "dmgBonus": "9.8%",
+          "mpRecovery": "5%"
+        }
       },
       {
         "lastUpdate": "June 6, 2025 02:46:00 AM",
@@ -396,7 +480,12 @@
         "type": "Passive",
         "description": "When dealing direct damage with Basic Attacks, grants\n+10% Critical Rate and +35% Attack Speed for 9s.\nTrigger Interval: 25s",
         "unlock": "1",
-        "rarity": "2"
+        "rarity": "2",
+        "stats": {
+          "hp": "714",
+          "dmgBonus": "9.8%",
+          "mpRecovery": "5%"
+        }
       },
       {
         "lastUpdate": "",
@@ -411,7 +500,12 @@
         "type": "Passive",
         "description": "When taking damage at below 20% HP, prevents HP from\nfalling below 1 and regenerates [Healing Rate: 30%] HP\nevery second for 4s. Cannot be dispelled.\nTrigger Interval: 120s",
         "unlock": "1",
-        "rarity": "3"
+        "rarity": "3",
+        "stats": {
+          "hp": "755",
+          "dmgBonus": "9.9%",
+          "mpRecovery": "5%"
+        }
       },
       {
         "lastUpdate": "",
@@ -426,7 +520,12 @@
         "type": "Passive",
         "description": "When affected by hard control effects (Stun, Fear, Freeze,\nKnockup, Petrify, Sleep), Silence, or Immobilize:\nInstantly removes all control effects and debuffs, and\ngrants immunity to control effects and Silence, and\nincreases Speed by 25% for 4s.\nTrigger Interval: 45s.",
         "unlock": "1",
-        "rarity": "3"
+        "rarity": "3",
+        "stats": {
+          "hp": "755",
+          "dmgBonus": "9.9%",
+          "mpRecovery": "5%"
+        }
       }
     ],
     "chest_dexterity": [
@@ -518,7 +617,12 @@
         "type": "Skill",
         "description": "Deals [Damage Rate: 200%] Physical Damage to nearby\nenemies, reduces their Damage Resistance by 20% for 6s\nand increases own damage by 15% for 6s",
         "unlock": "1",
-        "rarity": "3"
+        "rarity": "3",
+        "stats": {
+          "dmgBonus": "25%",
+          "armor": "181",
+          "magicResi": "181"
+        }
       },
       {
         "lastUpdate": "",
@@ -533,7 +637,12 @@
         "type": "Skill",
         "description": "Creates a Rally aura around the caster, lasting 9s\nAllies within 7m gain +30% Attack Speed and +30%\nCooldown Speed",
         "unlock": "1",
-        "rarity": "3"
+        "rarity": "3",
+        "stats": {
+          "dmgBonus": "25%",
+          "armor": "181",
+          "magicResi": "181"
+        }
       }
     ],
     "boots_dexterity": [
@@ -550,7 +659,12 @@
         "type": "Skill",
         "description": "Step 9m toward target direction. Increases Movement\nSpeed by 40% for 4s.",
         "unlock": "1",
-        "rarity": "1"
+        "rarity": "1",
+        "stats": {
+          "hp": "675",
+          "dmgBonus": "9.6%",
+          "mpRecovery": "10%"
+        }
       },
       {
         "lastUpdate": "",
@@ -625,7 +739,12 @@
         "type": "Skill",
         "description": "Remove control effects and dash toward target direction.\nGain Control Immunity for 2s.\nCan be used while skills are disabled",
         "unlock": "1",
-        "rarity": "3"
+        "rarity": "3",
+        "stats": {
+          "hp": "755",
+          "dmgBonus": "9.9%",
+          "mpRecovery": "5%"
+        }
       },
       {
         "lastUpdate": "",
@@ -640,7 +759,12 @@
         "type": "Skill",
         "description": "Leave a mark at current position and dash to the target\nlocation. Upon arrival, deal [Damage Rate: 200%] Physical\nDamage to enemies in range and reduce their Damage\nResistance by 15% for 4s. Can be cast again within 5\nseconds to return to original position and gain 40%\nMovement Speed for 3s.",
         "unlock": "1",
-        "rarity": "3"
+        "rarity": "3",
+        "stats": {
+          "hp": "755",
+          "dmgBonus": "9.9%",
+          "mpRecovery": "5%"
+        }
       }
     ],
     "head_intelligence": [
@@ -657,7 +781,12 @@
         "type": "Passive",
         "description": "When casting skills, increases Magic Damage dealt by\n20% for 6s\nTrigger Interval: 30s",
         "unlock": "1",
-        "rarity": "1"
+        "rarity": "1",
+        "stats": {
+          "hp": "675",
+          "dmgBonus": "9.6%",
+          "mpRecovery": "10%"
+        }
       },
       {
         "lastUpdate": "",
@@ -672,7 +801,12 @@
         "type": "Passive",
         "description": "When healing, grants target a [Target-based Max HP 20%]\nshield for 6s\nTrigger Interval: 20s",
         "unlock": "1",
-        "rarity": "2"
+        "rarity": "2",
+        "stats": {
+          "hp": "714",
+          "dmgBonus": "9.8%",
+          "mpRecovery": "10%"
+        }
       },
       {
         "lastUpdate": "",
@@ -687,7 +821,12 @@
         "type": "Passive",
         "description": "When the skill damages an enemy target, it triggers an\nexplosion at their location, dealing [Damage Rate: 180%]\nMagic Damage to enemies in range and reducing their\nhealing received by 25% for 6s.\nTrigger Interval: 25s.",
         "unlock": "1",
-        "rarity": "2"
+        "rarity": "2",
+        "stats": {
+          "hp": "714",
+          "dmgBonus": "9.8%",
+          "mpRecovery": "10%"
+        }
       },
       {
         "lastUpdate": "",
@@ -702,7 +841,12 @@
         "type": "Passive",
         "description": "When skills deal direct damage, creates a poison zone\nlasting 6s. Enemies within 5m take [Damage Rate: 25%]\nMagic Damage every second and have their Magic\nResistance reduced by 20%.\nTrigger Interval: 30s",
         "unlock": "1",
-        "rarity": "2"
+        "rarity": "2",
+        "stats": {
+          "hp": "714",
+          "dmgBonus": "9.8%",
+          "mpRecovery": "10%"
+        }
       },
       {
         "lastUpdate": "",
@@ -717,7 +861,12 @@
         "type": "Passive",
         "description": "When casting skills with MP below 40%, gains 10 MP\nevery second for 8s.\nTrigger Interval: 45s",
         "unlock": "1",
-        "rarity": "2"
+        "rarity": "2",
+        "stats": {
+          "hp": "714",
+          "dmgBonus": "9.8%",
+          "mpRecovery": "10%"
+        }
       },
       {
         "lastUpdate": "",
@@ -732,7 +881,12 @@
         "type": "Passive",
         "description": "When taking damage at below 40% HP, gains a\n[Target-based Max HP 25%] shield and generates a\nrepulsion field lasting 6s. Enemies touching the field take\nDamage Rate: 100%] Magic Damage and are knocked\nback 7m.\nTrigger Interval: 45s",
         "unlock": "1",
-        "rarity": "3"
+        "rarity": "3",
+        "stats": {
+          "hp": "755",
+          "dmgBonus": "9.9%",
+          "mpRecovery": "10"
+        }
       },
       {
         "lastUpdate": "",
@@ -747,7 +901,12 @@
         "type": "Passive",
         "description": "When damage taken within 3s exceeds 35% of max HP,\ncreates a healing wave that restores [Healing Rate: 200%]\nHP to nearby allies and removes control effects.\nTrigger Interval: 45s",
         "unlock": "1",
-        "rarity": "3"
+        "rarity": "3",
+        "stats": {
+          "hp": "755",
+          "dmgBonus": "9.9%",
+          "mpRecovery": "10"
+        }
       }
     ],
     "chest_intelligence": [
@@ -839,7 +998,13 @@
         "type": "Skill",
         "description": "Gains a [Target-based Max HP 45%] shield for 6s. While\nthe shield exists, restores 20 MP each time taking\ndamage.",
         "unlock": "1",
-        "rarity": "3"
+        "rarity": "3",
+        "stats": {
+          "hp": "755",
+          "dmgBonus": "56%",
+          "armor": "64",
+          "magicResi": "119"
+        }
       },
       {
         "lastUpdate": "",
@@ -854,7 +1019,13 @@
         "type": "Skill",
         "description": "Creates a panic curse field around the caster that lasts\n6s\nEnemies within 6m who use skills take [Damage Rate:\n200%] Magic Damage and are affected by Fear for 1.5s",
         "unlock": "1",
-        "rarity": "3"
+        "rarity": "3",
+        "stats": {
+          "hp": "755",
+          "dmgBonus": "56%",
+          "armor": "64",
+          "magicResi": "119"
+        }
       }
     ],
     "boots_intelligence": [
@@ -871,7 +1042,12 @@
         "type": "Skill",
         "description": "Increases Movement Speed by 50% and restores 8 MP\nevery second for 5s.",
         "unlock": "1",
-        "rarity": "1"
+        "rarity": "1",
+        "stats": {
+          "hp": "675",
+          "dmgBonus": "9.6%",
+          "mpRecovery": "10%"
+        }
       },
       {
         "lastUpdate": "",
@@ -946,7 +1122,12 @@
         "type": "Skill",
         "description": "After 1.5s cast time, enters Ghost Form, increases\nMovement Speed by 70% and becomes immune to\ndamage and control effects for 4s. Cannot cast other\nskills or attack while in Ghost form.",
         "unlock": "1",
-        "rarity": "3"
+        "rarity": "3",
+        "stats": {
+          "hp": "755",
+          "dmgBonus": "9.9%",
+          "mpRecovery": "10"
+        }
       },
       {
         "lastUpdate": "",
@@ -961,7 +1142,12 @@
         "type": "Skill",
         "description": "Increases Movement Speed by 70% and damage by 20%\nfor 6s.\nWhen effect ends, reduces Damage Resistance by 15% for 4s",
         "unlock": "1",
-        "rarity": "3"
+        "rarity": "3",
+        "stats": {
+          "hp": "755",
+          "dmgBonus": "9.9%",
+          "mpRecovery": "10"
+        }
       }
     ]
   }
