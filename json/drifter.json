@@ -198,8 +198,8 @@
       "supportBonusValue": " +4.52",
       "supportMalusValue": " -3.01%",
       "stats": {
-        "Max HP Bonus": "3.7",
-        "Max MP Bonus": "2.5",
+        "Max HP Bonus": "3.7%",
+        "Max MP Bonus": "2.5%",
         "Attack Speed Bonus": "3%",
         "Casting Speed Bonus": "4.2%",
         "Skill Cooldown Rate Bonus": "0.84%",
